@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: leafpad 0.8.16\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-28 02:41+0900\n"
+"PO-Revision-Date: 2009-06-28 13:12+0100\n"
+"Last-Translator: Mario Blättermann <mario.blaettermann@t-online.de>\n"
+"Language-Team: German <translation-team-de@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d strings replaced"
+msgstr "%d Mal gefunden und ersetzt"
+
+msgid "'%s' already exists. Overwrite?"
+msgstr "»%s« existiert bereits. Überschreiben?"
+
+msgid "'%s' is not supported"
+msgstr "»%s« wird nicht unterstützt"
+
+msgid "/Edit/Cu_t"
+msgstr "/Bearbeiten/_Ausschneiden"
+
+msgid "/Edit/Select _All"
+msgstr "/Bearbeiten/_Alles markieren"
+
+msgid "/Edit/_Copy"
+msgstr "/Bearbeiten/_Kopieren"
+
+msgid "/Edit/_Delete"
+msgstr "/Bearbeiten/_Löschen"
+
+msgid "/Edit/_Paste"
+msgstr "/Bearbeiten/E_infügen"
+
+msgid "/Edit/_Redo"
+msgstr "/Bearbeiten/_Wiederholen"
+
+msgid "/Edit/_Undo"
+msgstr "/Bearbeiten/_Rückgängig"
+
+msgid "/File/Print Pre_view"
+msgstr "/Datei/Druck_vorschau"
+
+msgid "/File/Save _As..."
+msgstr "/Datei/Speichern _unter"
+
+msgid "/File/_New"
+msgstr "/Datei/_Neu"
+
+msgid "/File/_Open..."
+msgstr "/Datei/Ö_ffnen"
+
+msgid "/File/_Print..."
+msgstr "/Datei/_Drucken …"
+
+msgid "/File/_Quit"
+msgstr "/Datei/_Beenden"
+
+msgid "/File/_Save"
+msgstr "/Datei/_Speichern"
+
+msgid "/Help/_About"
+msgstr "/Hilfe/_Info"
+
+msgid "/Options/_Auto Indent"
+msgstr "/Optionen/_Auto-Einzug"
+
+msgid "/Options/_Font..."
+msgstr "/Optionen/_Schriftart …"
+
+msgid "/Options/_Line Numbers"
+msgstr "/Optionen/Zeilen_nummern"
+
+msgid "/Options/_Word Wrap"
+msgstr "/Optionen/_Zeilenumbruch"
+
+msgid "/Search/Find _Next"
+msgstr "/Suchen/_Weitersuchen"
+
+msgid "/Search/Find _Previous"
+msgstr "/Suchen/_Rückwärts suchen"
+
+msgid "/Search/_Find..."
+msgstr "/Suchen/_Suchen …"
+
+msgid "/Search/_Jump To..."
+msgstr "/Suchen/_Gehe zu …"
+
+msgid "/Search/_Replace..."
+msgstr "/Suchen/_Ersetzen …"
+
+msgid "/_Edit"
+msgstr "/_Bearbeiten"
+
+msgid "/_File"
+msgstr "/_Datei"
+
+msgid "/_Help"
+msgstr "/_Hilfe"
+
+msgid "/_Options"
+msgstr "/_Optionen"
+
+msgid "/_Search"
+msgstr "/_Suchen"
+
+msgid "About %s"
+msgstr "Info zu %s"
+
+msgid "Auto-Detect"
+msgstr "Automatisch erkennen"
+
+msgid "C_haracter Coding:"
+msgstr "Zeic_henkodierung: "
+
+msgid "C_redits"
+msgstr "_Mitwirkende"
+
+msgid "Can't convert codeset to '%s'"
+msgstr "Der Zeichensatz kann nicht nach »%s« konvertiert werden"
+
+msgid "Can't open file to write"
+msgstr "Die Datei kann nicht zum Schreiben geöffnet werden"
+
+msgid "Can't write file"
+msgstr "Die Datei kann nicht geschrieben werden"
+
+msgid "Code_set:"
+msgstr "_Zeichensatz:"
+
+msgid "Credits"
+msgstr "Mitwirkende"
+
+msgid "Current Locale (%s)"
+msgstr "Derzeitige Standorteinstellung (%s)"
+
+msgid "Documented by"
+msgstr "Dokumentation von"
+
+msgid "Fi_nd what:"
+msgstr "_Suchen nach: "
+
+msgid "Find"
+msgstr "Suchen"
+
+msgid "Font"
+msgstr "Schriftart"
+
+msgid "GTK+ based simple text editor"
+msgstr "Einfacher auf GTK+ basierender Texteditor"
+
+msgid "Jump To"
+msgstr "Gehe zu"
+
+msgid "Open"
+msgstr "Öffnen"
+
+msgid "Other Codeset"
+msgstr "Anderer Zeichensatz"
+
+msgid "Print"
+msgstr "Drucken"
+
+msgid "Print Preview"
+msgstr "Druckvorschau"
+
+msgid "Re_place with:"
+msgstr "_Ersetzen durch: "
+
+msgid "Replace"
+msgstr "Ersetzen"
+
+msgid "Replace _all at once"
+msgstr "_Alles ersetzen"
+
+msgid "Replace?"
+msgstr "Ersetzen?"
+
+msgid "Save As"
+msgstr "Speichern unter"
+
+msgid "Save changes to '%s'?"
+msgstr "Änderungen an »%s« speichern?"
+
+msgid "Search string not found"
+msgstr "Gesuchter Text wurde nicht gefunden"
+
+msgid "Simple text editor"
+msgstr "Einfacher Texteditor"
+
+msgid "Translated by"
+msgstr "Übersetzung von"
+
+msgid "Untitled"
+msgstr "Unbenannt"
+
+msgid "Written by"
+msgstr "Programm von"
+
+msgid "_Credits"
+msgstr "_Mitwirkende"
+
+msgid "_Jump"
+msgstr "_Gehe zu"
+
+msgid "_Line number:"
+msgstr "Zeilen_nummer: "
+
+msgid "_Match case"
+msgstr "_Groß-/Kleinschreibung berücksichtigen"
+
+msgid "translator-credits"
+msgstr ""
+"Sebastian Stach <sebsta@t-online.de>\n"
+"Ruediger Arp <ruediger@gmx.net>\n"
+"Mario Blättermann <mariobl@gnome.org>"

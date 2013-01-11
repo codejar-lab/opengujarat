@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: parole master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-20 11:45+0200\n"
+"PO-Revision-Date: 2013-01-10 16:24+0530\n"
+"Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
+"Language-Team: German <gnome-de@gnome.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid ""
+"\n"
+"Parole Media Player %s\n"
+"\n"
+"Part of the Xfce Goodies Project\n"
+"http://goodies.xfce.org\n"
+"\n"
+"Licensed under the GNU GPL.\n"
+"\n"
+msgstr ""
+"\n"
+"પેરોલ મીડિયા પ્લયેર %s\n"
+"\n"
+"Teil des Projekts Xfce-Goodies\n"
+"http://goodies.xfce.org\n"
+"\n"
+"Lizensiert unter der GNU GPL.\n"
+"\n"
+
+msgid "16:9 (Widescreen)"
+msgstr "16:9 (વાઈડ-સ્ક્રીન)"
+
+msgid "20:9 (DVB)"
+msgstr "20:9 (DVB)"
+
+msgid "4:3 (TV)"
+msgstr "4:3 (TV)"
+
+msgid "<b>Audio</b>"
+msgstr "<b>ઓડિયો</b>"
+
+msgid "<b>Author:</b>"
+msgstr "<b>કર્તા:</b>"
+
+msgid "<b>Description:</b>"
+msgstr "<b>વર્ણન:</b>"
+
+msgid "<b>Display</b>"
+msgstr "<b>ડિસ્પ્લે</b>"
+
+msgid "<b>Duration:</b>"
+msgstr "<b>અવધિ:</b>"
+
+msgid "<b>Playing:</b>"
+msgstr "<b>Wiedergabe:</b>"
+
+msgid "<b>Site:</b>"
+msgstr "<b>સાઈટ:</b>"
+
+msgid "<b>Subtitles</b>"
+msgstr "<b>સબટાઈટલ</b>"
+
+msgid "<b>Video</b>"
+msgstr "<b>વિડીયો</b>"
+
+msgid "Advanced Stream Redirector"
+msgstr "એડવાન્સ સ્ટ્રીમ રીડાયરેક્ટર"
+
+msgid "Album:"
+msgstr "આલ્બમ:"
+
+msgid "All supported files"
+msgstr "બધી સપોર્ટેડ ફાઈલ્સ"
+
+msgid "Always minimize to tray when window is closed"
+msgstr ""
+"Immer ins Benachrichtigungsfeld minimieren, wenn das Fenster geschlossen wird"
+
+msgid "Are you sure you want to quit Parole"
+msgstr "શું તમે પેરોલને બંધ કરવા માગો છો?"
+
+msgid "Artist:"
+msgstr "કલાકાર:"
+
+msgid "Audio"
+msgstr "ઓડિયો"
+
+msgid "Audio and video"
+msgstr "ઓડિયો અને વિડીયો"
+
+msgid "Auto"
+msgstr "સ્વતઃ"
+
+msgid "Brightness:"
+msgstr "Helligkeit:"
+
+msgid "Buffering"
+msgstr "Puffervorgang"
+
+msgid "By Extension"
+msgstr "Nach Dateierweiterung"
+
+msgid "Contrast:"
+msgstr "કોન્ટ્રાસ્ટ:"
+
+msgid "Current Locale"
+msgstr "વર્તમાન ભાષા"
+
+msgid "Do not load plugins"
+msgstr "પ્લગ-ઇન્સ લોડ ન કરો "
+
+msgid "Enable notification"
+msgstr "નોટીફિકેશન સક્રિય કરો"
+
+msgid "Enable visualization when playing audio file"
+msgstr "ગીત વગાડતી વખતે વિઝ્યુલાઇઝેશન સક્રિય કરો"
+
+msgid "Enabled"
+msgstr "સક્રિય"
+
+msgid "Enabled/Disable XV support"
+msgstr "સક્રિય/નિષ્ક્રય XV સપોર્ટ"
+
+msgid "Error"
+msgstr "ત્રુટી"
+
+msgid "Error saving playlist file"
+msgstr "પ્લેલીસ્ટ ફાઈલ સેવ કરવામાં ત્રુટી"
+
+msgid "Font:"
+msgstr "ફોન્ટ:"
+
+msgid "From ISO image"
+msgstr "ISO image માંથી"
+
+msgid "General"
+msgstr "સામાન્ય"
+
+msgid "Gujarati"
+msgstr "ગુજરાતી"
+
+msgid "Hindi"
+msgstr "હિન્દી"
+
+msgid "Hue:"
+msgstr "રંગ:"
+
+msgid "Inhibit Power Manager from suspending the machine while playing DVD."
+msgstr ""
+"Hindert die Energieverwaltung am Herunterfahren des Computers, während eine "
+"DVD wiedergegeben wird."
+
+msgid "Lower volume"
+msgstr "ધીમો અવાજ"
+
+msgid "M3U Playlists"
+msgstr "M3U પ્લેલિસ્ટસ"
+
+msgid "Media Player Settings"
+msgstr "મીડિયા પ્લયેર સેટિંગ્સ"
+
+msgid "Media Player plugins"
+msgstr "મીડિયા પ્લયેર પ્લગ-ઇન્સ"
+
+msgid "Media list"
+msgstr "મીડિયા યાદી"
+
+msgid "Media player"
+msgstr "મીડિયા પ્લયેર"
+
+msgid "Media stream is not seekable"
+msgstr "Medien-Stream ist nicht durchsuchbar"
+
+msgid "Media to play"
+msgstr "Medien zum Abspielen"
+
+msgid "Message"
+msgstr "સંદેશ"
+
+msgid "Minimize to tray"
+msgstr "Ins Benachrichtigungsfeld minimieren"
+
+msgid "Minimize to tray?"
+msgstr "Ins Benachrichtigungsfeld minimieren?"
+
+msgid "Mute volume"
+msgstr "મ્યુટ કરો "
+
+msgid "Next track"
+msgstr "આગામી ટ્રેક"
+
+msgid "No installed plugins found on this system"
+msgstr "આ સિસ્ટમમાં ઈન્સ્ટોલ થયેલ પ્લગ-ઇન મળેલ નથી"
+
+msgid "None"
+msgstr "કઈ નહિ"
+
+msgid "Nordic"
+msgstr "Nordisch"
+
+msgid "Open Containing Folder"
+msgstr "શામેલ ફોલ્ડર ખોલો"
+
+msgid "Open ISO image"
+msgstr "ISO image ખોલો"
+
+msgid "Open a new instance"
+msgstr "Eine neue Instanz öffnen"
+
+msgid "Open media files"
+msgstr "મીડિયા ફાઈલ્સ ખોલો "
+
+msgid "PLS Playlists"
+msgstr "PLS-Wiedergabelisten"
+
+msgid "Parole"
+msgstr "પેરોલ"
+
+msgid "Parole Media Chooser"
+msgstr "પેરોલ મીડિયા પસંદગીકાર"
+
+msgid "Parole Media Player"
+msgstr "પેરોલ મીડિયા પ્લયેર"
+
+msgid "Parole Plugins"
+msgstr "પેરોલ પ્લગ-ઇન્સ "
+
+msgid "Parole Settings"
+msgstr "પેરોલ સેટિંગ્સ"
+
+msgid "Parole is already running, use -i to open a new instance\n"
+msgstr "પેરોલ ચાલુ છે, બીજું પેરોલ ખોલવા -i નો ઉપયોગ કરો\n"
+
+msgid "Permission denied"
+msgstr "પરવાનગી નથી "
+
+msgid "Play Disc"
+msgstr "પ્લે ડિસ્ક"
+
+msgid "Play opened files"
+msgstr "ખુલેલી ફાઈલ્સ પ્લે કરો"
+
+msgid "Play or pause if already playing"
+msgstr "Wiedergabe (oder Pause, falls Wiedergabe läuft)"
+
+msgid "Playlist"
+msgstr "પ્લેલીસ્ટ"
+
+msgid "Playlist files"
+msgstr "પ્લેલીસ્ટ ફાઈલ્સ"
+
+msgid "Please chooser a supported playlist format"
+msgstr "સપોર્ટેડ પ્લેલીસ્ટ પ્રકાર પસંદ કરો"
+
+msgid "Plugin"
+msgstr "પ્લગ-ઇન "
+
+msgid "Power Manager Plugin"
+msgstr "પાવર મેનેજર પ્લગ-ઇન "
+
+msgid "Previous track"
+msgstr "આગલો ટ્રેક"
+
+msgid "Properties"
+msgstr "પ્રોપર્ટીસ"
+
+msgid "Raise volume"
+msgstr "અવાજ વધારો"
+
+msgid "Read media properties"
+msgstr "મીડિયા પ્રોપર્ટીને વાંચો"
+
+msgid "Remember my choice"
+msgstr "મારી પસંદગી યાદ રાખો"
+
+msgid "Remember playlist"
+msgstr "પ્લેલીસ્ટ યાદ રાખો"
+
+msgid "Repeat"
+msgstr "પુનરાવર્તિત કરો"
+
+msgid "Replace playlist when opening files"
+msgstr "ફાઈલ ખોલતી વખતે પ્લેલીસ્ટ પ્રસ્થાપિત કરો"
+
+msgid "Replace playlist with opened files"
+msgstr "ખુલેલી ફાઈલ્સ સાથે પ્લેલીસ્ટ પ્રસ્થાપિત કરો"
+
+msgid "Save media tags changes"
+msgstr "મીડિયા ટેગનો ફેરફાર સેવ કરો"
+
+msgid "Scan folders recursively"
+msgstr "ફોલ્ડર્સને અંદરોઅંદર તપાસો"
+
+msgid "Seek Backward"
+msgstr "પાછળ કરો "
+
+msgid "Seek forward"
+msgstr "આગળ કરો"
+
+msgid "Select File Types (By Extension)"
+msgstr "ફાઈલ ટાયપ સેલેક્ટ કરો (By Extension)"
+
+msgid "Set Audio-CD/VCD/DVD device path"
+msgstr "Audio-CD/VCD/DVD ઉપકરણ પાથ સેટ કરો "
+
+msgid "Shareable Playlist"
+msgstr "વહેંચવાપાત્ર પ્લેલીસ્ટ"
+
+msgid "Show icon in the system tray"
+msgstr "સિસ્ટમ ટ્રે માં આયકોન બતાવો"
+
+msgid "Shuffle"
+msgstr "શફલ"
+
+msgid "Sound"
+msgstr "અવાજ"
+
+msgid "Square"
+msgstr "ચોરસ"
+
+msgid "Start in fullscreen mode"
+msgstr "પૂર્ણસ્ક્રીન મોડમાં શરુ કરો "
+
+msgid "Start playing opened files"
+msgstr "ખોલેલી ફાઈલ્સ શરુ કરો "
+
+msgid "Stop"
+msgstr "થોભો"
+
+msgid "Stop playing"
+msgstr "વગાડવાનું રોકો "
+
+msgid "Stream Properties"
+msgstr "સ્ટ્રીમ પ્રોપર્ટીઝ"
+
+msgid "Stream doesn't support tags changes"
+msgstr "ટેગ ફેરફાર સ્ટ્રીમને માન્ય નથી"
+
+msgid "The stream is taking too much time to load"
+msgstr "સ્ટ્રીમને લોડ થવામાં વધુ સમય લાગી રહ્યો છે"
+
+msgid "Title:"
+msgstr "શીર્ષક:"
+
+msgid "Tray icon"
+msgstr "ટ્રે આયકોન"
+
+msgid "Tray icon plugin"
+msgstr "ટ્રે આયકોન પ્લગ-ઇન"
+
+msgid ""
+"Unable to load playbin GStreamer plugin, check your GStreamer installation"
+msgstr ""
+
+msgid ""
+"Unable to load video GStreamer plugin, check your GStreamer installation"
+msgstr ""
+"Video-GStreamer-Plugin kann nicht geladen werden, überprüfen Sie Ihre "
+"GStreamer-Installation"
+
+msgid "Unicode"
+msgstr "Unicode"
+
+msgid "Unknown"
+msgstr "અજ્ઞાત"
+
+msgid "Unknown argument "
+msgstr "અજ્ઞાત અર્ગ્યુંમેન્ટ"
+
+msgid "Unknown playlist format"
+msgstr "અજ્ઞાત પ્લેલીસ્ટ ફોર્મેટ"
+
+msgid "Version information"
+msgstr "આવૃત્તિ માહિતી "
+
+msgid "Video"
+msgstr "વિડીયો"
+
+msgid "Visit Website"
+msgstr "વેબસાઇટની મુલાકાત લો"
+
+msgid "Visualization type:"
+msgstr "વિઝ્યુલાઇઝેશન પ્રકાર:"
+
+msgid "Western"
+msgstr "વેસ્ટર્ન"
+
+msgid "Year:"
+msgstr "વર્ષ:"
+
+msgid "_Edit"
+msgstr "_સંપાદન"
+
+msgid "_Help"
+msgstr "_મદદ"
+
+msgid "_Media"
+msgstr "_મીડિયા"
+
+msgid "_View"
+msgstr "_દેખાવ"

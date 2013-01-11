@@ -1,0 +1,1211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: blueman\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2010-01-29 14:44+0200\n"
+"PO-Revision-Date: 2010-02-22 13:29+0000\n"
+"Last-Translator: benste <Benedict.Stein+ubuntu@gmail.com>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2010-02-23 05:02+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+msgid "%(service)s on %(device)s"
+msgstr "%(service)s auf %(device)s"
+
+msgid "%.0f Minute"
+msgid_plural "%.0f Minutes"
+msgstr[0] "%.0f Minute"
+msgstr[1] "%.0f Minuten"
+
+msgid "%.0f Second"
+msgid_plural "%.0f Seconds"
+msgstr[0] "%.0f Sekunde"
+msgstr[1] "%.0f Sekunden"
+
+msgid "%d %s %d %s and %d %s"
+msgstr "%d %s %d %s und %d %s"
+
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] "%d Minute"
+msgstr[1] "%d Minuten"
+
+msgid "<b>%d Active Connection</b>"
+msgid_plural "<b>%d Active Connections</b>"
+msgstr[0] "<b>%d aktive Verbindung</b>"
+msgstr[1] "<b>%d aktive Verbindungen</b>"
+
+msgid "<b>Adding Device...</b>"
+msgstr "<b>Füge Gerät hinzu...</b>"
+
+msgid "<b>Advanced</b>"
+msgstr "<b>Erweitert</b>"
+
+msgid ""
+"<b>After applying these settings Bluetooth daemon will be restarted.</b>"
+msgstr ""
+"<b>Der Bluetooth Service wird neu gestartet, nachdem die Änderungen "
+"übernommen wurden.</b>"
+
+msgid "<b>Audio Settings</b>"
+msgstr "<b>Audio-Einstellungen</b>"
+
+msgid "<b>Author:</b>"
+msgstr "<b>Autor:</b>"
+
+msgid "<b>Bluetooth Off</b>"
+msgstr "<b>Bluetooth aus</b>"
+
+msgid "<b>Bonded</b>"
+msgstr "<b>Gekoppelt</b>"
+
+msgid "<b>Conflicts with:</b>"
+msgstr "<b>Steht im Konflikt mit:</b>"
+
+msgid "<b>Congratulations, device successfully added</b>"
+msgstr "<b>Gratulation, Gerät erfolgreich hinzugefügt</b>"
+
+msgid "<b>Connect To:</b>"
+msgstr "<b>Verbinden mit:</b>"
+
+msgid "<b>Connect to:</b>"
+msgstr "<b>Verbinde mit:</b>"
+
+msgid ""
+"<b>Connected</b>\n"
+"<b>Received Signal Strength: %(rssi)u%%</b> <i>(%(rssi_state)s)</i>\n"
+"Link Quality: %(lq)u%%\n"
+"Transmit Power Level: %(tpl)u%% <i>(%(tpl_state)s)</i>"
+msgstr ""
+"<b>Verbunden</b>\n"
+"<b>Signalstärke: %(rssi)u%%</b> <i>(%(rssi_state)s)</i>\n"
+"Verbindungsqualität: %(lq)u%%\n"
+"Übertragungsstärke: %(tpl)u%% <i>(%(tpl_state)s)</i>"
+
+msgid ""
+"<b>Connected</b>\n"
+"Received Signal Strength: %(rssi)u%% <i>(%(rssi_state)s)</i>\n"
+"<b>Link Quality: %(lq)u%%</b>\n"
+"Transmit Power Level: %(tpl)u%% <i>(%(tpl_state)s)</i>"
+msgstr ""
+"<b>Verbunden</b>\n"
+"Signalstärke: %(rssi)u%% <i>(%(rssi_state)s)</i>\n"
+"<b>Verbindungsqualität: %(lq)u%%</b>\n"
+"Übertragungsstärke: %(tpl)u%% <i>(%(tpl_state)s)</i>"
+
+msgid ""
+"<b>Connected</b>\n"
+"Received Signal Strength: %(rssi)u%% <i>(%(rssi_state)s)</i>\n"
+"Link Quality: %(lq)u%%\n"
+"<b>Transmit Power Level: %(tpl)u%%</b> <i>(%(tpl_state)s)</i>"
+msgstr ""
+"<b>Verbunden</b>\n"
+"Signalstärke: %(rssi)u%% <i>(%(rssi_state)s)</i>\n"
+"Verbindungsqualität: %(lq)u%%\n"
+"<b>Übertragungsstärke: %(tpl)u%%</b> <i>(%(tpl_state)s)</i>"
+
+msgid "<b>DUN Support</b>"
+msgstr "<b>DUN-Unterstützung</b>"
+
+msgid "<b>Depends on:</b>"
+msgstr "<b>Ist abhängig von:</b>"
+
+msgid ""
+"<b>Deprecated</b>\n"
+"Makes DUN/PAN connections available for NetworkManager 0.7"
+msgstr ""
+"<b>abgelehnt</b>\n"
+"Mache DUN/PAN Verbindungen für NetzwerkManager 0.7 verfügbar"
+
+msgid "<b>Device added and connected successfuly</b>"
+msgstr "<b>Gerät erfolgreich hinzugefügt und verbunden</b>"
+
+msgid "<b>Device added successfuly, but failed to connect</b>"
+msgstr "<b>Gerät erfolgreich hinzugefügt, aber Verbindung fehlgeschlagen</b>"
+
+msgid "<b>Disconnect:</b>"
+msgstr "Trennen:"
+
+msgid "<b>Downloaded:</b>"
+msgstr "<b>Heruntergeladen:</b>"
+
+msgid "<b>Failed to add device</b>"
+msgstr "<b>Hinzufügen des Geräts fehlgeschlagen</b>"
+
+msgid "<b>File Receiving (Object Push)</b>"
+msgstr "<b>Datei empfangen (Object Push)</b>"
+
+msgid "<b>File Sharing (FTP)</b>"
+msgstr "<b>Dateifreigabe (FTP)</b>"
+
+msgid "<b>File:</b>"
+msgstr "<b>Datei:</b>"
+
+msgid "<b>Friendly Name</b>"
+msgstr "<b>leslicher Name</b>"
+
+msgid "<b>GSM settings</b>"
+msgstr "<b>GSM-Einstellungen</b>"
+
+msgid "<b>Log duration:</b>"
+msgstr "<b>Protokoll-Dauer:</b>"
+
+msgid "<b>Log started:</b>"
+msgstr "<b>Protokoll gestartet:</b>"
+
+msgid "<b>NAP Settings</b>"
+msgstr "<b>NAP-Einstellungen</b>"
+
+msgid "<b>Network Settings</b>"
+msgstr "<b>Netzwerk-Einstellungen</b>"
+
+msgid "<b>No DHCP servers installed</b>"
+msgstr "<b>Keine DHCP-Server installiert</b>"
+
+msgid "<b>PAN Support</b>"
+msgstr "<b>PAN-Unterstützung</b>"
+
+msgid ""
+"<b>Pairing in progress...</b>\n"
+"\n"
+"Enter passkey <b>%s</b> on the device."
+msgstr ""
+"<b>Bekanntmachung läuft...</b>\n"
+"\n"
+"Passwort <b>%s</b> auf dem Gerät eingeben."
+
+msgid "<b>Please wait...</b>"
+msgstr "<b>Bitte warten...</b>"
+
+msgid "<b>Plugin description:</b>"
+msgstr "<b>Beschreibung der Erweiterung:</b>"
+
+msgid "<b>Select pairing method to use:</b>"
+msgstr "<b>Kopplungs-Methode wählen:</b>"
+
+msgid "<b>Services</b>"
+msgstr "<b>Dienste</b>"
+
+msgid "<b>To:</b>"
+msgstr "<b>Nach:</b>"
+
+msgid "<b>Total:</b>"
+msgstr "<b>Gesamt:</b>"
+
+msgid "<b>Transfer Settings</b>"
+msgstr "<b>Übertragungseinstellungen</b>"
+
+msgid "<b>Trusted and Bonded</b>"
+msgstr "<b>Vertrauenswürdig und gekoppelt</b>"
+
+msgid "<b>Trusted</b>"
+msgstr "Vertrauenswürdig"
+
+msgid "<b>Turn Bluetooth Off</b>"
+msgstr "<b>Bluetooth ausschalten</b>"
+
+msgid "<b>Turn Bluetooth On</b>"
+msgstr "<b>Bluetooth einschalten</b>"
+
+msgid "<b>Uploaded:</b>"
+msgstr "<b>Hochgeladen:</b>"
+
+msgid "<b>Visibility Setting</b>"
+msgstr "<b>Sichtbarkeitseinstellung</b>"
+
+msgid "<span weight=\"bold\" size=\"large\">Sending files via Bluetooth</span>"
+msgstr ""
+"<span weight=\"bold\" size=\"large\">Dateien über Bluetooth versenden</span>"
+
+msgid "A2DP Sink (Send Audio)"
+msgstr "A2DP lässt nach (sende Audio)"
+
+msgid "A2DP Source (Receive Audio)"
+msgstr "A2DP Quelle (Audioempfang)"
+
+msgid "APN:"
+msgstr "APN:"
+
+msgid "Accept"
+msgstr "Annehmen"
+
+msgid "Accept files from trusted devices"
+msgstr "Dateien von vertrauenswürdigen Geräten annehmen"
+
+msgid "Adap_ters"
+msgstr "Adap_ter"
+
+msgid "Adapter for this connection is not available"
+msgstr "Adapter für diese Verbindung ist nicht verfügbar"
+
+msgid "Adapter selection"
+msgstr "Adapterauswahl"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Add Device"
+msgstr "Gerät hinzufügen"
+
+msgid "Add this device to known devices list"
+msgstr "Dieses Gerät zur Liste der bekannten Geräte hinzufügen"
+
+msgid "Adding"
+msgstr "Hinzufügen"
+
+msgid ""
+"Advanced Audio receiver <span weight='bold' color='#cc0000'>Experimental!</"
+"span>"
+msgstr ""
+"Erweiterter Audio Empfänger <span weight='bold' "
+"color='#cc0000'>Experimentell!</span>"
+
+msgid "Allow devices to write/delete"
+msgstr "Geräten schreiben/lesen erlauben"
+
+msgid "Allows this computer to act like a handsfree headset."
+msgstr "Erlaube, diesen Computer wie eine Freisprecheinrichtung zu benutzen."
+
+msgid "Allows to receive audio from remote device"
+msgstr "Erlaube das Empfangen von Audio von einem entfernten Gerät"
+
+msgid "Allows to send audio to remote device"
+msgstr "Erlaube das Senden von Audio an entfernte Geräte"
+
+msgid ""
+"Allows you to monitor your (mobile broadband) network traffic usage. Useful "
+"for limited data access plans. This plugin tracks every device seperately."
+msgstr ""
+"Erlaube den Verbrauch deines (mobilen Breitbandes) Netzwerkes zu beobachten. "
+"Dies ist nützlich, wenn man den Datenzugriff beschränken will. Dieses Plugin "
+"zeigt jedes Gerät einzeln an."
+
+msgid "Already connected"
+msgstr "Schon verbunden"
+
+msgid "Always"
+msgstr "Immer"
+
+msgid "Always accept"
+msgstr "Immer annehmen"
+
+msgid "Always visible"
+msgstr "Immer sichtbar"
+
+msgid "Amount of time in seconds discoverable mode will last"
+msgstr "Zeitspanne (in Sekunden) die der Adapter sichtbar sein wird"
+
+msgid "Applet's transfer service plugin is disabled"
+msgstr "Das Plugin für den Datentransferservice ist deaktiviert"
+
+msgid "Are you sure you want to reset the counter?"
+msgstr "Möchten Sie den Zähler wirklich zurücksetzen?"
+
+msgid "Audio Sink"
+msgstr "Ton lässt nach"
+
+msgid "Audio Source"
+msgstr "Audio-Quelle"
+
+msgid "Authorization request for:"
+msgstr "Autorisierungsanfrage für:"
+
+msgid "Blueman Applet"
+msgstr "Blueman-Applet"
+
+msgid "Blueman Bluetooth Manager"
+msgstr "Blueman Bluetooth-Manager"
+
+msgid "Blueman is a GTK based Bluetooth manager"
+msgstr "Blueman ist ein GTK-basierter Bluetooth-Manager"
+
+msgid "Bluetooth Active"
+msgstr "Bluetooth aktiv"
+
+msgid "Bluetooth Adapters"
+msgstr "Bluetooth-Adapter"
+
+msgid "Bluetooth Assistant"
+msgstr "Bluetooth-Assistent"
+
+msgid "Bluetooth Audio"
+msgstr "Bluetooth Audio"
+
+msgid "Bluetooth Authentication"
+msgstr "Bluetooth Authentifizierung"
+
+msgid "Bluetooth Configuration"
+msgstr "Bluetooth-Konfiguration"
+
+msgid "Bluetooth Devices"
+msgstr "Bluetooth-Geräte"
+
+msgid "Bluetooth Dialup"
+msgstr "Bluetooth Dialup"
+
+msgid "Bluetooth Disabled"
+msgstr "Bluetooth deaktiviert"
+
+msgid "Bluetooth Enabled"
+msgstr "Bluetooth aktiviert"
+
+msgid "Bluetooth File Transfer"
+msgstr "Bluetooth-Dateitransfer"
+
+msgid "Bluetooth Manager"
+msgstr "Bluetooth-Manager"
+
+msgid "Bluetooth Network"
+msgstr "Bluetooth-Netzwerk"
+
+msgid "Bluetooth Turned Off"
+msgstr "Bluetooth ausgeschaltet"
+
+msgid "Bluetooth needs to be turned on for file sending to work"
+msgstr ""
+"Bluetooth muss eingeschaltet sein, damit Dateien verschickt werden können"
+
+msgid "Bluetooth needs to be turned on for the adapter manager to work"
+msgstr ""
+"Bluetooth muss eingeschaltet sein, damit der Adapter-Manager funktioniert"
+
+msgid "Bluetooth needs to be turned on for the device manager to function"
+msgstr ""
+"Bluetooth muss eingeschaltet sein, damit der Gerätemanager funktioniert"
+
+msgid "Browse"
+msgstr "Durchsuchen"
+
+msgid "Browse the device using obex ftp"
+msgstr "Gerät mittels obex ftp durchsuchen"
+
+msgid "Browse this device"
+msgstr "Gerät durchsuchen"
+
+msgid "CDMA or GSM not supported"
+msgstr "CDMA und GSM werden nicht unterstützt"
+
+msgid "Cancel Operation"
+msgstr "Vorgang abbrechen"
+
+msgid "Cancelled"
+msgstr "Abgebrochen"
+
+msgid "Cancelling"
+msgstr "Abbruch"
+
+msgid "Changing Bluetooth system settings requires privileges"
+msgstr "Bluetooth-Systemeinstellungen zu ändern erfordert Privilegien"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Command"
+msgstr "Befehl"
+
+msgid "Command to execute when answer button is pressed:"
+msgstr "Auszuführender Befehl, wenn Rufannahmeknopf gedrückt wird:"
+
+msgid ""
+"Command to start an obex ftp browser.\n"
+"<i>%d</i> is substituted with device address."
+msgstr ""
+"Befehl zum Starten eines OBEX FTP-Browsers.\n"
+"<i>%d</i> wird ersetzt durch die Geräteadresse."
+
+msgid "Configuration"
+msgstr "Einstellungen"
+
+msgid "Configure Bluetooth Modems"
+msgstr "Bluetooth-Modems konfigurieren"
+
+msgid "Configure Bluetooth Network"
+msgstr "Bluetooth-Netzwerk konfigurieren"
+
+msgid "Configure selected plugin's preferences"
+msgstr "Konfiguriere die Einstellungen des ausgewählten Plugins"
+
+msgid "Configuring networking requires privileges"
+msgstr "Die Konfiguration des Netzwerkes erfordert Privilegien"
+
+msgid "Confirm"
+msgstr "Bestätigen"
+
+msgid "Confirm value"
+msgstr "Wert bestätigen"
+
+msgid "Confirm value for authentication:"
+msgstr "Wert zur Authentifizierung bestätigen:"
+
+msgid "Connected"
+msgstr "Verbunden"
+
+msgid "Connected to %s"
+msgstr "Verbunden mit %s"
+
+msgid "Connected:"
+msgstr "Verbunden:"
+
+msgid "Connecting"
+msgstr "Verbinde"
+
+msgid "Connecting to %s"
+msgstr "Verbinde mit %s"
+
+msgid "Connecting..."
+msgstr "Verbinden..."
+
+msgid "Connection Failed: "
+msgstr "Verbindung fehlgeschlagen: "
+
+msgid "Connection to BlueZ failed"
+msgstr "Verbindung mit BlueZ fehlgeschlagen"
+
+msgid "Create pairing with the device"
+msgstr "Kopplung mit dem Gerät herstellen"
+
+msgid "DHCP server type:"
+msgstr "DHCP-Servertyp:"
+
+msgid "DUN connection on %s will now be available in Network Manager"
+msgstr "DUN Verbindung auf %s wird im Netzwerk-Manager verfügbar sein"
+
+msgid "Data activity indication"
+msgstr "Anzeige von Datenaktivität"
+
+msgid "Deny"
+msgstr "Verweigern"
+
+msgid "Dependency issue"
+msgstr "Abhängigkeitsproblem"
+
+msgid "Device Manager"
+msgstr "Geräteverwaltung"
+
+msgid "Device search progress"
+msgstr "Fortschritt der Gerätesuche"
+
+msgid "Dialup Networking (DUN)"
+msgstr "Einwahl-Netzwerk (DUN)"
+
+msgid "Dialup Service"
+msgstr "Einwahl-Dienst"
+
+msgid "Dialup Settings"
+msgstr "Einwahl-Einstellungen"
+
+msgid "Disconnecting..."
+msgstr "Trenne ..."
+
+msgid "Discoverable timeout"
+msgstr "Feststellbarer Timeout"
+
+msgid "Discoverable... %ss"
+msgstr "Sichtbar... %ss"
+
+msgid "Don't connect"
+msgstr "Nicht verbinden"
+
+msgid "ETA:"
+msgstr "ETA:"
+
+msgid "Enable Bluetooth"
+msgstr "Bluetooth einschalten"
+
+msgid "Enable Routing (NAT)"
+msgstr "Routing (NAT) aktivieren"
+
+msgid "Enabled"
+msgstr "Aktiviert"
+
+msgid "Enter PIN code"
+msgstr "PIN Code eingeben"
+
+msgid "Enter PIN code for authentication:"
+msgstr "PIN Code zur Authentifzierung eingeben:"
+
+msgid "Enter passkey"
+msgstr "Passwort eingeben:"
+
+msgid "Enter passkey for authentication:"
+msgstr "Passwort zur Authentifizierung eingeben:"
+
+msgid "Error occurred"
+msgstr "Fehler aufgetreten"
+
+msgid "Error occurred while sending file %s"
+msgstr "Fehler beim Senden von Datei %s aufgetreten"
+
+msgid "Fail"
+msgstr "Fehlschlagen"
+
+msgid "Failed"
+msgstr "Gescheitert"
+
+msgid "Failed to apply network settings"
+msgstr "Anwenden der Netzwerkeinstellungen gescheitert"
+
+msgid "Failed to connect"
+msgstr "Verbindung gescheitert"
+
+msgid ""
+"Failed to initialize PulseAudio Bluetooth module. Bluetooth audio over "
+"PulseAudio will not work."
+msgstr ""
+"Fehler beim Initialisieren des PulseAudio Bluetooth-Moduls. Bluetooth Audio "
+"über PulseAudio wird nicht funktionieren."
+
+msgid "Failed to launch \"%s\""
+msgstr "Starten von \"%s\" fehlgeschlagen"
+
+msgid "Failed to obtain an IP address on %s"
+msgstr "Es schlug fehl eine IP Adresse von %s zu erhalten"
+
+msgid "Failure"
+msgstr "Fehlgeschlagen"
+
+msgid "File %(0)s from %(1)s successfully received"
+msgstr "Datei %(0)s von %(1)s erfolgreich empfangen"
+
+msgid "File received"
+msgstr "Datei empfangen"
+
+msgid "Files received"
+msgstr "Dateien empfangen"
+
+msgid "GSM Settings"
+msgstr "GSM-Einstellungen"
+
+msgid "Get Help Online..."
+msgstr "Online Hilfe erhalten..."
+
+msgid "Group Network"
+msgstr "Gruppennetzwerk"
+
+msgid ""
+"Headset Emulation <span weight='bold' color='#cc0000'>Very Experimental!</"
+"span>"
+msgstr ""
+"Headset Emulation <span weight='bold' color='#cc0000'>Im hoch "
+"experimentellen Stadium!</span>"
+
+msgid "Headset Service"
+msgstr "Headset-Dienst"
+
+msgid "Hidden"
+msgstr "Unsichtbar"
+
+msgid "High"
+msgstr "Hoch"
+
+msgid "IP Address:"
+msgstr "IP-Adresse:"
+
+msgid "Incoming file %(0)s from %(1)s"
+msgstr "Ankommende Datei %(0)s von %(1)s"
+
+msgid "Incoming file over Bluetooth"
+msgstr "Dateiempfang über Bluetooth"
+
+msgid "Input Service"
+msgstr "Eingabe-Dienst"
+
+msgid "Interface %(0)s bound to IP address %(1)s"
+msgstr "Schnittstelle %(0)s gebunden an IP-Adresse %(1)s"
+
+msgid "Latest Device First"
+msgstr "Letztes Gerät zuerst"
+
+msgid "Latest Device Last"
+msgstr "Letztes Gerät zuletzt"
+
+msgid "Launch DHCP client"
+msgstr "Starte DHCP client"
+
+msgid "Launching DHCP client requires privileges"
+msgstr "Um den DHCP-Client zu starten sind Zugriffsrechte erforderlich"
+
+msgid "Local Services"
+msgstr "Lokale Dienste"
+
+msgid "Low"
+msgstr "Niedrig"
+
+msgid "Make the default adapter temporarily visible"
+msgstr "Mach den Standard-Adapter vorübergehend sichtbar"
+
+msgid "Manages local network services, like NAP bridges"
+msgstr "Verwaltet das lokale Netzwerk, wie z.B. NAP Brücken"
+
+msgid "Mark/Unmark this device as trusted"
+msgstr "Diesem Gerät vertrauen/nicht vertrauen"
+
+msgid "Maximum items"
+msgstr "Maximalanzahl"
+
+msgid "Modem Manager did not support the connection"
+msgstr "Modem-Manager unterstützt die Verbindung nicht"
+
+msgid "More"
+msgstr "Mehr"
+
+msgid "Much"
+msgstr "Viel"
+
+msgid "Network"
+msgstr "Netzwerk"
+
+msgid "Network Access (%s)"
+msgstr "Netzwerkzugriff (%s)"
+
+msgid "Network Access Point"
+msgstr "Network Access Point (NAP)"
+
+msgid "Network Access Point (NAP)"
+msgstr "Network Access Point (NAP)"
+
+msgid "Network Usage"
+msgstr "Netzwerk-Chronik"
+
+msgid "No adapters found"
+msgstr "Keine Adapter gefunden"
+
+msgid ""
+"No usage statistics are available yet. Try establishing a connection first "
+"and then check this page."
+msgstr ""
+"Es sind noch keine Benutzungsstatistiken verfügbar. Versuchen Sie zuerst "
+"eine Verbindung herzustellen und kehren Sie dann zu dieser Seite zurück."
+
+msgid "Not Connected"
+msgstr "Nicht verbunden"
+
+msgid "Not currently supported with this setup"
+msgstr "Diese Konfiguration wird derzeit nicht unterstützt"
+
+msgid "Not specified"
+msgstr "Nicht angegeben"
+
+msgid "Number:"
+msgstr "Nummer:"
+
+msgid "Optimal"
+msgstr "Optimal"
+
+msgid "Pair"
+msgstr "Kopplung"
+
+msgid "Pair with the device"
+msgstr "Mit Gerät koppeln"
+
+msgid "Pairing"
+msgstr "Koppelung"
+
+msgid "Pairing request"
+msgstr "Kopplungsanfrage"
+
+msgid "Pairing request for %s"
+msgstr "Bekanntmachungsanfrage von %s"
+
+msgid "Pairing request for device:"
+msgstr "Kopplungsanfrage von Gerät:"
+
+msgid "Pairing request for:"
+msgstr "Kopplungsanfrage für:"
+
+msgid "Pairing with: %s"
+msgstr "Kopplung mit: %s"
+
+msgid ""
+"Plugin <b>\"%(0)s\"</b> depends on <b>%(1)s</b>. Unloading <b>%(1)s</b> will "
+"also unload <b>\"%(0)s\"</b>.\n"
+"Proceed?"
+msgstr ""
+"Plugin <b>\"%(0)s\"</b> hängt von Plugin <b>%(1)s</b> ab. Deaktivieren von "
+"Plugin <b>%(1)s</b> wird auch das Plugin <b>\"%(0)s\"</b> deaktivieren.\n"
+"Fortfahren?"
+
+msgid ""
+"Plugin <b>%(0)s</b> conflicts with <b>%(1)s</b>. Loading <b>%(1)s</b> will "
+"unload <b>%(0)s</b>.\n"
+"Proceed?"
+msgstr ""
+"Erweiterung <b>%(0)s</b> steht im Konflikt mit <b>%(1)s</b>. Laden von <b>"
+"%(1)s</b> wird <b>%(0)s</b> deaktivieren.\n"
+"Fortfahren?"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Poor"
+msgstr "Schwach"
+
+msgid "Proceed Without Pairing"
+msgstr "Ohne Kopplung fortfahren"
+
+msgid "Provides DBus API for other Blueman components"
+msgstr "Stellt eine DBus-API für andere Blueman-Komponenten bereit"
+
+msgid "Provides OBEX file transfer capabilities"
+msgstr "Stellt OBEX Dateiübertragungs-Funktionen bereit"
+
+msgid ""
+"Provides a menu for the applet and an API for other plugins to manipulate it"
+msgstr ""
+"Stellt ein Menü für das Hilfsprogramm und anderen Erweiterungen eine API zum "
+"Verändern desselben zur Verfügung"
+
+msgid ""
+"Provides a menu item for making the default adapter temporarily visible when "
+"it is set to hidden by default"
+msgstr ""
+"Schafft einen Menüpunkt, der den Standard-Adapter temporär anzeigt, falls er "
+"auf „Versteckt“ geschaltet ist."
+
+msgid ""
+"Provides a menu item that contains last used connections for quick access"
+msgstr ""
+"Erstellt einen Menüpunkt, der die zuletzt verwendeten Verbindungen als "
+"Schnellzugriff bereithält"
+
+msgid "Provides basic support for connecting to the internet via DUN profile."
+msgstr ""
+"Stellt eine einfache Unterstützung für Verbindungen ins Internet über ein "
+"DUN-Profil bereit."
+
+msgid "Provides passkey, authentication services for BlueZ daemon"
+msgstr ""
+"Stellt den Passwort-Authentifizierungsdienst für den BlueZ-Daemon bereit"
+
+msgid ""
+"Provides support for Dial Up Networking (DUN) with ModemManager and "
+"NetworkManager 0.8"
+msgstr ""
+"Stellt Unterstützung für Dial-Up-Networking (DUN) mit dem Modem-Manager und "
+"dem Netzwerk-Manager 0.8 zur Verfügung"
+
+msgid ""
+"Provides support for Personal Area Networking (PAN) introduced in "
+"NetworkManager 0.8"
+msgstr ""
+"Stellt Unterstützung für Personal-Area-Networking (PAN), welches im Netzwerk-"
+"Manager 0.8 integriert ist, zur Verfügung"
+
+msgid "Received %d file in the background"
+msgid_plural "Received %d files in the background"
+msgstr[0] "%d Datei im Hintergrund empfangen"
+msgstr[1] "%d Dateien im Hintergrund empfangen"
+
+msgid "Received %d more file in the background"
+msgid_plural "Received %d more files in the background"
+msgstr[0] "weitere %d Datei im Hintergrund empfangen"
+msgstr[1] "weitere %d Dateien im Hintergrund empfangen"
+
+msgid "Receiving file"
+msgstr "empfange Datei"
+
+msgid "Receiving file %(0)s from %(1)s"
+msgstr "Empfange Datei %(0)s von %(1)s"
+
+msgid "Recent Connections"
+msgstr "Letzte Verbindungen"
+
+msgid "Recommended"
+msgstr "Empfohlen"
+
+msgid "Refresh Services"
+msgstr "Dienste aktualisieren"
+
+msgid "Refreshing"
+msgstr "Aktualisieren"
+
+msgid "Refreshing Services..."
+msgstr "Aktualisiere Dienste..."
+
+msgid "Reject"
+msgstr "Ablehnen"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Remove this device from the known devices list"
+msgstr "Dieses Gerät von der Liste der bekannten Geräte entfernen"
+
+msgid "Remove..."
+msgstr "Entfernen..."
+
+msgid "Renew IP Address"
+msgstr "IP-Adresse erneuern"
+
+msgid "Report a Problem"
+msgstr "Einen Fehler melden"
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "Retry"
+msgstr "Erneut versuchen"
+
+msgid "Run the setup assistant for this device"
+msgstr "Den Einrichtungsassistenten für dieses Gerät aufrufen"
+
+msgid "Runs a command when answer button is pressed on a headset"
+msgstr ""
+"Führt einen Befehl aus, wenn der Abheben-Knopf an einem Headset gedrückt wird"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Search for devices"
+msgstr "Gerätesuche"
+
+msgid "Search for nearby devices"
+msgstr "Suche nach Geräten in der Nähe"
+
+msgid "Searching"
+msgstr "Suche"
+
+msgid "Select Device"
+msgstr "Gerät auswählen"
+
+msgid "Select Shared/Storage folder"
+msgstr "Wähle Freigabe/Speicher-Ordner"
+
+msgid "Select files to send"
+msgstr "Dateien zum Senden auswählen"
+
+msgid "Send File"
+msgstr "Datei senden"
+
+msgid "Send a File..."
+msgstr "Datei senden..."
+
+msgid "Send file(s) to the device"
+msgstr "Dateien zum Gerät senden"
+
+msgid "Send files to this device"
+msgstr "Sende Datei zu diesem Gerät"
+
+msgid "Sending File"
+msgstr "Sende Datei"
+
+msgid "Serial Port %s"
+msgstr "Serielle Schnittstelle %s"
+
+msgid "Serial Ports"
+msgstr "Serielle Anschlüsse"
+
+msgid "Serial Service"
+msgstr "Serieller Dienst"
+
+msgid "Serial port connected"
+msgstr "Serielle Schnittstelle verbunden"
+
+msgid "Serial port connected to %s"
+msgstr "Serieller Anschluß verbunden mit %s"
+
+msgid ""
+"Serial port service on device <b>%s</b> now will be available via <b>%s</b>"
+msgstr ""
+"Serielle Schnittstelle auf Gerät <b>%s</b> ist nun verfügbar durch <b>%s</b>."
+
+msgid "Service"
+msgstr "Dienst"
+
+msgid "Service:"
+msgstr "Dienst:"
+
+msgid "Setup..."
+msgstr "Einrichten…"
+
+msgid "Shared Folder:"
+msgstr "Freigabe-Ordner:"
+
+msgid "Show Statusbar"
+msgstr "Statusleiste anzeigen"
+
+msgid "Show Toolbar"
+msgstr "Werkzeugleiste anzeigen"
+
+msgid "Show input"
+msgstr "Eingabe anzeigen"
+
+msgid "Shows network traffic usage"
+msgstr "Zeigt Netzwerk-Chronik"
+
+msgid "Skip"
+msgstr "Überspringen"
+
+msgid "Start configuration assistant for this device"
+msgstr "Starte Konfigurationsassistent für dieses Gerät"
+
+msgid "Starting Adapter Preferences"
+msgstr "Starte Adapter-Voreinstellungen"
+
+msgid "Starting Bluetooth Assistant"
+msgstr "Starte Bluetooth-Assistent"
+
+msgid "Starting Device Manager"
+msgstr "Gerätemanager starten"
+
+msgid "Starting File Browser"
+msgstr "Datei-Browser starten"
+
+msgid "Starting File Sender"
+msgstr "Starte Datei-Sender"
+
+msgid "Starting Service Preferences"
+msgstr "Starte Dienst-Voreinstellungen"
+
+msgid "Sub-optimal"
+msgstr "Nicht optimal"
+
+msgid "Success"
+msgstr "Erfolgreich"
+
+msgid "Success!"
+msgstr "Erfolgreich!"
+
+msgid ""
+"Successfully connected to <b>DUN</b> service on <b>%(0)s.</b>\n"
+"Network is now available through <b>%(1)s</b>"
+msgstr ""
+"Verbindung zum <b>DUN</b>-Dienst auf <b>%(0)s</b> hergestellt.\n"
+"Netzwerk ist nun erreichbar durch <b>%(1)s</b>"
+
+msgid ""
+"Successfully connected to a Bluetooth audio device. This device will now be "
+"available in the PulseAudio mixer"
+msgstr ""
+"Verbindung zum Bluetooth-Audiogerät erfolgreich hergestellt. Dieses Gerät "
+"ist nun im PulseAudio-Lautstärkeregler verfügbar."
+
+msgid "System policy prevents modifying the configuration"
+msgstr "Systemrichtlinie verhindert die Veränderung der Konfiguration"
+
+msgid "Temporarily visible"
+msgstr "Vorübergehend sichtbar"
+
+msgid "The Blueman Project"
+msgstr "Das Blueman-Projekt"
+
+msgid ""
+"The device %s does not appear to support GSM/CDMA.\n"
+"This connection will not work."
+msgstr ""
+"Das Gerät %s scheint GSM/CDMA nicht zu unterstützen.\n"
+"Diese Verbindung wird nicht funktionieren."
+
+msgid "The maximum number of items recent connections menu will display."
+msgstr "Die maximale Anzahl der letzten Verbindungen wird angezeigt."
+
+msgid "Too much"
+msgstr "Zu viel"
+
+msgid "Total data received and rate of transmission"
+msgstr "Gesamte empfangene Daten und Übertragungsrate"
+
+msgid "Total data sent and rate of transmission"
+msgstr "Gesamte versendete Daten und Übertragungsrate"
+
+msgid "Traffic statistics"
+msgstr "Übertragungsstatistiken"
+
+msgid "Transfer"
+msgstr "Übertragung"
+
+msgid "Transfer failed"
+msgstr "Übertragung fehlgeschlagen"
+
+msgid "Transfer of file %(0)s failed"
+msgstr "Transfer der Datei %(0)s fehlgeschlagen"
+
+msgid "Translate This Application..."
+msgstr "Diese Anwendung übersetzen..."
+
+msgid "Trust"
+msgstr "Vertrauen"
+
+msgid ""
+"Trying to obtain an IP address on %s\n"
+"Please wait..."
+msgstr ""
+"Versuche eine IP Adresse von %s zu erhalten\n"
+"Bitte warten..."
+
+msgid "Turn off all adapters"
+msgstr "Alle Adapter ausschalten"
+
+msgid "Turn on all adapters"
+msgstr "Alle Adapter einschalten"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "Unspecified"
+msgstr "Nicht festgelegt"
+
+msgid "Untrust"
+msgstr "Nicht vertrauenswürdig"
+
+msgid "Use Custom Passkey:"
+msgstr "Eigenes Passwort verwenden:"
+
+msgid "Use Random Passkey"
+msgstr "Zufälliges Passwort verwenden"
+
+msgid "Very High"
+msgstr "Sehr hoch"
+
+msgid "You can enter an alternate browser in service settings"
+msgstr ""
+"Sie können in den Dienste-Einstellungen einen alternativen Browser eintragen."
+
+msgid ""
+"You might not be able to connect to the Bluetooth network via this machine"
+msgstr ""
+"Sie können sich möglicherweise nicht von diesem Rechner aus mit dem "
+"Bluetooth-Netzwerk verbinden"
+
+msgid "_Adapter"
+msgstr "_Adapter"
+
+msgid "_Device"
+msgstr "_Gerät"
+
+msgid "_Devices"
+msgstr "_Geräte"
+
+msgid "_Help"
+msgstr "_Hilfe"
+
+msgid "_Local Services"
+msgstr "_Lokale Dienste"
+
+msgid "_Make Discoverable"
+msgstr "_Erkennbar machen"
+
+msgid "_Plugins"
+msgstr "_Erweiterungen"
+
+msgid "_View"
+msgstr "_Ansicht"
+
+msgid "applet"
+msgstr "Applet"
+
+msgid "cellular"
+msgstr "Mobiltelefon"
+
+msgid "cordless"
+msgstr "Drahtlosgerät"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "Tag"
+msgstr[1] "Tage"
+
+msgid "desktop"
+msgstr "Desktop"
+
+msgid "gtk-close"
+msgstr "gtk-close"
+
+msgid "handheld"
+msgstr "Handheld"
+
+msgid "handsfree"
+msgstr "Freisprecheinrichtung"
+
+msgid "headset"
+msgstr "Headset"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "Stunde"
+msgstr[1] "Stunden"
+
+msgid "isdn"
+msgstr "ISDN-Gerät"
+
+msgid "keyboard"
+msgstr "Tastatur"
+
+msgid "laptop"
+msgstr "Laptop"
+
+msgid "microphone"
+msgstr "Mikrofon"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "Minute"
+msgstr[1] "Minuten"
+
+msgid "modem"
+msgstr "Modem"
+
+msgid "obex-data-server is probably not installed"
+msgstr "OBEX-Data-Server ist möglicherweise nicht installiert"
+
+msgid "obex-data-server not available"
+msgstr "OBEX-Data-Server nicht verfügbar"
+
+msgid "palm"
+msgstr "Palm"
+
+msgid "pointing"
+msgstr "Zeigegerät"
+
+msgid "server"
+msgstr "Server"
+
+msgid "smart phone"
+msgstr "Smartphone"
+
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Andreas Kohlbach https://launchpad.net/~ank\n"
+"  Bernhard Gehl https://launchpad.net/~bernhard-gehl\n"
+"  Felix Möller https://launchpad.net/~felix-derklecks\n"
+"  Jochen Kemnade https://launchpad.net/~jochenkemnade\n"
+"  JonasL https://launchpad.net/~jonas-lieb\n"
+"  Julian Jacques Maurer https://launchpad.net/~mail-julianjmaurer\n"
+"  Julian Rother https://launchpad.net/~julian-sda\n"
+"  Keruskerfuerst https://launchpad.net/~arminmohring\n"
+"  MarcusLS https://launchpad.net/~marcusls\n"
+"  Mark Stuppacher https://launchpad.net/~mark-happynet\n"
+"  Martin Lettner https://launchpad.net/~m.lettner\n"
+"  MixCool https://launchpad.net/~mixcool\n"
+"  MyUser https://launchpad.net/~myuser\n"
+"  Nils https://launchpad.net/~nilswoetzel\n"
+"  Patrick Eigensatz https://launchpad.net/~p.eigensatz\n"
+"  Patrick Schaake https://launchpad.net/~patrick-schaake\n"
+"  Peter Altherr https://launchpad.net/~peter-altherr\n"
+"  Sekhmet https://launchpad.net/~sekhmet\n"
+"  Severin Heiniger https://launchpad.net/~lantash\n"
+"  Steve M. https://launchpad.net/~steve-m\n"
+"  Tobias Duehr https://launchpad.net/~mrbordello\n"
+"  Ubert Shok https://launchpad.net/~ushok\n"
+"  Vinzenz Vietzke https://launchpad.net/~v1nz\n"
+"  Waldemar R. https://launchpad.net/~lux5\n"
+"  ahsamuel https://launchpad.net/~samuel-orsenne\n"
+"  axoin https://launchpad.net/~schrott4711\n"
+"  benste https://launchpad.net/~benste\n"
+"  dauerbaustelle https://launchpad.net/~dauerbaustelle\n"
+"  dominik langer https://launchpad.net/~dominiklanger\n"
+"  meru https://launchpad.net/~merualhemio\n"
+"  mx82 https://launchpad.net/~mx82\n"
+"  tim♡mint https://launchpad.net/~tim.h.s\n"
+"  tofro https://launchpad.net/~tobias-froeschle"
+
+msgid "uncategorized"
+msgstr "Sonstige"
+
+msgid "unknown"
+msgstr "Unbekannt"

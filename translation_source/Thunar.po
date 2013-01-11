@@ -1,0 +1,2480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Thunar 0.9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-26 23:58+0200\n"
+"PO-Revision-Date: 2013-01-11 12:29+0530\n"
+"Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
+"Language-Team: German <xfce-i18n@xfce.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "\"%s\" (%s) %s"
+msgstr "»%s« (%s) %s"
+
+msgid "\"%s\" (%s) link to %s"
+msgstr "»%s« (%s) Verknüpfung mit »%s«"
+
+msgid "\"%s\" broken link"
+msgstr "»%s« Verknüpfung (fehlerhaft)"
+
+msgid "\"%s\" mountable"
+msgstr "»%s« ist einhängbar"
+
+msgid "\"%s\" shortcut"
+msgstr "Verknüpfung mit »%s«"
+
+msgid "%A at %X"
+msgstr "%A um %X"
+
+msgid "%d file operation running"
+msgid_plural "%d file operations running"
+msgstr[0] "%d Dateioperation wird ausgeführt"
+msgstr[1] "%d Dateioperationen werden ausgeführt"
+
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d વસ્તુ"
+msgstr[1] "%d વસ્તુઓ"
+
+msgid "%d item (%s), Free space: %s"
+msgid_plural "%d items (%s), Free space: %s"
+msgstr[0] "%d વસ્તુ (%s),ખાલી જગ્યા: %s"
+msgstr[1] "%d વસ્તુઓ (%s), ખાલી જગ્યા: %s"
+
+msgid "%d item selected"
+msgid_plural "%d items selected"
+msgstr[0] "%d Objekt ausgewählt"
+msgstr[1] "%d Objekte ausgewählt"
+
+msgid "%d item selected (%s)"
+msgid_plural "%d items selected (%s)"
+msgstr[0] "%d Objekt ausgewählt (%s)"
+msgstr[1] "%d Objekte ausgewählt (%s)"
+
+msgid "%d item, Free space: %s"
+msgid_plural "%d items, Free space: %s"
+msgstr[0] "%d Objekt, Freier Speicher: %s"
+msgstr[1] "%d Objekte, Freier Speicher: %s"
+
+msgid "%dx%d pixel"
+msgid_plural "%dx%d pixels"
+msgstr[0] "%dx%d Pixel"
+msgstr[1] "%dx%d Pixel"
+
+msgid "%lu hour remaining"
+msgid_plural "%lu hours remaining"
+msgstr[0] "(%lu કલાક બાકી)"
+msgstr[1] "(%lu કલાકો બાકી)"
+
+msgid "%lu minute remaining"
+msgid_plural "%lu minutes remaining"
+msgstr[0] "(%lu Minute verbleibend)"
+msgstr[1] "(%lu Minuten verbleibend)"
+
+msgid "%lu second remaining"
+msgid_plural "%lu seconds remaining"
+msgstr[0] "(%lu Sekunde verbleibend)"
+msgstr[1] "(%lu Sekunden verbleibend)"
+
+msgid "%s - Properties"
+msgstr "%s - પ્રોપર્ટીસ"
+
+msgid "%s Bytes"
+msgstr "%s Byte"
+
+msgid "%u item, totalling %s"
+msgid_plural "%u items, totalling %s"
+msgstr[0] "%u Objekt der Gesamtgröße %s"
+msgstr[1] "%u Objekte der Gesamtgröße %s"
+
+msgid "%uth copy of %s"
+msgstr "%ute Kopie von %s"
+
+msgid "%uth link to %s"
+msgstr "%ute Verknüpfung mit %s"
+
+msgid "%x at %X"
+msgstr "%x um %X"
+
+msgid "0001, 0002, 0003, ..."
+msgstr "0001, 0002, 0003, …"
+
+msgid "001, 002, 003, ..."
+msgstr "001, 002, 003, …"
+
+msgid "01, 02, 03, ..."
+msgstr "01, 02, 03, …"
+
+msgid "1, 2, 3, ..."
+msgstr "1, 2, 3, …"
+
+msgid ""
+"<a href=\"volman-config:\">Configure</a> the management of removable drives\n"
+"and media (i.e. how cameras should be handled)."
+msgstr ""
+"Die <a href=\"volman-config:\">Verwaltung</a> von Wechseldatenträgern und\n"
+"-medien konfigurieren (z.B. Digitalkameras)."
+
+msgid "A destination directory must be specified"
+msgstr "Ein Zielverzeichnis muss angegeben werden"
+
+msgid "A widget to display in place of the usual page label"
+msgstr ""
+"Ein Objekt, das statt der gewöhnlichen Beschriftung der Seite angezeigt wird"
+
+msgid "About Templates"
+msgstr "Über Vorlagen"
+
+msgid "Access:"
+msgstr "Zugriff:"
+
+msgid "Accessed:"
+msgstr "Zugegriffen:"
+
+msgid "Add a new custom action."
+msgstr "Eine neue Aktion hinzufügen."
+
+msgid "Add the selected folder to the shortcuts side pane"
+msgid_plural "Add the selected folders to the shortcuts side pane"
+msgstr[0] "Neues Lesezeichen für den ausgewählten Ordner erstellen"
+msgstr[1] "Neue Lesezeichen für die ausgewählten Ordner erstellen"
+
+msgid "Advanced"
+msgstr "Fortgeschritten"
+
+msgid "All Files"
+msgstr "Alle Dateien"
+
+msgid "All files in this folder will appear in the \"Create Document\" menu."
+msgstr ""
+"Alle Dateien in diesem Ordner erscheinen im Menü »Neues Dokument erstellen«."
+
+msgid "Allow this file to _run as a program"
+msgstr "Datei darf als Programm _gestartet werden"
+
+msgid ""
+"Allowing untrusted programs to run\n"
+"presents a security risk to your system."
+msgstr ""
+"Wird nicht vertrauenswürdigen Dateien gestattet\n"
+"als Programm gestartet zu werden, kann dies ein\n"
+"Sicherheitsproblem für Ihr System darstellen."
+
+msgid "Aperture Value:"
+msgstr "Blendenwert:"
+
+msgid "Appearance Conditions"
+msgstr "Dateizuordnung"
+
+msgid "Appears if selection contains:"
+msgstr "Erscheint, falls Auswahl Folgendes enthält:"
+
+msgid "Apply recursively?"
+msgstr "Rekursiv anwenden?"
+
+msgid "Apply to Folder Only"
+msgstr "Nur auf Ordner anwenden"
+
+msgid "Apply to Folder and Contents"
+msgstr "Auf Ordner und Inhalt anwenden"
+
+msgid ""
+"Are you sure that you want to\n"
+"permanently delete \"%s\"?"
+msgstr ""
+"Sind Sie sicher, dass Sie »%s«\n"
+"dauerhaft löschen wollen?"
+
+msgid ""
+"Are you sure that you want to delete\n"
+"action \"%s\"?"
+msgstr ""
+"Sind Sie sicher, dass Sie die Aktion »%s«\n"
+"löschen wollen?"
+
+msgid ""
+"Are you sure that you want to permanently\n"
+"delete the selected file?"
+msgid_plural ""
+"Are you sure that you want to permanently\n"
+"delete the %u selected files?"
+msgstr[0] ""
+"Soll die ausgewählte Datei wirklich\n"
+"dauerhaft gelöscht werden?"
+msgstr[1] ""
+"Sollen diese %u ausgewählten Dateien\n"
+"wirklich\n"
+"dauerhaft gelöscht werden?"
+
+msgid "Are you sure that you want to remove \"%s\"?"
+msgstr "Sind Sie sicher, dass Sie »%s« entfernen wollen?"
+
+msgid "Are you sure you want to open all folders?"
+msgstr "Sind Sie sicher, dass alle Ordner geöffnet werden sollen?"
+
+msgid "Arran_ge Items"
+msgstr "An_ordnen"
+
+msgid "Ask everytime"
+msgstr "Jedes mal nachfragen"
+
+msgid "At least one filename must be specified"
+msgstr "Mindestens ein Dateiname muss angegeben werden"
+
+msgid "At least one source filename must be specified"
+msgstr "Mindestens ein Dateiname für die Quelle muss angegeben werden"
+
+msgid "Atleast one filename must be specified"
+msgstr "Es muss mindestens ein Dateiname angegeben werden"
+
+msgid "Audio Files"
+msgstr "Audiodateien"
+
+msgid "Automatically _expand columns as needed"
+msgstr "Listenspalten automatisch ver_größern"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "Basic"
+msgstr "Allgemein"
+
+msgid "Behavior"
+msgstr "Verhalten"
+
+msgid "Browse the file system"
+msgstr "Dateisystem durchsuchen"
+
+msgid ""
+"Browse the file system to select an application to open files of type \"%s\"."
+msgstr ""
+"Das Dateisystem durchsuchen, um eine Anwendung auszuwählen, mit der Dateien "
+"vom Typ »%s« geöffnet werden können."
+
+msgid "Browse the file system to select an application to use for this action."
+msgstr ""
+"Das Dateisystem durchsuchen, um eine Anwendung für diese Aktion auszuwählen."
+
+msgid "Browse the filesystem with the file manager"
+msgstr "Das Dateisystem im Dateimanager anzeigen"
+
+msgid "Browse the network"
+msgstr "Netzwerk durchsuchen"
+
+msgid "Bulk Rename"
+msgstr "Bulk-Rename"
+
+msgid "Bulk Rename - Rename Multiple Files"
+msgstr "Bulk-Rename - Mehrere Dateien gleichzeitig umbenennen"
+
+msgid ""
+"By default columns will be automatically expanded if\n"
+"needed to ensure the text is fully visible. If you dis-\n"
+"able this behavior below the file manager will always\n"
+"use the user defined column widths."
+msgstr ""
+"Standardmäßig werden die Listenspalten automatisch bei Bedarf\n"
+"vergrößert, so dass der Text vollständig angezeigt werden kann\n"
+". Wird diese Einstellung deaktiviert, merkt sich der Dateimanager\n"
+" die benutzerdefinierten Spaltengrößen."
+
+msgid "C_ase Sensitive Search"
+msgstr "_Groß-/Kleinschreibung beachten"
+
+msgid "C_reate"
+msgstr "_Erstellen"
+
+msgid "Calculating..."
+msgstr "Berechne…"
+
+msgid "Calculation aborted"
+msgstr "Berechnung abgebrochen"
+
+msgid "Camelcase"
+msgstr "Überschrift"
+
+msgid "Camera Brand:"
+msgstr "Kameramarke:"
+
+msgid "Camera Model:"
+msgstr "Kameramodell:"
+
+msgid "Cancelling..."
+msgstr "Abbrechen…"
+
+msgid "Cannot convert filename \"%s\" to the local encoding"
+msgstr ""
+"Der Dateiname »%s« kann nicht in den Zeichensatz des Dateisystems "
+"umgewandelt werden"
+
+msgid ""
+"Change the default application for files of type \"%s\" to the selected "
+"application."
+msgstr ""
+"Die ausgewählte Anwendung soll standardmäßig zum Öffnen von Dateien des Typs "
+"»%s« benutzt werden."
+
+msgid "Change the visibility of this window's statusbar"
+msgstr "Die Sichtbarkeit der Statusleiste dieses Fensters ändern"
+
+msgid "Choose another application with which to open the selected file"
+msgstr ""
+"Eine andere Anwendung wählen, mit der die ausgewählte Datei geöffnet werden "
+"soll"
+
+msgid ""
+"Choose the order of information to appear in the\n"
+"detailed list view."
+msgstr ""
+"Legen Sie die Reihenfolge fest, in welcher in der Detailansicht\n"
+"Informationen angezeigt werden sollen."
+
+msgid "Clear"
+msgstr "Liste leeren"
+
+msgid "Clear the file list below"
+msgstr "Die Liste der unten angezeigten Dateien leeren"
+
+msgid ""
+"Click here to actually rename the files listed above to their new names."
+msgstr ""
+"Die Umbenennung der Datei durchführen, wie oben in der Vorschau angezeigt."
+
+msgid "Click here to automatically fix the folder permissions."
+msgstr ""
+"Hier klicken, um die Berechtigungen für diesen Ordner automatisch zu "
+"korrigieren."
+
+msgid "Click here to stop calculating the total size of the folder."
+msgstr "Hier klicken, um die Berechnung der Ordnergröße abzubrechen."
+
+msgid "Click here to view the documentation for the selected rename operation."
+msgstr "Die Dokumentation für den ausgewählten Umbenennungsmodus anzeigen."
+
+msgid ""
+"Click this button to select an icon file that will be displayed in the "
+"context menu in addition to the action name chosen above."
+msgstr ""
+"Auf diesen Knopf klicken, um ein Dateisymbol auszuwählen, das im "
+"Kontextmenü  zusätzlich zum oben angegebenen Namen angezeigt wird."
+
+msgid "Close _All Windows"
+msgstr "_Alle Fenster schließen"
+
+msgid "Close all Thunar windows"
+msgstr "Alle Thunar-Fenster schließen"
+
+msgid "Close this window"
+msgstr "Dieses Fenster schließen"
+
+msgid "Collecting files..."
+msgstr "Sammle Dateien…"
+
+msgid "Column Sizing"
+msgstr "Spaltengröße"
+
+msgid "Command not configured"
+msgstr "Befehl nicht angegeben"
+
+msgid "Command:"
+msgstr "Befehl:"
+
+msgid "Comment:"
+msgstr "Kommentar:"
+
+msgid "Compact List View"
+msgstr "Listenansicht"
+
+msgid "Compact directory listing"
+msgstr "Listenbasierte Ordneransicht"
+
+msgid "Compact view"
+msgstr "Listenansicht"
+
+msgid "Compressing files..."
+msgstr "Dateien werden komprimiert…"
+
+msgid "Con_vert to:"
+msgstr "U_mwandeln in:"
+
+msgid "Configure Columns in the Detailed List View"
+msgstr "Listenspalten in der Detailansicht"
+
+msgid "Configure _Columns..."
+msgstr "Listens_palten festlegen…"
+
+msgid "Configure c_ustom actions..."
+msgstr "_Benutzerdefinierte Aktionen…"
+
+msgid "Configure the Thunar file manager"
+msgstr "Dateimanager Thunar einrichten"
+
+msgid "Configure the columns in the detailed list view"
+msgstr "Die Listenspalten in der Detailansicht festlegen"
+
+msgid "Confirm to replace files"
+msgstr "Ersetzen von Dateien bestätigen"
+
+msgid "Copying files to \"%s\"..."
+msgstr "Dateien werden nach »%s« kopiert…"
+
+msgid "Copying files..."
+msgstr "Kopiere Dateien…"
+
+msgid "Correct folder permissions"
+msgstr "Ordner-Berechtigungen korrigieren"
+
+msgid "Correct folder permissions automatically?"
+msgstr "Ordner-Berechtigungen automatisch korrigieren?"
+
+msgid "Correct folder permissions..."
+msgstr "Ordner-Berechtigungen korrigieren…"
+
+msgid "Could not create symbolic link to \"%s\" because it is not a local file"
+msgstr ""
+"Die Verknüpfung zu »%s« konnte nicht erstellt werden, weil es keine lokale "
+"Datei ist"
+
+msgid "Could not delete file \"%s\": %s"
+msgstr "»%s« konnte nicht gelöscht werden: %s"
+
+msgid "Could not move \"%s\" directly. Collecting files for copying..."
+msgstr ""
+"Die Datei »%s« konnte nicht direkt verschoben werden. Sammle Dateien zum "
+"Kopieren…"
+
+msgid "Could not restore \"%s\""
+msgstr "Die Datei »%s« konnte nicht wiederhergestellt werden"
+
+msgid "Create Action"
+msgstr "Neue Aktion erstellen"
+
+msgid "Create Document from template \"%s\""
+msgstr "Dokument aus Vorlage »%s« erstellen"
+
+msgid "Create New File"
+msgstr "Neue Datei erstellen"
+
+msgid "Create New Folder"
+msgstr "Neuen Ordner erstellen"
+
+msgid "Create _Document"
+msgstr "Neues _Dokument erstellen"
+
+msgid "Create _Folder..."
+msgstr "Neuen _Ordner erstellen..."
+
+msgid "Create a link to the selected file on the desktop"
+msgid_plural "Create links to the selected files on the desktop"
+msgstr[0] ""
+"Eine symbolische Verknüpfung für die ausgewählte Datei auf der "
+"Arbeitsoberfläche erstellen"
+msgstr[1] ""
+"Eine symbolische Verknüpfung für jede ausgewählte Datei auf der "
+"Arbeitsoberfläche erstellen"
+
+msgid "Create a new folder in \"%s\""
+msgstr "Neuen Ordner in »%s« erstellen"
+
+msgid "Create a symbolic link for the selected file"
+msgid_plural "Create a symbolic link for each selected file"
+msgstr[0] "Eine symbolische Verknüpfung für die ausgewählte Datei erstellen"
+msgstr[1] "Eine symbolische Verknüpfung für jede ausgewählte Datei erstellen"
+
+msgid "Create an empty folder within the current folder"
+msgstr "Einen neuen, leeren Ordner im aktuellen Ordner erstellen"
+
+msgid "Creating directories..."
+msgstr "Erstelle Ordner…"
+
+msgid "Creating files..."
+msgstr "Erstelle Dateien…"
+
+msgid "Creating symbolic links in \"%s\"..."
+msgstr "Erstelle Verknüpfungen in »%s«…"
+
+msgid "Cu_t"
+msgstr "_Ausschneiden"
+
+msgid "Current"
+msgstr "Systemzeit"
+
+msgid "Custom Actions"
+msgstr "Benutzerdefinierte Aktionen"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date Accessed"
+msgstr "Zugriffsdatum"
+
+msgid "Date Modified"
+msgstr "Änderungsdatum"
+
+msgid "Date Picture Taken"
+msgstr "Aufnahmedatum"
+
+msgid "Date Taken:"
+msgstr "Aufnahmedatum:"
+
+msgid "Default View"
+msgstr "Standardansicht"
+
+msgid "Delete all files and folders in the Trash"
+msgstr "Alle Dateien und Ordner aus dem Papierkorb löschen"
+
+msgid "Delete the currently selected action."
+msgstr "Die ausgewählte Aktion löschen."
+
+msgid "Delete the selected file"
+msgid_plural "Delete the selected files"
+msgstr[0] "Die ausgewählte Datei löschen"
+msgstr[1] "Die ausgewählten Dateien löschen"
+
+msgid "Deleted:"
+msgstr "Gelöscht:"
+
+msgid "Deleting files..."
+msgstr "Lösche Dateien…"
+
+msgid "Description:"
+msgstr "Beschreibung:"
+
+msgid "Desktop (Create Link)"
+msgid_plural "Desktop (Create Links)"
+msgstr[0] "Arbeitsoberfläche (Verknüpfung erstellen)"
+msgstr[1] "Arbeitsoberfläche (Verknüpfungen erstellen)"
+
+msgid "Detailed List View"
+msgstr "Detailansicht"
+
+msgid "Detailed directory listing"
+msgstr "Detaillierte Ordneransicht"
+
+msgid "Details view"
+msgstr "Detailansicht"
+
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+msgid "Display"
+msgstr "Anzeige"
+
+msgid "Display Thunar user manual"
+msgstr "Handbuch zu Thunar anzeigen"
+
+msgid "Display folder content in a compact list view"
+msgstr "Ordnerinhalte in der Listenansicht darstellen"
+
+msgid "Display folder content in a detailed list view"
+msgstr "Ordnerinhalte in der Detailansicht darstellen"
+
+msgid "Display folder content in an icon view"
+msgstr "Ordnerinhalte in der Symbolansicht darstellen"
+
+msgid "Display information about Thunar"
+msgstr "Würdigungen für die Schöpfer von Thunar anzeigen"
+
+msgid "Display information about Thunar Bulk Rename"
+msgstr "Würdigungen für die Schöpfer von Thunar Bulk-Rename anzeigen"
+
+msgid "Display the contents of the trash can"
+msgstr "Den Inhalt des Papierkorbs angezeigen"
+
+msgid "Display the trash can"
+msgstr "Schneller Zugriff auf den Papierkorb"
+
+msgid "Do _not ask me again"
+msgstr "In Zukunft _nicht mehr nachfragen"
+
+msgid "Do _not display this message again"
+msgstr "Diese Meldung in Zukunft _nicht mehr anzeigen"
+
+msgid ""
+"Do you want to apply your changes recursively to\n"
+"all files and subfolders below the selected folder?"
+msgstr ""
+"Möchten Sie Ihre Änderungen rekursiv auf alle\n"
+"Dateien und Unterordner anwenden?"
+
+msgid "Do you want to create it?"
+msgstr "Wollen Sie diese anlegen?"
+
+msgid "Do you want to overwrite it?"
+msgstr "Wollen Sie diese überschreiben?"
+
+msgid "Do you want to skip it?"
+msgstr "Wollen Sie diese überspringen?"
+
+msgid ""
+"Do you want to skip this file and continue to rename the remaining files?"
+msgstr ""
+"Soll diese Datei übersprungen werden und mit den restlichen Dateien "
+"fortgefahren werden?"
+
+msgid "Don't unload the plugin from memory"
+msgstr "Plugin nicht aus dem Speicher entfernen"
+
+msgid "Du_plicate"
+msgstr "_Duplizieren"
+
+msgid "Duplicate the selected file"
+msgid_plural "Duplicate each selected file"
+msgstr[0] "Die ausgewählte Datei duplizieren"
+msgstr[1] "Die ausgewählten Dateien duplizieren"
+
+msgid "E_ject Volume"
+msgstr "Datenträger _auswerfen"
+
+msgid "Edit Action"
+msgstr "Aktion bearbeiten"
+
+msgid "Edit Thunars Preferences"
+msgstr "Thunars Einstellungen bearbeiten"
+
+msgid "Edit the currently selected action."
+msgstr "Die ausgewählte Aktion bearbeiten."
+
+msgid "Ejecting device"
+msgstr "Gerät wird ausgeworfen"
+
+msgid "Emblems"
+msgstr "Embleme"
+
+msgid "Emptying the Trash..."
+msgstr "Papierkorb leeren…"
+
+msgid "Enable _Volume Management"
+msgstr "Datenträger_verwaltung aktivieren"
+
+msgid ""
+"Enable this option if you want a waiting cursor to be shown while the action "
+"is launched. This is also highly recommended if you have focus stealing "
+"prevention enabled in your window manager."
+msgstr ""
+"Aktivieren Sie dies, wenn Sie einen wartenden Zeiger dargstellt möchten, "
+"während die Aktion gestartet wird. Dies wird auch wärmstens empfohlen, wenn "
+"der Fokusverlust aktiv von der Fensterverwaltung verhindert wird."
+
+msgid "End element handler called while in root context"
+msgstr ""
+"Die Behandlungsmethode für das Element wurde während des obersten Kontextes "
+"aufgerufen"
+
+msgid ""
+"Enter a list of patterns that will be used to determine whether this action "
+"should be displayed for a selected file. If you specify more than one "
+"pattern here, the list items must be separated with semicolons (e.g. *.txt;*."
+"doc)."
+msgstr ""
+"Geben Sie eine Liste von Mustern ein, die verwendet werden soll, um zu "
+"bestimmen, ob diese Aktion für die ausgewählte Datei angezeigt werden soll. "
+"Falls Sie mehrere Muster angeben, müssen die Elemente mit Strichpunkten "
+"getrennt werden (z.B. *.txt;*.doc)."
+
+msgid "Enter the new name:"
+msgstr "Neuen Namen eingeben:"
+
+msgid ""
+"Enter the text that should be used as replacement for the pattern above."
+msgstr ""
+"Der Text, durch den das obige Suchmuster in zutreffenden Dateinamen ersetzt "
+"werden soll."
+
+msgid "Enter the text to search for in the file names."
+msgstr "Der Text, nach dem in den Dateinamen gesucht werden soll."
+
+msgid "Example for a custom action"
+msgstr "Beispiel für eine eigene Aktion"
+
+msgid "Executable Files"
+msgstr "Ausführbare Dateien"
+
+msgid "Execute the selected file"
+msgid_plural "Execute the selected files"
+msgstr[0] "Die ausgewählte Datei ausführen"
+msgstr[1] "Die ausgewählten Dateien ausführen"
+
+msgid "Exposure Program:"
+msgstr "Belichtungsprogr.:"
+
+msgid "Exposure Time:"
+msgstr "Belichtungsdauer:"
+
+msgid "Failed to add new application \"%s\""
+msgstr "Die Anwendung »%s« konnte nicht hinzugefügt werden"
+
+msgid "Failed to add new shortcut"
+msgstr "Neues Lesezeichen konnte nicht hinzugefügt werden"
+
+msgid "Failed to browse the network"
+msgstr "Das Netzwerk konnte nicht durchsucht werden"
+
+msgid "Failed to change icon of \"%s\""
+msgstr "Das Symbol von »%s« konnte nicht geändert werden"
+
+msgid "Failed to change the group of \"%s\": %s"
+msgstr "Die Gruppe von »%s« konnte nicht geändert werden: %s"
+
+msgid "Failed to change the owner of \"%s\": %s"
+msgstr "Der Besitzer von »%s« konnte nicht geändert werden: %s"
+
+msgid "Failed to change the permissions of \"%s\": %s"
+msgstr "Die Berechtigungen von »%s« konnten nicht geändert werden: %s"
+
+msgid "Failed to compose new email"
+msgstr "Konnte neue E-Mail nicht erstellen"
+
+msgid "Failed to compress %d file"
+msgid_plural "Failed to compress %d files"
+msgstr[0] "%d Datei konnte nicht komprimiert werden"
+msgstr[1] "%d Dateien konnten nicht komprimiert werden"
+
+msgid "Failed to connect to the Trash"
+msgstr "Konnte keine Verbindung zum Papierkorb aufbauen"
+
+msgid "Failed to create a link for the URL \"%s\""
+msgstr "Eine Verknüpfung für die Adresse »%s« konnte nicht erzeugt werden"
+
+msgid "Failed to create directory \"%s\": %s"
+msgstr "Der Ordner »%s« konnte nicht erstellt werden: %s"
+
+msgid "Failed to create empty file \"%s\": %s"
+msgstr "Die leere Datei »%s« konnte nicht erstellt werden: %s"
+
+msgid "Failed to create symbolic link for \"%s\""
+msgstr "Verknüpfung für »%s« konnte nicht erstellt werden"
+
+msgid "Failed to create temporary directory"
+msgstr "Temporärer Ordner konnte nicht erstellt werden"
+
+msgid "Failed to determine save location for uca.xml"
+msgstr "Konnte den Speicherort für »uca.xml« nicht bestimmen"
+
+msgid "Failed to determine the mount point of \"%s\""
+msgstr "Der Einhängepunkt für »%s« konnte nicht bestimmt werden"
+
+msgid "Failed to determine the original path for \"%s\""
+msgstr "Der Herkunftsort von »%s« konnte nicht ermittelt werden"
+
+msgid "Failed to display the contents of the trash can"
+msgstr "Der Inhalt des Papierkorbs konnte nicht angezeigt werden"
+
+msgid "Failed to display the volume management settings"
+msgstr ""
+"Die Einstellungen der Datenträgerverwaltung konnten nicht geöffnet werden"
+
+msgid "Failed to eject \"%s\""
+msgstr "Der Datenträger »%s« konnte nicht ausgeworfen werden"
+
+msgid "Failed to execute application \"%s\""
+msgstr "Die Anwendung »%s« konnte nicht ausgeführt werden"
+
+msgid "Failed to execute file \"%s\""
+msgstr "Konnte »%s« nicht umbenennen"
+
+msgid "Failed to launch \"%s\""
+msgstr "»%s« konnte nicht ausgeführt werden"
+
+msgid "Failed to launch action \"%s\"."
+msgstr "Die Aktion »%s« konnte nicht ausgeführt werden."
+
+msgid "Failed to launch operation"
+msgstr "Die Operation konnte nicht gestartet werden"
+
+msgid "Failed to mount \"%s\""
+msgstr "Der Datenträger »%s« konnte nicht eingehängt werden"
+
+msgid "Failed to open \"%s\""
+msgstr "Konnte »%s« nicht öffnen"
+
+msgid "Failed to open \"%s\": %s"
+msgstr "Konnte »%s« nicht öffnen: %s"
+
+msgid "Failed to open %d file"
+msgid_plural "Failed to open %d files"
+msgstr[0] "%d Datei konnte nicht geöffnet werden"
+msgstr[1] "%d Dateien konnten nicht geöffnet werden"
+
+msgid "Failed to open directory \"%s\""
+msgstr "Der Ordner »%s« konnte nicht geöffnet werden"
+
+msgid "Failed to open file \"%s\""
+msgstr "»%s« konnte nicht geöffnet werden"
+
+msgid "Failed to open folder \"%s\""
+msgstr "Der Ordner »%s« konnte nicht geöffnet werden"
+
+msgid "Failed to open parent folder"
+msgstr "Der Eltern-Ordner konnte nicht geöffnet werden"
+
+msgid "Failed to open the documentation browser"
+msgstr "Die Dokumentation konnte nicht angezeigt werden"
+
+msgid "Failed to open the file system root folder"
+msgstr "Das Stammverzeichnis konnte nicht geöffnet werden"
+
+msgid "Failed to open the home folder"
+msgstr "Der persönliche Ordner konnte nicht geöffnet werden"
+
+msgid "Failed to parse the desktop file: %s"
+msgstr "Die Desktop-Datei »%s« konnte nicht geparst werden"
+
+msgid "Failed to remove \"%s\""
+msgstr "Die Datei »%s« konnte nicht gelöscht werden"
+
+msgid "Failed to rename \"%s\""
+msgstr "Die Datei »%s« konnte nicht umbenannt werden"
+
+msgid "Failed to rename \"%s\" to \"%s\"."
+msgstr "Die Datei »%s« konnte nicht in »%s« umbenannt werden"
+
+msgid "Failed to restore the folder \"%s\""
+msgstr "Konnte Ordner »%s« nicht wiederherstellen"
+
+msgid "Failed to save \"%s\"."
+msgstr "Die Datei »%s« konnte nicht gespeichert werden."
+
+msgid "Failed to save actions to disk."
+msgstr "Die benutzerdefinierten Aktionen konnten nicht gespeichert werden."
+
+msgid "Failed to set default application for \"%s\""
+msgstr "Die Standardanwendung für »%s« konnte nicht gesetzt werden"
+
+msgid "File"
+msgstr "Datei"
+
+msgid "File Context Menu"
+msgstr "Dateimenü"
+
+msgid "File Manager"
+msgstr "Dateimanager"
+
+msgid "File Manager Preferences"
+msgstr "Dateimanager-Einstellungen"
+
+msgid "File Name"
+msgstr "Dateiname"
+
+msgid "File Operation Progress"
+msgstr "Fortschritt der Dateioperation"
+
+msgid "File System"
+msgstr "Dateisystem"
+
+msgid "File does not exist"
+msgstr "Datei ist nicht vorhanden"
+
+msgid "Flash Fired:"
+msgstr "Blitzlicht:"
+
+msgid "Focal Length:"
+msgstr "Brennweite:"
+
+msgid "Folder Context Menu"
+msgstr "Ordnermenü"
+
+msgid "Folder Permissions"
+msgstr "Ordner-Berechtigungen"
+
+msgid "Forward"
+msgstr "Vorwärts"
+
+msgid "Free Space:"
+msgstr "Freier Speicher:"
+
+msgid "From the back (right)"
+msgstr "Von hinten (rechts)"
+
+msgid "From the front (left)"
+msgstr "Von vorne (links)"
+
+msgid "General"
+msgstr "Allgemein"
+
+msgid "Go to the desktop folder"
+msgstr "Den Desktop-Ordner öffnen"
+
+msgid "Go to the documents folder"
+msgstr "Den Dokumente-Ordner öffnen"
+
+msgid "Go to the downloads folder"
+msgstr "Den Download-Ordner öffnen"
+
+msgid "Go to the home folder"
+msgstr "Den persönlichen Ordner öffnen"
+
+msgid "Go to the music folder"
+msgstr "Den Musik-Ordner öffnen"
+
+msgid "Go to the next visited folder"
+msgstr "Zum nächsten besuchten Ort gehen"
+
+msgid "Go to the pictures folder"
+msgstr "Den Bilder-Ordner öffnen"
+
+msgid "Go to the previous visited folder"
+msgstr "Zum vorher besuchten Ort gehen"
+
+msgid "Go to the public folder"
+msgstr "Den öffentlichen Ordner öffnen"
+
+msgid "Go to the templates folder"
+msgstr "Den Vorlagenordner öffnen"
+
+msgid "Go to the videos folder"
+msgstr "Den Video-Ordner öffnen"
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "Group:"
+msgstr "Gruppe:"
+
+msgid "Help URL"
+msgstr "URL der Hilfe"
+
+msgid "Hi_de"
+msgstr "_Verbergen"
+
+msgid "ISO Speed Ratings:"
+msgstr "ISO-Geschw.:"
+
+msgid "Icon View"
+msgstr "Symbolansicht"
+
+msgid "Icon _Size:"
+msgstr "Symbol_größe"
+
+msgid "Icon based directory listing"
+msgstr "Symbolbasierte Ordneransicht"
+
+msgid "Icon size"
+msgstr "Symbolgröße"
+
+msgid "Icon view"
+msgstr "Symbolansicht"
+
+msgid ""
+"If you choose to empty the Trash, all items in it will be permanently lost. "
+"Please note that you can also delete them separately."
+msgstr ""
+"Wenn Sie den Papierkorb leeren, werden darin enthaltene Objekte dauerhaft "
+"gelöscht. Beachten Sie, dass Sie auch einzelne Objekte löschen können."
+
+msgid "If you delete a custom action, it is permanently lost."
+msgstr ""
+"Wenn Sie eine benutzerdefinierte Aktion löschen, geht sie dauerhaft verloren."
+
+msgid "If you delete a file, it is permanently lost."
+msgstr ""
+"Wenn Sie eine Datei oder einen Ordner löschen, gehen die Daten dauerhaft "
+"verloren."
+
+msgid ""
+"If you enable this option, the pattern will be searched in a case-sensitive "
+"manner. The default is to use a case-insensitive search."
+msgstr ""
+"Wenn diese Option deaktiviert ist, wird das Suchmuster unabhängig von der "
+"Groß-/Kleinschreibung im Dateinamen verglichen. Ansonsten, wenn diese Option "
+"aktiviert ist, muss die Groß-/Kleinschreibung im Suchmuster mit dem Text im "
+"Dateinamen übereinstimmen."
+
+msgid ""
+"If you enable this option, the pattern will be treated as a regular "
+"expression and matched using the Perl-compatible regular expressions (PCRE). "
+"Check the documentation for details about the regular expression syntax."
+msgstr ""
+"Wenn diese Option aktiviert ist, wird das Suchmuster als regulärer Ausdruck "
+"(Regular Expression) betrachtet und mittels der Bibliothek »Perl-compatible "
+"Regular Expressions (PCRE)« auf die Dateinamen angewendet. Die Dokumentation "
+"beschreibt die Details der unterstützten Syntax für reguläre Ausdrücke."
+
+msgid ""
+"If you frequently create certain kinds  of documents, make a copy of one and "
+"put it in this folder. Thunar will add an entry for this document in the "
+"\"Create Document\" menu.\n"
+"\n"
+"You can then select the entry from the \"Create Document\" menu and a copy "
+"of the document will be created in the directory you are viewing."
+msgstr ""
+"Falls Sie häufig eine bestimmte Art von Dokument erstellen, legen Sie eine "
+"Kopie davon in diesem Ordner ab. Thunar erstellt einen Eintrag für dieses "
+"Dokument in dem Menü »Neues Dokument erstellen«.\n"
+"\n"
+"Sie können diesen Eintrag in dem Menü »Neues Dokument erstellen« wählen, und "
+"eine Kopie dieses Dokuments wird im gerade angezeigten Ordner angelegt."
+
+msgid ""
+"If you select this option your choice will be remembered and you won't be "
+"asked again. You can use the preferences dialog to alter your choice "
+"afterwards."
+msgstr ""
+"Falls Sie diese Option wählen, wird ihre Wahl gespeichert und Sie werden "
+"nicht mehr gefragt. Sie können diese Wahl im Einstellungsdialog später "
+"ändern."
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Image Files"
+msgstr "Bilddateien"
+
+msgid "Image Size:"
+msgstr "Bildgröße:"
+
+msgid "Image Type:"
+msgstr "Bildtyp:"
+
+msgid "Include additional files in the list of files to be renamed"
+msgstr ""
+"Weitere Dateien zur Liste hinzufügen, die ebenfalls umbenannt werden sollen"
+
+msgid "Insert"
+msgstr "Einfügen"
+
+msgid "Insert / Overwrite"
+msgstr "Einfügen / Überschreiben"
+
+msgid "Insert Date / Time"
+msgstr "Datum / Uhrzeit einfügen"
+
+msgid "Insert _time:"
+msgstr "_Zeit einfügen:"
+
+msgid "Invalid desktop file"
+msgstr "Ungültige .desktop-Datei"
+
+msgid "Invalid filename \"%s\""
+msgstr "Ungültiger Dateiname »%s«"
+
+msgid "Invalid filename provided by XDS drag site"
+msgstr "Ungültiger Dateiname seitens der Quelle"
+
+msgid "Invalid path"
+msgstr "Ungültiger Pfad"
+
+msgid "Invalid regular expression, at character position %ld: %s"
+msgstr "Ungültiger regulärer Ausdruck, Fehler an Zeichenposition %ld: %s"
+
+msgid "Keep items sorted by their modification date"
+msgstr "Objekte nach Änderungsdatum in Zeilen sortieren"
+
+msgid "Keep items sorted by their name"
+msgstr "Objekte nach Name sortieren"
+
+msgid "Keep items sorted by their size"
+msgstr "Objekte nach Größe sortieren"
+
+msgid "Keep items sorted by their type"
+msgstr "Objekte nach Typ in Zeilen sortieren"
+
+msgid "Kind:"
+msgstr "Typ:"
+
+msgid "Label"
+msgstr "Beschriftung"
+
+msgid "Label widget"
+msgstr "Beschriftungsobjekt"
+
+msgid "Large"
+msgstr "Groß"
+
+msgid "Larger"
+msgstr "Größer"
+
+msgid "Last Active View"
+msgstr "Zuletzt aktiver Ansicht"
+
+msgid "Launcher"
+msgstr "Starter"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Link Target:"
+msgstr "Verknüpfungsziel:"
+
+msgid "Loading folder contents..."
+msgstr "Ordnerinhalt wird geladen…"
+
+msgid "Loading..."
+msgstr "Wird geladen…"
+
+msgid "Long"
+msgstr "Lang"
+
+msgid "MIME Type"
+msgstr "MIME-Typ"
+
+msgid "Ma_ke Link"
+msgid_plural "Ma_ke Links"
+msgstr[0] "_Verknüpfung erstellen"
+msgstr[1] "_Verknüpfungen erstellen"
+
+msgid "Mail Recipient"
+msgstr "E-Mail-Empfänger"
+
+msgid "Medium"
+msgstr "Mittel"
+
+msgid "Metering Mode:"
+msgstr "Messmethode:"
+
+msgid "Modern approach with buttons that correspond to folders"
+msgstr "Moderner Ansatz mit Knöpfen, die Ordnern entsprechen"
+
+msgid "Modified:"
+msgstr "Geändert:"
+
+msgid "Move Dow_n"
+msgstr "_Hinunter schieben"
+
+msgid "Move _Up"
+msgstr "_Aufwärts schieben"
+
+msgid "Move or copy files previously selected by a Cut or Copy command"
+msgstr ""
+"Zuvor durch »Ausschneiden« oder »Kopieren« ausgewählte Dateien verschieben "
+"oder kopieren"
+
+msgid ""
+"Move or copy files previously selected by a Cut or Copy command into \"%s\""
+msgstr ""
+"Zuvor durch »Ausschneiden« oder »Kopieren« ausgewählte Dateien nach »%s« "
+"verschieben oder kopieren"
+
+msgid ""
+"Move or copy files previously selected by a Cut or Copy command into the "
+"selected folder"
+msgstr ""
+"Zuvor durch »Ausschneiden« oder »Kopieren« ausgewählte Dateien in den "
+"gewählten Ordner verschieben oder kopieren"
+
+msgid "Move the currently selected action down by one row."
+msgstr "Die ausgewählte Aktion eine Zeile nach unten verschieben"
+
+msgid "Move the currently selected action up by one row."
+msgstr "Die ausgewählte Aktion eine Zeile nach oben verschieben"
+
+msgid "Moving files into \"%s\"..."
+msgstr "Dateien werden in »%s« verschoben…"
+
+msgid "Moving files into the trash..."
+msgstr "Dateien werden in den Papierkorb verschoben…"
+
+msgid "N_o to all"
+msgstr "Nein zu a_llen"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Name and Suffix"
+msgstr "Name und Suffix"
+
+msgid "Name only"
+msgstr "Nur Name"
+
+msgid "Name:"
+msgstr "Name:"
+
+msgid "Navigation"
+msgstr "Navigation"
+
+msgid "Network"
+msgstr "Netzwerk"
+
+msgid "New Empty File"
+msgstr "Leere Datei"
+
+msgid "New Empty File..."
+msgstr "Neue leere Datei…"
+
+msgid "New File"
+msgstr "Neue Datei"
+
+msgid "New Folder"
+msgstr "Neuer Ordner"
+
+msgid "New Name"
+msgstr "Neuer Name"
+
+msgid "No Exec field specified"
+msgstr "Das Exec-Feld fehlt oder ist leer"
+
+msgid "No URL field specified"
+msgstr "Das URL-Feld fehlt oder ist leer"
+
+msgid "No application selected"
+msgstr "Keine Anwendung ausgewählt"
+
+msgid "No icon"
+msgstr "Kein Symbol"
+
+msgid ""
+"No renamer modules were found on your system. Please check your\n"
+"installation or contact your system administrator. If you install Thunar\n"
+"from source, be sure to enable the \"Simple Builtin Renamers\" plugin."
+msgstr ""
+"Es wurden keine Module zum Umbenennen von Dateien auf Ihrem System "
+"gefunden.\n"
+"Überpüfen Sie bitte Ihre Installation oder setzen Sie sich mit Ihrem "
+"System-\n"
+"Administrator in Verbindung. Falls Sie Thunar aus den Quellen installiert\n"
+"haben, stellen Sie sicher, dass das Plugin »Einfaches Umbenennen« aktiviert\n"
+"ist."
+
+msgid "No templates installed"
+msgstr "Keine Vorlagen installiert"
+
+msgid "None"
+msgstr "Keine"
+
+msgid "None available"
+msgstr "Keine verfügbar"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Normal Si_ze"
+msgstr "_Normale Größe"
+
+msgid "Number - Text"
+msgstr "Zahl - Text"
+
+msgid "Number - Text - Old Name"
+msgstr "Zahl - Text - Alter Name"
+
+msgid "Numbering"
+msgstr "Nummerieren"
+
+msgid "Old Name - Text - Number"
+msgstr "Alter Name - Text - Zahl"
+
+msgid "Open \"%s\" in a new window"
+msgstr "Ordner »%s« in einem neuen Fenster darstellen"
+
+msgid "Open \"%s\" in this window"
+msgstr "Ordner »%s« in diesem Fenster darstellen"
+
+msgid "Open %d New Window"
+msgid_plural "Open %d New Windows"
+msgstr[0] "%d neues Fenster öffnen"
+msgstr[1] "%d neue Fenster öffnen"
+
+msgid "Open <i>%s</i> and other files of type \"%s\" with:"
+msgstr "<i>%s</i> und andere Dateien vom Typ »%s« öffnen mit:"
+
+msgid "Open Folder"
+msgstr "Ordner öffnen"
+
+msgid "Open Folder with Thunar"
+msgstr "Ordner in Thunar öffnen"
+
+msgid "Open Location"
+msgstr "Ort öffnen"
+
+msgid "Open New _Window"
+msgstr "_Neues Fenster öffnen"
+
+msgid "Open Terminal Here"
+msgstr "Terminal hier öffnen"
+
+msgid "Open With"
+msgstr "Öffnen mit"
+
+msgid "Open With \"%s\""
+msgstr "Mit »%s« öffnen"
+
+msgid "Open With Other _Application..."
+msgstr "Mit anderer A_nwendung öffnen…"
+
+msgid "Open With:"
+msgstr "Öffnen mit:"
+
+msgid "Open _Parent"
+msgstr "_Eltern-Ordner öffnen"
+
+msgid "Open a new Thunar window for the displayed location"
+msgstr "Ein weiteres Fenster für diesen Ort öffnen"
+
+msgid "Open in %d New Window"
+msgid_plural "Open in %d New Windows"
+msgstr[0] "In %d neuem Fenster öffnen"
+msgstr[1] "In %d neuen Fenstern öffnen"
+
+msgid "Open in New Window"
+msgstr "In neuem Fenster öffnen"
+
+msgid "Open the bulk rename dialog"
+msgstr "Den Bulk-Rename-Dialog öffnen"
+
+msgid "Open the parent folder"
+msgstr "Den übergeordneten Ordner öffnen"
+
+msgid "Open the selected directory in %d new window"
+msgid_plural "Open the selected directories in %d new windows"
+msgstr[0] "Den ausgewählten Ordner in %d neuen Fenster anzeigen"
+msgstr[1] "Die ausgewählten Ordner in %d neuen Fenstern anzeigen"
+
+msgid "Open the selected directory in a new window"
+msgstr "Den ausgewählten Ordner in neuem Fenster anzeigen"
+
+msgid "Open the selected file"
+msgid_plural "Open the selected files"
+msgstr[0] "Die ausgewählte Datei öffnen"
+msgstr[1] "Die ausgewählten Dateien öffnen"
+
+msgid "Open the selected file with the default application"
+msgid_plural "Open the selected files with the default applications"
+msgstr[0] "Die ausgewählte Datei mit der Standardanwendung öffnen"
+msgstr[1] "Die ausgewählten Dateien mit den Standardanwendungen öffnen"
+
+msgid "Open the specified folders in Thunar"
+msgstr "Angegebene Ordner mit Thunar öffnen"
+
+msgid "Options:"
+msgstr "Optionen:"
+
+msgid "Original Path:"
+msgstr "Herkunftsort:"
+
+msgid "Other Application..."
+msgstr "Andere Anwendung…"
+
+msgid "Other Applications"
+msgstr "Andere Anwendungen"
+
+msgid "Others:"
+msgstr "Andere:"
+
+msgid "Overwrite"
+msgstr "Überschreiben mit"
+
+msgid "Owner"
+msgstr "Besitzer"
+
+msgid "Owner:"
+msgstr "Besitzer:"
+
+msgid "P_roperties..."
+msgstr "_Eigenschaften…"
+
+msgid "Paste Into Folder"
+msgstr "In Ordner einfügen"
+
+msgid "Perl Scripts"
+msgstr "Perl-Skripte"
+
+msgid "Permissions"
+msgstr "Berechtigungen"
+
+msgid "Please report bugs to <%s>."
+msgstr "Bitte melden Sie Probleme unter <%s>."
+
+msgid "Please wait..."
+msgstr "Bitte warten…"
+
+msgid "Pr_eferences..."
+msgstr "_Einstellungen…"
+
+msgid "Prepare the selected file to be copied with a Paste command"
+msgid_plural "Prepare the selected files to be copied with a Paste command"
+msgstr[0] ""
+"Die ausgewählte Datei beim nächsten »Einfügen« an neuen Ort kopieren"
+msgstr[1] ""
+"Die ausgewählten Dateien beim nächsten »Einfügen« an neuen Ort kopieren"
+
+msgid "Prepare the selected file to be moved with a Paste command"
+msgid_plural "Prepare the selected files to be moved with a Paste command"
+msgstr[0] ""
+"Die ausgewählte Datei beim nächsten »Einfügen« an neuen Ort verschieben"
+msgstr[1] ""
+"Die ausgewählten Dateien beim nächsten »Einfügen« an neuen Ort verschieben"
+
+msgid "Preparing..."
+msgstr "Vorbereiten…"
+
+msgid "Print version information and exit"
+msgstr "Programmversion anzeigen"
+
+msgid "Program:"
+msgstr "Programm:"
+
+msgid "Python Scripts"
+msgstr "Python-Skripte"
+
+msgid "Question"
+msgstr "Frage"
+
+msgid "Quit a running Thunar instance"
+msgstr "Einen laufenden Prozess von Thunar beenden"
+
+msgid "Quit a running Thunar instance (not supported)"
+msgstr "Einen laufenden Prozess von Thunar beenden (nicht unterstützt)"
+
+msgid "Re_name Shortcut"
+msgstr "Lesezeichen _umbenennen"
+
+msgid "Read & Write"
+msgstr "Lesen & Schreiben"
+
+msgid "Read only"
+msgstr "Nur Lesen"
+
+msgid "Recommended Applications"
+msgstr "Bevorzugte Anwendungen"
+
+msgid "Regular _Expression"
+msgstr "R_egulärer Ausdruck"
+
+msgid "Reload the current folder"
+msgstr "Den aktuellen Ordner neu einlesen"
+
+msgid "Remove Characters"
+msgstr "Zeichen entfernen"
+
+msgid "Remove File"
+msgid_plural "Remove Files"
+msgstr[0] "Datei _entfernen"
+msgstr[1] "Dateien _entfernen"
+
+msgid "Remove _From Position:"
+msgstr "_Entferne Zeichen ab Position:"
+
+msgid "Remove all files and folders from the Trash?"
+msgstr "Alle Dateien und Ordner aus dem Papierkorb löschen?"
+
+msgid "Remove the selected file from the list of files to be renamed"
+msgid_plural "Remove the selected files from the list of files to be renamed"
+msgstr[0] ""
+"Aus der Liste der unten angezeigten Dateien die ausgewählte Datei entfernen"
+msgstr[1] ""
+"Aus der Liste der unten angezeigten Dateien die ausgewählten Dateien "
+"entfernen"
+
+msgid "Rename \"%s\""
+msgstr "»%s« umbenennen"
+
+msgid "Rename Multiple Files"
+msgstr "Mehrere Dateien gleichzeitig umbenennen"
+
+msgid "Rename the selected file"
+msgid_plural "Rename the selected files"
+msgstr[0] "Die ausgewählte Datei umbenennen"
+msgstr[1] "Die ausgewählten Dateien umbenennen"
+
+msgid "Replace _All"
+msgstr "A_lle ersetzen"
+
+msgid "Replace _With:"
+msgstr "Ersetzen _mit:"
+
+msgid "ReplaceDialogPart1|Do you want to replace the existing file"
+msgstr "Wollen Sie die existierende Datei"
+
+msgid "ReplaceDialogPart1|Do you want to replace the existing folder"
+msgstr "Wollen Sie den vorhandenen Ordner"
+
+msgid "ReplaceDialogPart1|Do you want to replace the link"
+msgstr "Wollen Sie die vorhandene Verknüpfung"
+
+msgid "ReplaceDialogPart2|with the following file?"
+msgstr "mit dieser ersetzen?"
+
+msgid "ReplaceDialogPart2|with the following folder?"
+msgstr "mit diesem ersetzen?"
+
+msgid "ReplaceDialogPart2|with the following link?"
+msgstr "mit dieser ersetzen?"
+
+msgid "Resident"
+msgstr "resident"
+
+msgid "Restore the selected file"
+msgid_plural "Restore the selected files"
+msgstr[0] "Die ausgewählte Datei wiederherstellen"
+msgstr[1] "Die ausgewählten Dateien wiederherstellen"
+
+msgid "Restoring files..."
+msgstr "Dateien werden wiederhergestellt…"
+
+msgid "Ruby Scripts"
+msgstr "Ruby-Skripte"
+
+msgid "Run in _terminal"
+msgstr "In _Terminal ausführen"
+
+msgid "Run in daemon mode"
+msgstr "Als Hintergrundprozess starten"
+
+msgid "Run in daemon mode (not supported)"
+msgstr "Als Hintergrundprozess starten (nicht unterstützt)"
+
+msgid "Search & Replace"
+msgstr "Suchen & Ersetzen"
+
+msgid "Select _all Files"
+msgstr "Alles au_swählen"
+
+msgid "Select _by Pattern..."
+msgstr "_Muster auswählen…"
+
+msgid "Select all files in this window"
+msgstr "Alle Dateien in diesem Fenster auswählen"
+
+msgid "Select all files that match a certain pattern"
+msgstr "Alle Dateien auswählen, die einem bestimmten Muster entsprechen"
+
+msgid "Select an Application"
+msgstr "Anwendung auswählen"
+
+msgid "Select an Icon for \"%s\""
+msgstr "Symbol für »%s« auswählen"
+
+msgid "Select by Pattern"
+msgstr "Muster auswählen"
+
+msgid "Select files to rename"
+msgstr "Die umzubenennenden Dateien auswählen"
+
+msgid ""
+"Select this option to display icon emblems in the shortcuts pane for all "
+"folders for which emblems have been defined in the folders properties dialog."
+msgstr ""
+"Embleme in der Lesezeichenliste für alle Ordner anzeigen, für die im "
+"Dateieigenschaftendialog die Option »Embleme« ausgewählt wurde."
+
+msgid ""
+"Select this option to display icon emblems in the tree pane for all folders "
+"for which emblems have been defined in the folders properties dialog."
+msgstr ""
+"Embleme in der Baumansicht für alle Ordner anzeigen, für die im "
+"Dateieigenschaftendialog die Option »Embleme« ausgewählt wurde."
+
+msgid ""
+"Select this option to display previewable files within a folder as "
+"automatically generated thumbnail icons."
+msgstr ""
+"Wählen Sie diese Option, um Dateien, für die eine Vorschau erstellt werden "
+"kann, innerhalb eines Ordners als automatisch erzeugte Vorschausymbole "
+"darzustellen."
+
+msgid ""
+"Select this option to enable startup notification when the command is run "
+"from the file manager or the menu. Not every application supports startup "
+"notification."
+msgstr ""
+"Wählen Sie diese Option, um visuelle Rückmeldung über den Programmstart zu "
+"erhalten, wenn der Befehl aus dem Dateimanager oder dem Menü heraus "
+"gestartet wird. Nicht jede Anwendung unterstützt dies."
+
+msgid "Select this option to list folders before files when you sort a folder."
+msgstr ""
+"Wird diese Einstellung ausgewählt, werden Ordner grundsätzlich vor allen "
+"anderen Dateien angezeigt."
+
+msgid ""
+"Select this option to place the icon captions for items beside the icon "
+"rather than below the icon."
+msgstr ""
+"Wird diese Einstellung ausgewählt, werden in der Symbolansicht die "
+"Dateinamen neben den Dateisymbolen angezeigt, statt darunter."
+
+msgid "Select this option to run the command in a terminal window."
+msgstr ""
+"Ist diese Option aktiv, wird der oben angegebene Befehl in einem Terminal-"
+"Fenster ausgeführt."
+
+msgid "Send \"%s\" as compressed archive?"
+msgstr "»%s« als komprimiertes Archiv senden?"
+
+msgid "Send %d file as compressed archive?"
+msgid_plural "Send %d files as compressed archive?"
+msgstr[0] "%d Datei als komprimiertes Archiv senden?"
+msgstr[1] "%d Dateien als komprimiertes Archiv senden?"
+
+msgid "Send _directly"
+msgstr "_Direkt senden"
+
+msgid "Send as _archive"
+msgstr "Als A_rchiv senden"
+
+msgid "Send com_pressed"
+msgstr "_Komprimiert senden"
+
+msgid "Send the selected file to \"%s\""
+msgid_plural "Send the selected files to \"%s\""
+msgstr[0] "Die ausgewählte Datei an »%s« senden"
+msgstr[1] "Die ausgewählten Dateien an »%s« senden"
+
+msgid "Set as wallpaper"
+msgstr "Als Hintergrundbild verwenden"
+
+msgid ""
+"Setup custom actions that will appear in the file managers context menus"
+msgstr ""
+"Benutzerdefinierte Aktionen einrichten, die in den Kontextmenüs des "
+"Dateimanagers erscheinen"
+
+msgid "Shell Scripts"
+msgstr "Shell-Skripte"
+
+msgid "Shortcuts Pane"
+msgstr "Lesezeichenliste"
+
+msgid "Show Icon E_mblems"
+msgstr "Embleme für _Ordner anzeigen"
+
+msgid "Show Icon _Emblems"
+msgstr "_Embleme für Lesezeichen anzeigen"
+
+msgid "Show _Hidden Files"
+msgstr "_Verborgene Dateien anzeigen"
+
+msgid "Show the contents at the normal size"
+msgstr "Den Inhalt in normaler Größe anzeigen"
+
+msgid "Show the contents in less detail"
+msgstr "Den Inhalt weniger detailliert anzeigen"
+
+msgid "Show the contents in more detail"
+msgstr "Den Inhalt detaillierter anzeigen"
+
+msgid "Shutter Speed:"
+msgstr "Verschlussgeschw.:"
+
+msgid "Side Pane"
+msgstr "Seitenleiste"
+
+msgid "Side Pane (Create Shortcut)"
+msgid_plural "Side Pane (Create Shortcuts)"
+msgstr[0] "Seitenleiste (Lesezeichen erstellen)"
+msgstr[1] "Seitenleiste (Lesezeichen erstellen)"
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "Size:"
+msgstr "Größe:"
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Smaller"
+msgstr "Kleiner"
+
+msgid "Software:"
+msgstr "Software:"
+
+msgid "Sort By Modification _Date"
+msgstr "Nach Än_derungsdatum sortieren"
+
+msgid "Sort By _Name"
+msgstr "Nach _Name sortieren"
+
+msgid "Sort By _Size"
+msgstr "Nach _Größe sortieren"
+
+msgid "Sort By _Type"
+msgstr "Nach Datei_typ sortieren"
+
+msgid "Sort _folders before files"
+msgstr "_Ordner vor Dateien anzeigen"
+
+msgid "Sort items in ascending order"
+msgstr "Objekte in absteigender Richtung sortieren"
+
+msgid "Sort items in descending order"
+msgstr "Objekte in absteigender Richtung sortieren"
+
+msgid "Spacing"
+msgstr "Abstand"
+
+msgid "Specify a location to open"
+msgstr "Einen Ort eingeben, der geöffnet werden soll"
+
+msgid ""
+"Specify the d_elay before an item gets selected\n"
+"when the mouse pointer is paused over it:"
+msgstr ""
+"Wählen Sie die _Zeit, nach der das Objekt, über dem\n"
+"sich der Mauszeiger befindet, automatisch ausge-\n"
+"wählt wird:"
+
+msgid "St_atusbar"
+msgstr "Sta_tusleiste"
+
+msgid "Stop applying permissions recursively."
+msgstr "Rekursives Anwenden der neuen Berechtigungen abbrechen."
+
+msgid "Suffix only"
+msgstr "Nur Suffix"
+
+msgid "T_emplates"
+msgstr "_Vorlagen"
+
+msgid "T_rash"
+msgstr "P_apierkorb"
+
+msgid "Text - Number"
+msgstr "Text - Zahl"
+
+msgid "Text _Format:"
+msgstr "Text_format:"
+
+msgid "Text of the page's label"
+msgstr "Text für die Beschriftung der Seite"
+
+msgid "The Thunar development team. All rights reserved."
+msgstr "Die Thunar-Entwickler. Alle Rechte vorbehalten."
+
+msgid "The URL to access."
+msgstr "Die Adresse einer Webseite oder einer ähnlichen Resource."
+
+msgid "The URL to the documentation of the renamer"
+msgstr "Die URL der Dokumentation des Umbenennungs-Moduls"
+
+msgid "The amount of space between the path buttons"
+msgstr "Der Abstand zwischen den Knöpfen für die Pfade"
+
+msgid ""
+"The command (including the necessary parameters) to perform the action. See "
+"the command parameter legend below for a list of supported parameter "
+"variables, which will be substituted when launching the command. When upper-"
+"case letters (e.g. %F, %D, %N) are used, the action will be applicable even "
+"if more than one item is selected. Else the action will only be applicable "
+"if exactly one item is selected."
+msgstr ""
+"Der Befehl (einschließlich aller notwendigen Parameter), um die Aktion "
+"auszuführen. Siehe unten die Erklärung für Befehlsparameter, die beim "
+"Ausführen des Befehls ersetzt werden. Wenn Großbuchstaben verwendet werden "
+"(z.B. %F, %D, %N), ist die Aktion auch anwendbar, wenn mehrere Dateien "
+"ausgewählt sind. Ansonsten kann die Anwendung nur auf eine einzelne Datei "
+"angewandt werden."
+
+msgid ""
+"The description of the action that will be displayed as tooltip in the "
+"statusbar when selecting the item from the context menu."
+msgstr ""
+"Die Beschreibung dieser Aktion wird als Erklärung in der Statusleiste "
+"angezeigt, wenn die Aktion im Kontextmenü ausgewählt wird."
+
+msgid "The device \"%s\" is being ejected. This may take some time"
+msgstr "Das Gerät »%s« wird ausgeworfen. Dies kann einige Zeit dauern."
+
+msgid ""
+"The device \"%s\" is being unmounted by the system. Please do not remove the "
+"media or disconnect the drive"
+msgstr ""
+"Das Gerät »%s« wird vom System ausgehängt. Bitte entfernen Sie das Medium "
+"nicht oder trennen die Verbindung"
+
+msgid "The file \"%s\" already exists"
+msgstr "Die Datei »%s« existiert bereits"
+
+msgid ""
+"The file \"%s\" already exists. Would you like to replace it?\n"
+"\n"
+"If you replace an existing file, its contents will be overwritten."
+msgstr ""
+"Die Datei »%s« existiert bereits. Wollen Sie sie ersetzen?\n"
+"\n"
+"Falls Sie eine existierende Datei ersetzen, wird deren Inhalt überschrieben."
+
+msgid ""
+"The folder \"%s\" does not exist anymore but is required to restore the file "
+"\"%s\" from the trash"
+msgstr ""
+"Der Ordner »%s« ist nicht mehr vorhanden. Sie wird allerdings benötigt, um "
+"die Datei »%s« aus dem Papierkorb wiederherzustellen. Soll der Ordner "
+"erstellt werden?"
+
+msgid ""
+"The folder permissions are inconsistent, you\n"
+"may not be able to work with files in this folder."
+msgstr ""
+"Die Berechtigungen in diesem Ordner sind inkonsistent;\n"
+"eventuell können Sie mit den Dateien in diesem Ordner\n"
+"nicht arbeiten."
+
+msgid ""
+"The folder permissions will be reset to a consistent state. Only users "
+"allowed to read the contents of this folder will be allowed to enter the "
+"folder afterwards."
+msgstr ""
+"Die Berechtigungen für diesen Ordner werden in einen konsistenten Zustand "
+"überführt. Anschließend können nur Benutzer, die den Inhalt dieses Ordners "
+"lesen dürfen, diesen Ordner auch betreten."
+
+msgid ""
+"The following command parameters will be\n"
+"substituted when launching the action:"
+msgstr ""
+"Die folgenden Befehlsparameter werden ersetzt,\n"
+"wenn die Aktion ausgeführt wird:"
+
+msgid ""
+"The format describes the date and time parts to insert into the file name. "
+"For example, %Y will be substituted with the year, %m with the month and %d "
+"with the day. See the documentation of the date utility for additional "
+"information."
+msgstr ""
+"Das Format bestimmt, wie Teile von Datum und Zeit in den Dateinamen "
+"eingefügt werden sollen. Beispielsweise wird %Y durch das Jahr, %m durch den "
+"Monat und %d durch den Tag ersetzt. Weitere Informationen finden Sie in der "
+"Dokumentation des Werkzeugs »date«."
+
+msgid ""
+"The generic name of the entry, for example \"Web Browser\" in case of "
+"Firefox."
+msgstr ""
+"Der allgemeine Name für den Eintrag, zum Beispiel »Webbrowser« für Firefox."
+
+msgid "The icon size for the path entry"
+msgstr "Die Symbolgröße für das Pfadfeld"
+
+msgid "The name of the action that will be displayed in the context menu."
+msgstr "Der Name der Aktion, der im Kontextmenü dargestellt werden soll."
+
+msgid "The number of source and target filenames must be the same"
+msgstr "Die Anzahl der Dateinamen für Quelle und Ziel muss übereinstimmen"
+
+msgid "The path \"%s\" does not refer to a directory"
+msgstr "Der Pfad »%s« verweist nicht auf einen Ordner"
+
+msgid "The program to execute, possibly with arguments."
+msgstr "Der auszuführende Befehl, möglicherweise mit Befehlszeilen-Parametern."
+
+msgid "The root folder has no parent"
+msgstr "Das Basisverzeichnis hat keinen übergeordneten Ordner"
+
+msgid ""
+"The selected application is used to open this and other files of type \"%s\"."
+msgstr ""
+"Die gewählte Anwendung wird verwendet, um diese und andere Dateien des Typs "
+"»%s« zu öffnen."
+
+msgid "The user visible name of the renamer"
+msgstr "Der angezeigte Name des Umbenennungs-Moduls"
+
+msgid "The working directory must be an absolute path"
+msgstr "Das Arbeitsverzeichnis muss ein absoluter Pfad sein"
+
+msgid ""
+"There is data that needs to be written to the device \"%s\" before it can be "
+"removed. Please do not remove the media or disconnect the drive"
+msgstr ""
+"Es müssen noch Daten auf das Gerät »%s« geschrieben werden, bevor es "
+"entfernt werden kann. Bitte entfernen Sie das Medium nicht."
+
+msgid "There is nothing on the clipboard to paste"
+msgstr ""
+"In der Zwischenablage befindet sich nichts, was hier eingefügt werden könnte"
+
+msgid "This folder already contains a file \"%s\"."
+msgstr "Dieser Ordner enthält bereits eine Datei »%s«."
+
+msgid "This folder already contains a folder \"%s\"."
+msgstr "Dieser Ordner enthält bereits einen Ordner »%s«."
+
+msgid "This folder already contains a symbolic link \"%s\"."
+msgstr "Dieser Ordner enthält bereits eine Verknüpfung »%s«."
+
+msgid ""
+"This page lists the conditions under which the\n"
+"action will appear in the file managers context\n"
+"menus. The file patterns are specified as a list\n"
+"of simple file patterns separated by semicolons\n"
+"(e.g. *.txt;*.doc). For an action to appear in the\n"
+"context menu of a file or folder, atleast one of\n"
+"these patterns must match the name of the file\n"
+"or folder. Additionally, you can specify that the\n"
+"action should only appear for certain kinds of\n"
+"files."
+msgstr ""
+"Diese Seite führt die Bedingungen auf, unter denen\n"
+"Aktionen in den Kontextmenüs des Dateimanagers\n"
+"erscheinen. Die Dateimuster werden als Liste einfa-\n"
+"cher Muster getrennt durch Strichpunkt angegeben\n"
+"(z.B. *.txt;*.doc). Damit eine Aktion im Kontextmenü\n"
+"einer Datei oder eines Ordners erscheint, muss min-\n"
+"destens ein Muster zum Datei- oder Ordnernamen\n"
+"passen.\n"
+"Weiterhin kann angegeben werden, dass eine Aktion\n"
+"nur für bestimmte Dateitypen erscheinen soll."
+
+msgid "This will open %d separate file manager window."
+msgid_plural "This will open %d separate file manager windows."
+msgstr[0] "Es wird %d separates Dateimanager-Fenster geöffnet."
+msgstr[1] "Es werden %d separate Dateimanager-Fenster geöffnet."
+
+msgid ""
+"This will remove the application launcher that appears in the file context "
+"menu, but will not uninstall the application itself.\n"
+"\n"
+"You can only remove application launchers that were created using the custom "
+"command box in the \"Open With\" dialog of the file manager."
+msgstr ""
+"Der Starter für die Anwendung wird aus dem Kontextmenü des Dateimanagers "
+"entfernt, die Anwendung selbst wird jedoch nicht deinstalliert.\n"
+"\n"
+"Sie können ausschließlich Starter für Anwendungen entfernen, die zuvor als "
+"benutzerdefinierte Befehle im Dialog »Öffnen mit« des Dateimanagers erstellt "
+"wurden."
+
+msgid "Thunar"
+msgstr "Thunar"
+
+msgid ""
+"Thunar Bulk Rename is a powerful and extensible\n"
+"tool to rename multiple files at once."
+msgstr ""
+"Thunar Bulk-Rename ist ein mächtiges, erweiterbares\n"
+"Werkzeug zum gleichzeitigen Umbenennen mehrerer Dateien."
+
+msgid "Thunar File Manager"
+msgstr "Dateimanager Thunar"
+
+msgid ""
+"Thunar is a fast and easy to use file manager\n"
+"for the Xfce Desktop Environment."
+msgstr ""
+"Thunar ist ein schneller und einfach zu bedienender\n"
+"Dateimanager für die Arbeitsumgebung »Xfce«."
+
+msgid "Thunar: %s\n"
+msgstr "Thunar: %s\n"
+
+msgid "Thunar: Failed to open display: %s\n"
+msgstr "Thunar: Konnte keine Verbindung zur Anzeige »%s« herstellen\n"
+
+msgid "Today"
+msgstr "Heute"
+
+msgid "Today at %X"
+msgstr "Heute um %X"
+
+msgid "Toggles the display of hidden files in the current window"
+msgstr "Verborgene Dateien im momentan geöffneten Fenster anzeigen/verbergen"
+
+msgid "Toggles the visibility of the shortcuts pane"
+msgstr "Die Sichtbarkeit der Lesezeichen in diesem Fenster ändern"
+
+msgid "Toggles the visibility of the tree pane"
+msgstr "Die Sichtbarkeit der Baumansicht in diesem Fenster ändern"
+
+msgid ""
+"Tooltip for the entry, for example \"View sites on the Internet\" in case of "
+"Firefox. Should not be redundant with the name or the description."
+msgstr ""
+"Hilfetext für den Eintrag, zum Beispiel »Internetseiten betrachten« für "
+"Firefox. Dieser Text sollte sich von dem Namen und der Beschreibung "
+"unterscheiden."
+
+msgid "Traditional approach with location bar and navigation buttons"
+msgstr "Herkömmlicher Ansatz mit Pfadleiste und Navigationsknöpfen"
+
+msgid "Trash Applet"
+msgstr "Papierkorb"
+
+msgid "Trash contains files"
+msgstr "Papierkorb enthält Dateien"
+
+msgid "Trash is empty"
+msgstr "Papierkorb ist leer"
+
+msgid "Tree Pane"
+msgstr "Baumansicht"
+
+msgid "Trying to move \"%s\""
+msgstr "Versuche, die Datei »%s« zu verschieben…"
+
+msgid "Trying to restore \"%s\""
+msgstr "Versuche, die Datei »%s« wiederherzustellen…"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "UPPERCASE"
+msgstr "GROSSBUCHSTABEN"
+
+msgid "URL:"
+msgstr "Adresse:"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "Unknown closing element <%s>"
+msgstr "Unbekanntes schließendes Element <%s>"
+
+msgid "Unknown element <%s>"
+msgstr "Unbekanntes Element <%s>"
+
+msgid "Unknown file owner"
+msgstr "Unbekannter Dateibesitzer"
+
+msgid "Unknown user \"%s\""
+msgstr "Unbekannter Benutzer »%s«"
+
+msgid "Unmounting device"
+msgstr "Gerät wird ausgehängt"
+
+msgid "Uppercase / Lowercase"
+msgstr "Groß-/Kleinschreibung"
+
+msgid "Use \"%s\" to open the selected file"
+msgid_plural "Use \"%s\" to open the selected files"
+msgstr[0] "»%s« verwenden, um die ausgewählte Datei zu öffnen"
+msgstr[1] "»%s« verwenden, um die ausgewählten Dateien zu öffnen"
+
+msgid "Use De_fault"
+msgstr "V_orgabe verwenden"
+
+msgid "Use Startup Notification"
+msgstr "Benachrichtigung über Programmstart"
+
+msgid "Use _startup notification"
+msgstr "_Visuelle Rückmeldung über Programmstart"
+
+msgid "Use a _custom command:"
+msgstr "Einen _benutzerdefinierten Befehl benutzen:"
+
+msgid ""
+"Use a custom command for an application that is not available from the above "
+"application list."
+msgstr ""
+"Einen benutzerdefinierten Befehl für eine Anwendung eingeben, die nicht in "
+"der obigen Liste enthalten ist."
+
+msgid "Use as _default for this kind of file"
+msgstr "Stan_dardmäßig für Dateien dieses Typs benutzen"
+
+msgid "Very Large"
+msgstr "Sehr groß"
+
+msgid "Very Small"
+msgstr "Sehr klein"
+
+msgid "Video Files"
+msgstr "Videodateien"
+
+msgid "View _new folders using:"
+msgstr "_Neue Fenster öffnen mit:"
+
+msgid "View as _Compact List"
+msgstr "_Listenansicht"
+
+msgid "View as _Detailed List"
+msgstr "_Detailansicht"
+
+msgid "View as _Icons"
+msgstr "_Symbolansicht"
+
+msgid "View the properties of the folder \"%s\""
+msgstr "Die Eigenschaften des Ordners »%s« anzeigen"
+
+msgid "View the properties of the selected file"
+msgstr "Die Eigenschaften der ausgewählten Datei anzeigen/ändern"
+
+msgid "Visible Columns"
+msgstr "Anzuzeigende Spalten"
+
+msgid "Volume Management"
+msgstr "Datenträgerverwaltung"
+
+msgid "Volume:"
+msgstr "અવાજ:"
+
+msgid "Warning, you are using the root account, you may harm your system."
+msgstr ""
+"Achtung, Sie arbeiten mit Supernutzer-Rechten und können Ihr System "
+"beschädigen."
+
+msgid ""
+"When changing the permissions of a folder, you\n"
+"can also apply the changes to the contents of the\n"
+"folder. Select the default behavior below:"
+msgstr ""
+"Beim Ändern der Ordner-Berechtigungen kann\n"
+"diese Änderung auch auf den Inhalt des Ordners\n"
+"angewandt werden. Das Standardverhalten kann\n"
+"hier festgelegt werden:"
+
+msgid ""
+"When sending a file via email, you can either choose to send the file "
+"directly, as is, or compress the file before attaching it to an email. It is "
+"highly recommended to compress large files before sending them."
+msgstr ""
+"Wenn eine Datei via E-Mail versendet werden soll, kann die Datei entweder "
+"direkt an die E-Mail angehängt werden, oder vorher komprimiert werden. Für "
+"größere Dateien wird empfohlen, die Dateien vorher zu komprimieren."
+
+msgid ""
+"When sending multiple files via email, you can either choose to send the "
+"files directly, attaching multiple files to an email, or send all files "
+"compressed into a single archive file and attach the archive. It is highly "
+"recommended to send multiple large files as archive."
+msgstr ""
+"Beim Versenden mehrerer Dateien via E-Mail können die Dateien entweder "
+"einzeln an die E-Mail angehängt werden oder als komprimiertes Archiv. Wenn "
+"mehrere größere Dateien via E-Mail versendet werden sollen, wird empfohlen, "
+"diese als komprimiertes Archiv zu versenden."
+
+msgid ""
+"When single-click activation is enabled, pausing the mouse pointer over an "
+"item will automatically select that item after the chosen delay. You can "
+"disable this behavior by moving the slider to the left-most position. This "
+"behavior may be useful when single clicks activate items, and you want only "
+"to select the item without activating it."
+msgstr ""
+"Hierdurch wird automatisch ein Eintrag ausgewählt, wenn sich der Mauszeiger "
+"für die angegebene Dauer über ihm befindet. Sie können dieses Verhalten "
+"abstellen, indem Sie den Schieber ganz nach links bewegen. Dieses Verhalten "
+"ist nützlich, um Einträge nur auszuwählen anstatt sie zu aktivieren."
+
+msgid "Write only"
+msgstr "Nur Schreiben"
+
+msgid "Writing data to device"
+msgstr "Daten werden auf Gerät geschrieben"
+
+msgid "Written by Benedikt Meurer <benny@xfce.org>."
+msgstr "Entwickelt von Benedikt Meurer <benny@xfce.org>."
+
+msgid "Yes to _all"
+msgstr "Ja _zu allen"
+
+msgid "Yesterday"
+msgstr "Gestern"
+
+msgid "Yesterday at %X"
+msgstr "Gestern um %X"
+
+msgid ""
+"You can configure custom actions that will appear in the\n"
+"file managers context menus for certain kinds of files."
+msgstr ""
+"Sie können benutzerdefinierte Aktionen erstellen, die in den Kontext-\n"
+"menüs des Dateimanagers für bestimmte Dateitypen erscheinen."
+
+msgid ""
+"You can either choose to skip this file and continue to rename the remaining "
+"files, or revert the previously renamed files to their previous names, or "
+"cancel the operation without reverting previous changes."
+msgstr ""
+"Sie können entweder diese Datei überspringen und mit der Umbenennung der "
+"restlichen Dateien fortfahren, oder die bisher durchgeführten Umbenennungen "
+"rückgängig machen, oder die Umbenennung abbrechen ohne vorherige Änderungen "
+"rückgängig zu machen."
+
+msgid "ZIP command terminated with error %d"
+msgstr "ZIP-Befehl abgebrochen mit Fehler %d"
+
+msgid "Zoom I_n"
+msgstr "Ver_größern"
+
+msgid "Zoom _Out"
+msgstr "Ver_kleinern"
+
+msgid "[FILES...]"
+msgstr "[DATEIEN...]"
+
+msgid "_About"
+msgstr "_વિષે"
+
+msgid "_Add Files..."
+msgstr "_ફાઈલો ઉમેરો…"
+
+msgid "_Ascending"
+msgstr "_ચઢતાક્રમે"
+
+msgid "_At position:"
+msgstr "_જગ્યા એ:"
+
+msgid "_Audio Files"
+msgstr "_ઓડિયો ફાઈલ્સ"
+
+msgid "_Browse..."
+msgstr "_બ્રાઉઝ…"
+
+msgid "_Cancel"
+msgstr "_રદ કરો"
+
+msgid "_Close"
+msgstr "_બંધ કરો"
+
+msgid "_Command:"
+msgstr "_કમાન્ડ:"
+
+msgid "_Contents"
+msgstr "_કન્ટેન્ટ"
+
+msgid "_Copy"
+msgstr "_નકલ કરો"
+
+msgid "_Copy here"
+msgstr "_અહી નકલ કરો"
+
+msgid "_Delete"
+msgstr "_ડીલીટ"
+
+msgid "_Descending"
+msgstr "A_ufsteigend"
+
+msgid "_Description:"
+msgstr "_વર્ણન:"
+
+msgid "_Directories"
+msgstr "_Ordner"
+
+msgid "_Double click to activate items"
+msgstr "_Doppelklick zum Aktivieren von Objekten"
+
+msgid "_Edit"
+msgstr "_Bearbeiten"
+
+msgid "_Empty File"
+msgstr "_Leere Datei"
+
+msgid "_Empty Trash"
+msgstr "Papierkorb l_eeren"
+
+msgid "_Execute"
+msgstr "_Ausführen"
+
+msgid "_File"
+msgstr "_ફાઈલ"
+
+msgid "_File Pattern:"
+msgstr "_ફાઈલ પેટર્ન:"
+
+msgid "_Format:"
+msgstr "_ફોર્મેટ:"
+
+msgid "_Go"
+msgstr "_જાઓ"
+
+msgid "_Help"
+msgstr "_મદદ"
+
+msgid "_Home"
+msgstr "_ઘર"
+
+msgid "_Icon Size:"
+msgstr "_આયકોન માપ:"
+
+msgid "_Icon:"
+msgstr "_આયકોન:"
+
+msgid "_Image Files"
+msgstr "_છબી ફાઈલો"
+
+msgid "_Link here"
+msgstr "_અહી લીંક જોડો"
+
+msgid "_Location Selector"
+msgstr "_Adressleiste"
+
+msgid "_Location:"
+msgstr "_Ort:"
+
+msgid "_Mount Volume"
+msgstr "_ડ્રાઈવ ખોલો"
+
+msgid "_Move here"
+msgstr "_અહી ખસેડો"
+
+msgid "_Name:"
+msgstr "_નામ:"
+
+msgid "_No"
+msgstr "_નહિ"
+
+msgid "_Number Format:"
+msgstr "_આંકડાનું ફોર્મેટ:"
+
+msgid "_Open"
+msgstr "_ખોલો"
+
+msgid "_Open Location..."
+msgstr "_Ort öffnen…"
+
+msgid "_Open With \"%s\""
+msgstr "Mit »%s« ö_ffnen"
+
+msgid "_Open With Default Applications"
+msgstr "Mit der Standardanwendung ö_ffnen"
+
+msgid "_Open With Other Application..."
+msgstr "Mit _anderer Anwendung öffnen…"
+
+msgid "_Open in New Window"
+msgstr "_નવી વિન્ડોમાં ખોલો"
+
+msgid "_Other Files"
+msgstr "A_ndere Dateien"
+
+msgid "_Paste"
+msgstr "_પેસ્ટ"
+
+msgid "_Paste Into Folder"
+msgstr "_ફોલ્ડરમાં પેસ્ટ કરો"
+
+msgid "_Pathbar Style"
+msgstr "_Pfadleisten-Stil"
+
+msgid "_Pattern:"
+msgstr "_Muster:"
+
+msgid "_Properties..."
+msgstr "_પ્રોપર્ટીસ…"
+
+msgid "_Reload"
+msgstr "_રીલોડ"
+
+msgid "_Remove Launcher"
+msgstr "Starter _entfernen"
+
+msgid "_Remove Shortcut"
+msgstr "_શોર્ટકટ દુર કરો"
+
+msgid "_Rename"
+msgstr "_નામ બદલો"
+
+msgid "_Rename Files"
+msgstr "_ફાઈલ્સના નામ બદલો"
+
+msgid "_Rename..."
+msgstr "_નામ બદલો..."
+
+msgid "_Replace"
+msgstr "_બદલો"
+
+msgid "_Restore"
+msgstr "_Wiederherstellen"
+
+msgid "_Retry"
+msgstr "_Wiederholen"
+
+msgid "_Revert Changes"
+msgstr "_ફરેફાર ઉલટાવો"
+
+msgid "_Search For:"
+msgstr "_શોધ માટે:"
+
+msgid "_Select"
+msgstr "_પસંદ"
+
+msgid "_Send To"
+msgstr "_મોકલો"
+
+msgid "_Shortcuts"
+msgstr "_શોર્ટકટસ"
+
+msgid "_Show"
+msgstr "_Anzeigen"
+
+msgid "_Show thumbnails"
+msgstr "_Miniatur-Vorschaubilder anzeigen"
+
+msgid "_Side Pane"
+msgstr "S_eitenleiste"
+
+msgid "_Single click to activate items"
+msgstr "_Einfacher Klick zum Aktivieren von Objekten"
+
+msgid "_Skip"
+msgstr "Ü_berspringen"
+
+msgid "_Skip This File"
+msgstr "Datei ü_berspringen"
+
+msgid "_Start With:"
+msgstr "_beginnend ab:"
+
+msgid "_Text Files"
+msgstr "_ટેક્સ્ટ ફાઈલ્સ"
+
+msgid "_Text beside icons"
+msgstr "_Text neben Symbolen"
+
+msgid "_Text:"
+msgstr "_Text:"
+
+msgid "_To Position:"
+msgstr "_Bis Position:"
+
+msgid "_Toolbar Style"
+msgstr "_Werkzeugleisten-Stil"
+
+msgid "_Tree"
+msgstr "Bau_mansicht"
+
+msgid "_Video Files"
+msgstr "_Videodateien"
+
+msgid "_View"
+msgstr "_Anzeige"
+
+msgid "_Yes"
+msgstr "_Ja"
+
+msgid "a, b, c, d, ..."
+msgstr "a, b, c, d, …"
+
+msgid "another copy of %s"
+msgstr "Weitere Kopie von %s"
+
+msgid "another link to %s"
+msgstr "Weitere Verknüpfung mit %s"
+
+msgid "broken link"
+msgstr "Verknüpfung (fehlerhaft)"
+
+msgid "copy of %s"
+msgstr "Kopie von %s"
+
+msgid "directories containing the files that are passed in %F"
+msgstr "Ordner aller ausgewählten Dateien (aus »%F«)"
+
+msgid "directory containing the file that is passed in %f"
+msgstr "Ordner der ersten ausgewählten Datei (aus »%f«)"
+
+msgid "link to %s"
+msgstr "Verknüpfung mit %s"
+
+msgid "lowercase"
+msgstr "kleinbuchstaben"
+
+msgid "the first selected filename (without path)"
+msgstr "Der erste ausgewählte Dateiname (ohne Pfad)"
+
+msgid "the path to the first selected file"
+msgstr "Pfad zur ersten ausgewählten Datei"
+
+msgid "the paths to all selected files"
+msgstr "Pfade zu allen ausgewählten Dateien"
+
+msgid "the selected filenames (without paths)"
+msgstr "Die ausgewählten Dateinamen (ohne Pfade)"
+
+msgid "third copy of %s"
+msgstr "Dritte Kopie von %s"
+
+msgid "third link to %s"
+msgstr "Dritte Verknüpfung mit %s"
+
+msgid "translator-credits"
+msgstr ""
+"Benedikt Meurer <benny@xfce.org>\n"
+"Fabian Nowak <timystery@arcor.de>\n"
+"Jannis Pohlmann <jannis@xfce.org>\n"
+"Johannes Lips\n"
+"Paul Seyfert <pseyfert@mathphys.fsk.uni-heidelberg.de>"
