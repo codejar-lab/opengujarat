@@ -3,84 +3,85 @@ msgstr ""
 "Project-Id-Version: leafpad 0.8.16\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-10-28 02:41+0900\n"
-"PO-Revision-Date: 2009-06-28 13:12+0100\n"
-"Last-Translator: Mario Blättermann <mario.blaettermann@t-online.de>\n"
+"PO-Revision-Date: 2013-01-12 00:13+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
 "Language-Team: German <translation-team-de@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 msgid "%d strings replaced"
-msgstr "%d Mal gefunden und ersetzt"
+msgstr "%d સ્ટ્રીંગ બદલી ગઈ છે"
 
 msgid "'%s' already exists. Overwrite?"
-msgstr "»%s« existiert bereits. Überschreiben?"
+msgstr "»%s« અગાઉથી ધરાવે છે.પર ફરીથી લખવી છે?"
 
 msgid "'%s' is not supported"
-msgstr "»%s« wird nicht unterstützt"
+msgstr "»%s«  આધારિત નથી"
 
 msgid "/Edit/Cu_t"
-msgstr "/Bearbeiten/_Ausschneiden"
+msgstr "/સંપાદન/કટ"
 
 msgid "/Edit/Select _All"
-msgstr "/Bearbeiten/_Alles markieren"
+msgstr "/સંપાદન/બધું પસંદ કરો"
 
 msgid "/Edit/_Copy"
-msgstr "/Bearbeiten/_Kopieren"
+msgstr "/સંપાદન/કોપી"
 
 msgid "/Edit/_Delete"
-msgstr "/Bearbeiten/_Löschen"
+msgstr "/સંપાદન/કાઢી નાખો"
 
 msgid "/Edit/_Paste"
-msgstr "/Bearbeiten/E_infügen"
+msgstr "/સંપાદન/પેસ્ટ"
 
 msgid "/Edit/_Redo"
-msgstr "/Bearbeiten/_Wiederholen"
+msgstr "/સંપાદન/ફરી"
 
 msgid "/Edit/_Undo"
-msgstr "/Bearbeiten/_Rückgängig"
+msgstr "/સંપાદન/રદ કરવું"
 
 msgid "/File/Print Pre_view"
-msgstr "/Datei/Druck_vorschau"
+msgstr "/ફાઈલ/પ્રિન્ટ પૂર્વદર્શન"
 
 msgid "/File/Save _As..."
-msgstr "/Datei/Speichern _unter"
+msgstr "/ફાઈલ/સેવ એઝ..."
 
 msgid "/File/_New"
-msgstr "/Datei/_Neu"
+msgstr "/ફાઈલ/_ન્યુ"
 
 msgid "/File/_Open..."
-msgstr "/Datei/Ö_ffnen"
+msgstr "/ફાઈલ/_ખોલો..."
 
 msgid "/File/_Print..."
-msgstr "/Datei/_Drucken …"
+msgstr "/ફાઈલ/_પ્રિન્ટ..."
 
 msgid "/File/_Quit"
-msgstr "/Datei/_Beenden"
+msgstr "/ફાઈલ/_બંધ કરો"
 
 msgid "/File/_Save"
-msgstr "/Datei/_Speichern"
+msgstr "/ફાઈલ/_સેવ"
 
 msgid "/Help/_About"
-msgstr "/Hilfe/_Info"
+msgstr "/મદદ/_વિષે"
 
 msgid "/Options/_Auto Indent"
-msgstr "/Optionen/_Auto-Einzug"
+msgstr "/પસંદગી/_ઓટોમેટીક ફકરો"
 
 msgid "/Options/_Font..."
-msgstr "/Optionen/_Schriftart …"
+msgstr "/પસંદગી/_ફોન્ટ …"
 
 msgid "/Options/_Line Numbers"
-msgstr "/Optionen/Zeilen_nummern"
+msgstr "/પસંદગી/લાઈન નંબર"
 
 msgid "/Options/_Word Wrap"
-msgstr "/Optionen/_Zeilenumbruch"
+msgstr "/પસંદગી/_વર્ડ વ્રેપ"
 
 msgid "/Search/Find _Next"
-msgstr "/Suchen/_Weitersuchen"
+msgstr "/શોધો/_આગામી શોધ"
 
 msgid "/Search/Find _Previous"
-msgstr "/Suchen/_Rückwärts suchen"
+msgstr "/Suchen/_પહેલાની શોધ"
 
 msgid "/Search/_Find..."
 msgstr "/Suchen/_Suchen …"
@@ -89,130 +90,127 @@ msgid "/Search/_Jump To..."
 msgstr "/Suchen/_Gehe zu …"
 
 msgid "/Search/_Replace..."
-msgstr "/Suchen/_Ersetzen …"
+msgstr "/પસંદગી/_બદલવું …"
 
 msgid "/_Edit"
-msgstr "/_Bearbeiten"
+msgstr "/_સંપાદન"
 
 msgid "/_File"
-msgstr "/_Datei"
+msgstr "/_ફાઈલ"
 
 msgid "/_Help"
-msgstr "/_Hilfe"
+msgstr "/_મદદ"
 
 msgid "/_Options"
-msgstr "/_Optionen"
+msgstr "/_પસંદગીઓ"
 
 msgid "/_Search"
-msgstr "/_Suchen"
+msgstr "/_શોધો"
 
 msgid "About %s"
-msgstr "Info zu %s"
+msgstr " %s વિષે"
 
 msgid "Auto-Detect"
-msgstr "Automatisch erkennen"
+msgstr "આપમેળે શોધી કાઢો"
 
 msgid "C_haracter Coding:"
-msgstr "Zeic_henkodierung: "
+msgstr ""
 
 msgid "C_redits"
-msgstr "_Mitwirkende"
+msgstr "_ક્રેડીટસ"
 
 msgid "Can't convert codeset to '%s'"
-msgstr "Der Zeichensatz kann nicht nach »%s« konvertiert werden"
+msgstr "કોદ્સેટ ને %s માં રૂપાંતરિત કરી શકાશે નહિ"
 
 msgid "Can't open file to write"
-msgstr "Die Datei kann nicht zum Schreiben geöffnet werden"
+msgstr "લખવા માટે ફાઈલ ખુલી શકે તેમ નથી"
 
 msgid "Can't write file"
-msgstr "Die Datei kann nicht geschrieben werden"
+msgstr "ફાઈલ માં લખી સખાશે નહીં"
 
 msgid "Code_set:"
-msgstr "_Zeichensatz:"
+msgstr "_કોડ સેટ:"
 
 msgid "Credits"
-msgstr "Mitwirkende"
+msgstr "ક્રેડીટસ"
 
 msgid "Current Locale (%s)"
-msgstr "Derzeitige Standorteinstellung (%s)"
+msgstr "હાલની ભાષા (%s)"
 
 msgid "Documented by"
-msgstr "Dokumentation von"
+msgstr "દ્વારા દસ્તાવેજીકરણ"
 
 msgid "Fi_nd what:"
-msgstr "_Suchen nach: "
+msgstr "_શું શોધવું છે: "
 
 msgid "Find"
-msgstr "Suchen"
+msgstr "શોધો"
 
 msgid "Font"
-msgstr "Schriftart"
+msgstr "ફોન્ટ"
 
 msgid "GTK+ based simple text editor"
-msgstr "Einfacher auf GTK+ basierender Texteditor"
+msgstr "GTK+ આધારિત બીજા ટેક્સ્ટ એડીટર"
 
 msgid "Jump To"
-msgstr "Gehe zu"
+msgstr "જંપ ટુ"
 
 msgid "Open"
-msgstr "Öffnen"
+msgstr "ખોલો"
 
 msgid "Other Codeset"
-msgstr "Anderer Zeichensatz"
+msgstr "બીજા કોડસેટ"
 
 msgid "Print"
-msgstr "Drucken"
+msgstr "પ્રિન્ટ"
 
 msgid "Print Preview"
-msgstr "Druckvorschau"
+msgstr "પ્રિન્ટ પૂર્વદર્શન"
 
 msgid "Re_place with:"
-msgstr "_Ersetzen durch: "
+msgstr "_ની સાથે બદલો "
 
 msgid "Replace"
-msgstr "Ersetzen"
+msgstr "બદલો"
 
 msgid "Replace _all at once"
-msgstr "_Alles ersetzen"
+msgstr "_બધા એકસાથે બદલો"
 
 msgid "Replace?"
-msgstr "Ersetzen?"
+msgstr "બદલવું છે?"
 
 msgid "Save As"
-msgstr "Speichern unter"
+msgstr "સેવ એઝ"
 
 msgid "Save changes to '%s'?"
-msgstr "Änderungen an »%s« speichern?"
+msgstr "%s ફાઈલ માં ફેરફારો સેવ કરવા છે?"
 
 msgid "Search string not found"
-msgstr "Gesuchter Text wurde nicht gefunden"
+msgstr "શોધખોળ કરેલ સ્ટ્રીંગ મળેલ નથી"
 
 msgid "Simple text editor"
-msgstr "Einfacher Texteditor"
+msgstr "સાદું ટેક્સ્ટ એડીટર"
 
 msgid "Translated by"
-msgstr "Übersetzung von"
+msgstr "દ્વારા રૂપાંતરિત"
 
 msgid "Untitled"
-msgstr "Unbenannt"
+msgstr "શીર્ષક વગરનું"
 
 msgid "Written by"
-msgstr "Programm von"
+msgstr "દ્વારા લખાયેલ"
 
 msgid "_Credits"
-msgstr "_Mitwirkende"
+msgstr "_ક્રેડીટસ"
 
 msgid "_Jump"
-msgstr "_Gehe zu"
+msgstr "_જંપ"
 
 msgid "_Line number:"
-msgstr "Zeilen_nummer: "
+msgstr "લાઈન નંબર: "
 
 msgid "_Match case"
-msgstr "_Groß-/Kleinschreibung berücksichtigen"
+msgstr "_પસંદ કેસ"
 
 msgid "translator-credits"
-msgstr ""
-"Sebastian Stach <sebsta@t-online.de>\n"
-"Ruediger Arp <ruediger@gmx.net>\n"
-"Mario Blättermann <mariobl@gnome.org>"
+msgstr "રૂપાંતરણ-ક્રેડીટસ"
