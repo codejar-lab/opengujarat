@@ -1,0 +1,1000 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xfburn 0.3.0svn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-02 22:14-0700\n"
+"PO-Revision-Date: 2010-02-04 18:44-0700\n"
+"Last-Translator: David Mohr <squisher@xfce.org>\n"
+"Language-Team: de <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: \n"
+
+msgid ""
+"%s\n"
+"\n"
+"is not an audio file:\n"
+"\n"
+"%s"
+msgstr ""
+"%s\n"
+"\n"
+"ist keine Musikdatei:\n"
+"\n"
+"%s"
+
+msgid ""
+"%s cannot be added to the composition, because it exceeds the maximum "
+"allowed file size for iso9660."
+msgstr ""
+"%s kann nicht zur Zusammenstellung hinzugefügt werden weil es die maximale "
+"Dateigröße überschreitet."
+
+msgid ""
+"%s is missing.\n"
+"\n"
+"You do not have a decoder installed to handle this file.\n"
+"Probably you need to look at the gst-plugins-* packages\n"
+"for the necessary plugins.\n"
+msgstr ""
+"%s fehlt.\n"
+"\n"
+"Sie haben kein passendes Dekodiermodul für diese Datei.\n"
+"Wahrscheinlich benötigen sie die gst-plugins-* Pakete für\n"
+"die nötige Modul.\n"
+
+msgid "%s's home"
+msgstr "Persönlicher Ordner von %s"
+
+msgid ""
+"%s: %s\n"
+"Try %s --help to see a full list of available command line options.\n"
+msgstr ""
+"%s:·%s\n"
+"'%s·--help'·listet allen verfügbaren Optionen auf.\n"
+
+msgid ""
+"<b>Unable to retrieve the speed list for the drive.</b>\n"
+"\n"
+"This is a known bug, which occurs with some drives. Please report it to "
+"<i>xfburn@xfce.org</i> together with the console output to increase the "
+"chances that it will get fixed.\n"
+"\n"
+"Burning should still work, but if there are problems anyways, please let us "
+"know.\n"
+"\n"
+"<i>Thank you!</i>"
+msgstr ""
+"<b>Abruf der Geschiwindigkeitsliste ist fehlgeschlagen.</b>\n"
+"\n"
+"Dies ist ein bekannter Fehler, welcher bei manchen Laufwerken auftritt. Wir "
+"bitten um einen Fehlerbericht an <i>xfburn@xfce.org</i>·mit der "
+"Konsolenausgabe, so daß sich die Chancen verbessern das dieser Fehler "
+"behoben wird.\n"
+"\n"
+"Das Brennen sollte trotzdem funktionieren, aber sollten Probleme auftretten, "
+"dann lassen Sie es uns bitte wissen.\n"
+"\n"
+"<i>Vielen Dank!</i>"
+
+msgid "<big>Burn _Image</big>"
+msgstr "<big>CD-Abbild _brennen</big>"
+
+msgid "<big>New _Data Composition</big>"
+msgstr "<big>_Daten-Zusammenstellung</big>"
+
+msgid "<big>_Audio CD</big>"
+msgstr "<big>A_udio-CD</big>"
+
+msgid "<big>_Blank Disc</big>"
+msgstr "<big>Medium _löschen</big>"
+
+msgid "<small>Would you like to change the default composition name?</small>"
+msgstr ""
+"<small>Möchten Sie den Standardname der Zusammenstellung ändern?</small>"
+
+msgid ""
+"<span weight=\"bold\" foreground=\"darkred\" stretch=\"semiexpanded\">Please "
+"select an image to burn</span>"
+msgstr ""
+"<span weight=\"bold\" foreground=\"darkred\" stretch=\"semiexpanded\">Bitte "
+"wählen Sie ein CD-Abbild aus</span>"
+
+msgid ""
+"A file named \"%s\" already exists in this directory, the file hasn't been "
+"added."
+msgstr ""
+"Eine Datei namens »%s« ist in diesem Verzeichnis bereits vorhanden, die "
+"Datei wurde nicht hinzugefügt."
+
+msgid "A file with the same name is already present in the composition."
+msgstr ""
+"Eine Datei mit dem selben Dateinamen ist in der Zusammenstellung bereits "
+"vorhanden."
+
+msgid "A problem with the burn backend occurred."
+msgstr "Es ist ein Problem im Brennmodul aufgetreten."
+
+msgid "Aborted"
+msgstr "Abgebrochen"
+
+msgid "Aborting..."
+msgstr "Am abbrechen..."
+
+msgid "Accept only CDs as valid discs"
+msgstr "Akzeptiere nur CDs als gültige Discs"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Add a new directory to the composition"
+msgstr "Fügt ein neues Verzeichnis zur Zusammenstellung hinzu"
+
+msgid "Add the selected file(s) to the composition"
+msgstr "Ausgewählte Datei(en) zu der Zusammenstellung hinzufügen"
+
+msgid "Adding files to the composition"
+msgstr "Dateien zur Zusammenstellung hinzufügen"
+
+msgid "Adding home directory"
+msgstr "Heimatverzeichniss hinzufügen"
+
+msgid "All files"
+msgstr "Alle Dateien"
+
+msgid "An error occured while writing ISO: %s"
+msgstr "Beim Schreiben der ISO-Datei »%s« ist ein Fehler aufgetreten."
+
+msgid "An error occurred in the burn backend"
+msgstr "Ein Fehler ist im Brennmodul aufgetreten"
+
+msgid "An error occurred in the burn backend."
+msgstr "Ein Fehler ist im Brennmodul aufgetreten."
+
+msgid "Another cd burning GUI"
+msgstr "Noch ein anderes CD-Brennprogramm"
+
+msgid "Artist"
+msgstr "Künstler"
+
+msgid "Audio CD playable in regular stereos"
+msgstr "Erstelle eine Musik-CD zum Abspielen in gewöhnlichen Playern"
+
+msgid "Audio composition"
+msgstr "Musikzusammenstellung"
+
+msgid "Author/Maintainer"
+msgstr "Autor/Entwickler"
+
+msgid "Auto"
+msgstr "automatisch"
+
+msgid "Blank CD-RW"
+msgstr "CD-RW löschen"
+
+msgid "Blank Disc"
+msgstr "Leere Medium"
+
+msgid "Blank mode"
+msgstr "Löschmodus"
+
+msgid "Blanking disc..."
+msgstr "Leere Medium"
+
+msgid "Burn Composition"
+msgstr "Zusammenstellung brennen"
+
+msgid "Burn DVD Image"
+msgstr "DVD-Abbild brennen"
+
+msgid "Burn Image"
+msgstr "CD-Abbild brennen"
+
+msgid "Burn Image (xfburn)"
+msgstr "CD-Abbild brennen (xfburn)"
+
+msgid "Burn a prepared compilation, i.e. an .ISO file"
+msgstr "Brenne eine Zusammenstellung (z.B. ISO Dateien)"
+
+msgid "Burn image"
+msgstr "Abbild brennen"
+
+msgid "Burn mode is not currently implemented."
+msgstr "Dieser Schreibmodus wird noch nicht unterstützt."
+
+msgid "Burn speeds supported by the device"
+msgstr "Die unterstützten Brenngeschwindigkeiten des Gerätes"
+
+msgid "Burn_Free"
+msgstr "Burn_Free"
+
+msgid "Burning composition..."
+msgstr "Schreibe Zusammenstellung..."
+
+msgid "Burning device"
+msgstr "Brenner"
+
+msgid "Burning image..."
+msgstr "Brenne Abbild..."
+
+msgid "Burning track %2d/%d..."
+msgstr "Brenne Titel %2d/%d..."
+
+msgid "CD Reader device"
+msgstr "CD-Lesegerät"
+
+msgid "CD and DVD burning application"
+msgstr "CD und DVD Brennprogramm"
+
+msgid "Can burn CDR"
+msgstr "Kann CDR brennen"
+
+msgid "Can burn CDRW"
+msgstr "Kann CDRW brennen"
+
+msgid "Can burn DVDPLUSR"
+msgstr "Kann DVDPLUSR brennen"
+
+msgid "Can burn DVDR"
+msgstr "Kann DVDR brennen"
+
+msgid "Can burn DVDRAM"
+msgstr "Kann DVDRAM brennen"
+
+msgid "Cancelled"
+msgstr "Abgebrochen"
+
+msgid "Cannot access drive (it might be in use)"
+msgstr ""
+"Auf das Laufwerk kann nicht zugegriffen werden, evtl. ist es in Benutzung"
+
+msgid ""
+"Cannot append data to multisession disc in this write mode (use TAO instead)"
+msgstr ""
+"Konnte die Daten nicht an das Multisession-Medum anhängen (probieren Sie TAO)"
+
+msgid ""
+"Cannot append data to multisession disc in this write mode (use TAO instead)."
+msgstr ""
+"Konnte die Daten nicht an das Multisession-Medium anhängen (benutzen Sie TAO)"
+
+msgid "Cannot burn audio onto a DVD."
+msgstr "Musik kann nicht auf eine DVD gebrannt werden."
+
+msgid "Cannot open image."
+msgstr "Öffnen des Abbilds fehlgeschlagen."
+
+msgid "Cannot recognize state of drive and disc"
+msgstr "Kann Laufwerks- und Medienstatus nicht ermitteln"
+
+msgid "Cannot recognize the state of the drive and disc."
+msgstr "Kann Laufwerks- und Medienstatus nicht ermitteln."
+
+msgid "Changing this setting only takes full effect after a program restart."
+msgstr ""
+"Diese Einstellung tritt erst nach einem Programm Neustart vollständig in "
+"Kraft."
+
+msgid "Clear"
+msgstr "Leeren"
+
+msgid "Clear the content of the composition"
+msgstr "Inhalt der Zusammenstellung leeren"
+
+msgid "Close composition"
+msgstr "Zusammenstellung schließen"
+
+msgid "Closed disc with data detected, a blank or appendable disc is needed."
+msgstr ""
+"Abgeschlossenes Daten Medium erkannt, leeres oder anhängfähiges Medium "
+"erforderlich."
+
+msgid "Closed disc with data detected. Need blank or appendable disc"
+msgstr ""
+"Abgeschlossenes Medium mit Daten erkannt. Leeres oder anhängfähiges Medium "
+"erforderlich"
+
+msgid "Closing session..."
+msgstr "Schließe Sitzung ab..."
+
+msgid "Closing track..."
+msgstr "Schließe Spur ab...."
+
+msgid "Completed"
+msgstr "Fertig"
+
+msgid "Composition name"
+msgstr "Zusammenstellungsname"
+
+msgid "Contents"
+msgstr "Inhalt"
+
+msgid "Continue to _show this notice"
+msgstr "Weiterhin diese Nachricht _anzeigen"
+
+msgid "Copy Data CD"
+msgstr "Daten-CD kopieren"
+
+msgid "Copy data CD"
+msgstr "Daten-CD kopieren"
+
+msgid "Copy data DVD"
+msgstr "Daten-DVD kopieren"
+
+msgid "Could not create ISO source structure."
+msgstr "Konnte die ISO-Quellstruktur nicht anlegen."
+
+msgid "Could not create destination ISO file: %s"
+msgstr "Konnte Ziel-ISO-Datei »%s« nicht anlegen"
+
+msgid "Could not open %s."
+msgstr "»%s« konnte nicht geöffnet werden."
+
+msgid "Could not open %s: %s"
+msgstr "Konnte %s nicht öffnen: %s"
+
+msgid "Could not stat %s: %s"
+msgstr "Konnte keine Informationen über »%s« erlangen: %s"
+
+msgid "Create ISO from CD"
+msgstr "ISO aus CD erzeugen"
+
+msgid "Create a new data disc with the files of your choosing"
+msgstr "Erstelle ein neues Datenmedium mit beliebigen Dateien"
+
+msgid "Create directory"
+msgstr "Neues Verzeichnis"
+
+msgid "Currently selected device"
+msgstr "Im Moment ausgewähltes Geräte"
+
+msgid "DVD Reader device"
+msgstr "DVD-Lesegerät"
+
+msgid "DVD+RW does not need blanking"
+msgstr "DVD+RW muss nicht gelöscht werden"
+
+msgid "Data %s~%d"
+msgstr "Daten %s~%d"
+
+msgid "Data Composition"
+msgstr "Datenzusammenstellung"
+
+msgid "Default value for eject checkbox"
+msgstr "Standardwert für die Checkbox zum Auswurf"
+
+msgid "Detected devices"
+msgstr "Gefundene Geräte"
+
+msgid "Determine whether the close button is visible"
+msgstr "Stellt fest, ob der Schließenknopf angezeigt werden soll"
+
+msgid "Device address"
+msgstr "Geräteadresse"
+
+msgid "Device buffer:"
+msgstr "Geräte-Puffer:"
+
+msgid "Devices"
+msgstr "Geräte"
+
+msgid "Disc is not erasable."
+msgstr "Medium nicht löschbar."
+
+msgid "Disc status"
+msgstr "Medien-Status"
+
+msgid "Display information about Xfburn"
+msgstr "Informationen über Xfburn anzeigen"
+
+msgid "Display name"
+msgstr "Anzeigename"
+
+msgid "Done"
+msgstr "Abgeschlossen"
+
+msgid "Drive can't burn on the inserted disc"
+msgstr "Das Laufwerk kann das eingelegte Medium nicht beschreiben"
+
+msgid "Drive is empty"
+msgstr "Kein Medium im Laufwerk"
+
+msgid "Duplicate filename '%s' for '%s'"
+msgstr "Der Dateiname '%s' für die Datei '%s' existiert schon"
+
+msgid "E_ject disk"
+msgstr "CD aus_werfen"
+
+msgid "Eject the disc"
+msgstr "CD auswerfen"
+
+msgid "Empty speed list"
+msgstr "Leere Geschwindigketsliste"
+
+msgid "Error determining disc"
+msgstr "Fehler beim Untersuchen des Mediums"
+
+msgid "Estimated writing speed:"
+msgstr "Geschätzte Schreibgeschwindigkeit:"
+
+msgid "FIFO buffer size (in kb)"
+msgstr "FIFO Puffer Größe (in kb)"
+
+msgid "FIFO buffer:"
+msgstr "FIFO Puffer:"
+
+msgid "Failed"
+msgstr "Fehlgeschlagen"
+
+msgid "Failed to change songs while transcoding"
+msgstr "Titelwechsel beim Umwandeln ist fehlgeschlagen"
+
+msgid "Failed to get image size"
+msgstr "Konnte Abbildgröße nicht ermitteln"
+
+msgid ""
+"Failed to initialize %s transcoder: %s\n"
+"\t(falling back to basic implementation)"
+msgstr ""
+"Der·%s·Umwandler konnte nicht initialisiert werden:·%s\n"
+"\t(falle auf die Basisversion zurück)"
+
+msgid "Failure"
+msgstr "Fehlgeschlagen"
+
+msgid "File"
+msgstr "Datei"
+
+msgid "File %s does not contain uncompressed PCM wave audio"
+msgstr "Datei %s enthählt keine unkomprimierten PCM wave Musik"
+
+msgid "File %s does not have a .wav extension"
+msgstr "Datei %s hat keine .wav Endung"
+
+msgid "File browser"
+msgstr "Dateibrowser"
+
+msgid "Filename"
+msgstr "Dateiname"
+
+msgid "Filesystem"
+msgstr "Dateisystem"
+
+msgid "Flushing cache..."
+msgstr "Leere Cache..."
+
+msgid "Folder"
+msgstr "Ordner"
+
+msgid "Formatting..."
+msgstr "Formatiere..."
+
+msgid "Full Blank (slow)"
+msgstr "komplett löschen (langsam)"
+
+msgid "Full Deformat (slow)"
+msgstr "vollständig unformatieren (langsam)"
+
+msgid "Full Format"
+msgstr "vollständig formatieren"
+
+msgid "General"
+msgstr "Allgemein"
+
+msgid "Gstreamer did not like this file (detection timed out)"
+msgstr ""
+"Gstreamer mochte diese Datei nicht (Zeitüberschreitung bei der Erkennung)"
+
+msgid "Gstreamer did not want to start transcoding (timed out)"
+msgstr "Gstreamer wollte mit dem Umwandeln nicht anfangen (Zeitüberschreitung)"
+
+msgid "ISO images"
+msgstr "ISO-Abbilder"
+
+msgid "Image"
+msgstr "ISO-Abbild"
+
+msgid "Image file '%s' does not exist."
+msgstr "Die Abbilddatei '%s' existiert nicht."
+
+msgid "Image to burn"
+msgstr "Zu brennendes Abbild"
+
+msgid "Initializing..."
+msgstr "Initialisiere..."
+
+msgid "Inserted disc is already blank"
+msgstr "Das Medium ist schon leer"
+
+msgid "Inserted disc is full"
+msgstr "Das Medium ist voll"
+
+msgid "Inserted disc is unsuitable"
+msgstr "Das Medium ist ungeeignet"
+
+msgid "Is it a valid combination"
+msgstr "ist es eine gültige Kombination"
+
+msgid "Is the combination of hardware and disc valid to burn the composition?"
+msgstr ""
+"ist die Kombination von Hardware und Medium geeignet für die "
+"Zusammenstellung?"
+
+msgid "Is the disc erasable"
+msgstr "Ist das Medium löschbar"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Length"
+msgstr "Dauer"
+
+msgid "List of devices"
+msgstr "Geräteliste"
+
+msgid "Local Path"
+msgstr "Lokaler Pfad"
+
+msgid ""
+"Make sure you selected a valid file and you have the proper permissions to "
+"access it."
+msgstr ""
+"Stellen Sie sicher, daß eine zulässige Datei ausgewählt und die "
+"erforderlichen Zugriffsrechte haben."
+
+msgid "Max"
+msgstr "Max."
+
+msgid "Min. fill was %2d%%"
+msgstr "%2d%% min. gefüllt"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "New audio composition"
+msgstr "Neue Musikzusammenstellung"
+
+msgid "New data composition"
+msgstr "Neue Daten-Zusammenstellung"
+
+msgid "New directory"
+msgstr "Neues Verzeichnis"
+
+msgid "No burners are currently available"
+msgstr "Im Moment ist kein Brenner verfügbar"
+
+msgid "No disc detected in drive"
+msgstr "Kein Medium im Laufwerk erkannt"
+
+msgid "No disc detected in drive."
+msgstr "Kein Medium im Laufwerk erkannt"
+
+msgid "No disc detected in the drive."
+msgstr "Kein Medium im Laufwerk."
+
+msgid "Node"
+msgstr "Knoten"
+
+msgid "Number of burners in the system"
+msgstr "Die Anzahl von Brennern im System"
+
+msgid "Number of drives in the system"
+msgstr "Die Anzahl von Laufwerken im System"
+
+msgid "Number of drives in the system (readers and writers)"
+msgstr "Die Anzahl von Laufwerken im System (Leser und Schreiber)"
+
+msgid "On the _fly"
+msgstr "_Ohne Zwischenpuffern"
+
+msgid "Only create _ISO"
+msgstr "_Nur ISO erzeugen"
+
+msgid "Options"
+msgstr "Einstellungen"
+
+msgid "Please insert a recordable disc."
+msgstr "Bitte legen Sie ein beschreibbares Medium ein."
+
+msgid "Pos"
+msgstr "Pos"
+
+msgid ""
+"Possibly the disc(s) are in use, and cannot get accessed.\n"
+"\n"
+"Please unmount and restart the application.\n"
+"\n"
+"If no disc is in the drive, check that you have read and write access to the "
+"drive with the current user."
+msgstr ""
+"Ist das Medium eventuell in Benutzung?\n"
+"\n"
+"Bitte unmounten und die Anwendung neu starten.\n"
+"\n"
+"Wenn kein Medium eingelegt ist, überprüfen Sie bitte ob Sie Lese- und "
+"Schreibrechte für das Laufwerk besitzt."
+
+msgid "Prefere_nces"
+msgstr "_Einstellungen"
+
+msgid "Preferences"
+msgstr "Einstellungen"
+
+msgid "Prepare the rewriteable disc for a new burn"
+msgstr "Ein wiederbeschreibares (RW) Medium löschen"
+
+msgid "Proceed to Burn"
+msgstr "Weiter zum Brennen"
+
+msgid "Profile name as reported by libburn"
+msgstr "Profilename von libburn"
+
+msgid "Profile no. as reported by libburn"
+msgstr "Die Profile Nr. von libburn"
+
+msgid "Quick Blank"
+msgstr "schnell löschen"
+
+msgid "Quick Deformat"
+msgstr "schnell unformatieren"
+
+msgid "Quick Format"
+msgstr "schnell formatieren"
+
+msgid "Quit Xfburn"
+msgstr "Xfburn beenden"
+
+msgid "Reading CD..."
+msgstr "Lese CD..."
+
+msgid "Ready"
+msgstr "Bereit"
+
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+msgid "Refresh file list"
+msgstr "Dateiliste neu laden"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Remove the selected file(s) from the composition"
+msgstr "Ausgewählte Datei(en) von der zusammenstellung entfernen"
+
+msgid "Rename"
+msgstr "Umbenennen"
+
+msgid "Rename Artist"
+msgstr "Künstler umbennen"
+
+msgid "Rename Title"
+msgstr "Titelname umbennnen"
+
+msgid "Rename the artist of the selected file"
+msgstr "Den Künstler der ausgewählten Datei umbennen"
+
+msgid "Rename the selected file"
+msgstr "Ausgewählte Datei umbennen"
+
+msgid "Rename the title of the selected file"
+msgstr "Den Titel der Ausgewählte Datei umbennen"
+
+msgid "Retired author/maintainer"
+msgstr "In den Ruhestand getretener Autor/Entwickler"
+
+msgid "Sc_an for devices"
+msgstr "_Nach Geräten suchen"
+
+msgid "Select command"
+msgstr "Programm auswählen"
+
+msgid "Show _hidden files"
+msgstr "_Zeige versteckte Dateien"
+
+msgid "Show a text entry for the name of the volume"
+msgstr "Zeige ein Texteingabefeld für den Volumennamen an"
+
+msgid "Show close button"
+msgstr "Schließenknopf anzeigen"
+
+msgid "Show file browser"
+msgstr "Dateibrowser anzeigen"
+
+msgid "Show human_readable filesizes"
+msgstr "_Benutze gut lesbare Dateigrößen"
+
+msgid "Show mode selection"
+msgstr "Modusauswahl"
+
+msgid "Show mode selection combo"
+msgstr "Modusauswahl"
+
+msgid "Show preferences dialog"
+msgstr "Einstellungsdialog anzeigen"
+
+msgid "Show speed selection"
+msgstr "Geschwindidigkeitsauswahl anzeigen"
+
+msgid "Show speed selection combo"
+msgstr "Geschwindidigkeitsauswahl anzeigen"
+
+msgid "Show toolbar"
+msgstr "Werkzeugleiste anzeigen"
+
+msgid "Show volume name"
+msgstr "Volumennamen anzeigen"
+
+msgid "Show warning on _empty speed list"
+msgstr ""
+"Zeige Warnung für einen Fehler, der für eine _leere Geschwindigkeitsliste "
+"sorgt"
+
+msgid "Show writers only"
+msgstr "Nur Brenner anzeigen"
+
+msgid "Show/hide the file browser"
+msgstr "Zeigt oder verbirgt den Dateibrowser"
+
+msgid "Show/hide the toolbar"
+msgstr "Zeigt oder verbirgt die Werkzeugleiste"
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "Sorry, multisession is not yet supported"
+msgstr "Multisessions werden noch nicht unterstützt"
+
+msgid "Temporary directory"
+msgstr "Verzeichnis für temporäre Dateien"
+
+msgid ""
+"The basic transcoder is built in,\n"
+"and does not require any library.\n"
+"But it can only handle uncompressed\n"
+".wav files.\n"
+"If you would like to create audio\n"
+"compositions from different types of\n"
+"audio files, please compile with\n"
+"gstreamer support."
+msgstr ""
+"Der elementare Umwandler ist eingebaut,\n"
+"und braucht keine Bibliotheken. Allerdings\n"
+"unterstützt er nur unkomprimierte .wav\n"
+"Dateien.\n"
+"Wenn Sie Musikzusammenstellungen von\n"
+"anderen Musikdateien erstellen wollen, dann\n"
+"kompilieren Sie bitte mit gstreamer\n"
+"Unterstützung."
+
+msgid "The blank mode shows different disc status messages than regular mode"
+msgstr "Im Löschmodus werden andere Medien Statusnachrichten angezeigt"
+
+msgid ""
+"The gstreamer transcoder uses the gstreamer\n"
+"library for creating audio compositions.\n"
+"\n"
+"Essentially all audio files should be supported\n"
+"given that the correct plugins are installed.\n"
+"If an audio file is not recognized, make sure\n"
+"that you have the 'good','bad', and 'ugly'\n"
+"gstreamer plugin packages installed."
+msgstr ""
+"Der gstreamer Umwandler benutzt die gstreamer\n"
+"Bibliothek um Musikzusammenstellungen zu er-\n"
+"stellen.\n"
+"\n"
+"Im Prinzip wird jede Musikdatei unterstützt, wenn\n"
+"das entsprechende Modul installiert ist. Sollte eine\n"
+"Musikdatei nicht erkannt werden, stellen Sie sicher,\n"
+"dass die 'good','bad', und 'ugly' gstreamer Modulpakete\n"
+"installiert sind."
+
+msgid "The inserted disc is already blank."
+msgstr "Das Medium ist schon leer."
+
+msgid "The selected image does not fit on the inserted disc"
+msgstr "Das ausgewählte CD-Abbild ist zu groß für das Medium im Laufwerk"
+
+msgid "The text of the label"
+msgstr "Der Text des Labels"
+
+msgid "The write mode is not supported currently."
+msgstr "Dieser Schreibmodus wird zur Zeit nicht unterstützt."
+
+msgid "There is not enough space available on the inserted disc."
+msgstr "Das ausgewählte CD-Abbild ist zu groß für das Medium im Laufwerk."
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Toolbar Editor"
+msgstr "Werkzeugleisteneditor"
+
+msgid "Translator (%s)"
+msgstr "Übersetzer (%s)"
+
+msgid "Tune how Xfburn behaves"
+msgstr "Das Verhalten von »Xfburn« konfigurieren"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Unable to determine image size."
+msgstr "Konnte Abbildgröße nicht ermitteln."
+
+msgid "Unable to grab the drive."
+msgstr "Zugriff auf das Laufwerk fehlgeschlagen."
+
+msgid "Unable to initialize the burning backend."
+msgstr "Das Brennmodul konnte nicht initialisiert werden."
+
+msgid "User Aborted"
+msgstr "Benutzerabbruch"
+
+msgid "Volume name :"
+msgstr "Bezeichnung:"
+
+msgid "Welcome"
+msgstr "Willkommen"
+
+msgid "Welcome to xfburn!"
+msgstr "Willkommen zu xfburn!"
+
+msgid "What files can get burned to an audio CD?"
+msgstr "Welche Dateien können auf eine Musik CD gebrannt werden?"
+
+msgid "Write CD-R"
+msgstr "CD-R schreiben"
+
+msgid "Write CD-RW"
+msgstr "CD-RW schreiben"
+
+msgid "Write DVD-R"
+msgstr "DVD-R schreiben"
+
+msgid "Write DVD-RAM"
+msgstr "DVD-RAM schreiben"
+
+msgid "Write _mode:"
+msgstr "Schreib_modus:"
+
+msgid "Write-once disc, no blanking possible"
+msgstr "Einmal beschreibbares Medium, Löschen ist nicht möglich"
+
+msgid "Writing CD..."
+msgstr "Schreibe CD..."
+
+msgid "Writing ISO..."
+msgstr "Schreibe ISO-Datei..."
+
+msgid "Writing Lead-In..."
+msgstr "Schreibe Lead-In..."
+
+msgid "Writing Lead-Out..."
+msgstr "Schreibe Lead-Out..."
+
+msgid "Writing pregap..."
+msgstr "Schreibe Pregap..."
+
+msgid "Xfburn"
+msgstr "Xfburn"
+
+msgid ""
+"You are about to add your home directory to the composition. This is likely "
+"to take a very long time, and also to be too big to fit on one disc.\n"
+"\n"
+"Are you sure you want to proceed?"
+msgstr ""
+"Sie sind dabei ihr Heimatsverzeichniss zu der Zusammenstellung hinzu zu "
+"fügen. Dieser Vorgang wird wahrscheinlich lange dauern, und das Verzeichniss "
+"ist oftmals zu groß für ein Medium.\n"
+"\n"
+"Sind Sie sich sicher, daß sie fortführen wollen?"
+
+msgid "You are trying to burn more onto the disc than it can hold."
+msgstr "Sie versuchen mehr Daten zu brennen, als auf das Medium passen."
+
+msgid "You can only have a maximum of 99 tracks."
+msgstr "99 Titel sind das Maximum. "
+
+msgid "You must give a name to the file."
+msgstr "Sie müssen der Datei einen Namen geben."
+
+msgid "_About"
+msgstr "Ü_ber"
+
+msgid "_Actions"
+msgstr "_Aktionen"
+
+msgid "_Blank"
+msgstr "_Löschen"
+
+msgid "_Burn Composition"
+msgstr "_Zusammenstellung brennen"
+
+msgid "_Burn image"
+msgstr "A_bbild brennen"
+
+msgid "_Clean temporary directory on exit"
+msgstr ""
+"_Verzeichnis für temporäre Dateien beim\n"
+"Beenden aufräumen"
+
+msgid "_Copy CD"
+msgstr "CD _kopieren"
+
+msgid "_Copy DVD"
+msgstr "DVD _kopieren"
+
+msgid "_Dummy write"
+msgstr "_Simulieren"
+
+msgid "_Edit"
+msgstr "_Bearbeiten"
+
+msgid "_File"
+msgstr "_Datei"
+
+msgid "_Help"
+msgstr "_Hilfe"
+
+msgid "_Quit"
+msgstr "_Beenden"
+
+msgid "_Speed:"
+msgstr "_Geschwindigkeit:"
+
+msgid "_View"
+msgstr "A_nsicht"
+
+msgid "abandoned"
+msgstr "verlassen"
+
+msgid "aborted"
+msgstr "abgebrochen"
+
+msgid "basic"
+msgstr "elementar"
+
+msgid "default"
+msgstr "Standard"
+
+msgid "ended"
+msgstr "beendet"
+
+msgid "ending"
+msgstr "am beenden"
+
+msgid "failing"
+msgstr "Fehler"
+
+msgid "gstreamer"
+msgstr "gstreamer"
+
+msgid "libburn PACKET block types"
+msgstr "libburn Packet Blocktypen"
+
+msgid "libburn RAW block types"
+msgstr "libburn RAW Blocktypen"
+
+msgid "libburn SAO block types"
+msgstr "libburn SAO Blocktypen"
+
+msgid "libburn TAO block types"
+msgstr "libburn TAO Blocktypen"
+
+msgid "no info"
+msgstr "Keine Information"
+
+msgid "not implemented"
+msgstr "noch nicht implementiert"
+
+msgid "see console"
+msgstr "siehe die Konsolenausgabe"
+
+msgid "standby"
+msgstr "Ruhezustand"
+
+msgid "unused"
+msgstr "unbenutzt"
