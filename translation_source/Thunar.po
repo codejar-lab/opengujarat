@@ -1,14 +1,11 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: Thunar 0.9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-05-26 23:58+0200\n"
 "PO-Revision-Date: 2013-01-12 19:27+0530\n"
-<<<<<<< HEAD
 "Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
-=======
 "Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
->>>>>>> a70b9c12bd294178d2add75fdd64b01ec2a4cfc3
 "Language-Team: German <xfce-i18n@xfce.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -523,11 +520,7 @@ msgid "Disabled"
 msgstr "નિષ્ક્રિય"
 
 msgid "Display"
-<<<<<<< HEAD
-msgstr "પ્રદર્શન"
-=======
 msgstr "ડિસ્પ્લે"
->>>>>>> a70b9c12bd294178d2add75fdd64b01ec2a4cfc3
 
 msgid "Display Thunar user manual"
 msgstr "Handbuch zu Thunar anzeigen"
