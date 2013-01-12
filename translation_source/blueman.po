@@ -3,18 +3,18 @@ msgstr ""
 "Project-Id-Version: blueman\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2010-01-29 14:44+0200\n"
-"PO-Revision-Date: 2010-02-22 13:29+0000\n"
-"Last-Translator: benste <Benedict.Stein+ubuntu@gmail.com>\n"
+"PO-Revision-Date: 2013-01-12 14:55+0530\n"
+"Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2010-02-23 05:02+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
+"X-Generator: Poedit 1.5.4\n"
 
 msgid "%(service)s on %(device)s"
-msgstr "%(service)s auf %(device)s"
+msgstr "%(સુવિધા)ઓ %(ઉપકરણ)ઓ પર"
 
 msgid "%.0f Minute"
 msgid_plural "%.0f Minutes"
@@ -27,23 +27,23 @@ msgstr[0] "%.0f Sekunde"
 msgstr[1] "%.0f Sekunden"
 
 msgid "%d %s %d %s and %d %s"
-msgstr "%d %s %d %s und %d %s"
+msgstr "%d %s %d %s અને %d %s"
 
 msgid "%d Minute"
 msgid_plural "%d Minutes"
-msgstr[0] "%d Minute"
-msgstr[1] "%d Minuten"
+msgstr[0] "%d મિનીટ"
+msgstr[1] "%d મિનીટો"
 
 msgid "<b>%d Active Connection</b>"
 msgid_plural "<b>%d Active Connections</b>"
 msgstr[0] "<b>%d aktive Verbindung</b>"
-msgstr[1] "<b>%d aktive Verbindungen</b>"
+msgstr[1] "<b>%d સકિય જોડાણ</b>"
 
 msgid "<b>Adding Device...</b>"
-msgstr "<b>Füge Gerät hinzu...</b>"
+msgstr "<b>ઉપકરણ ઉમેરી રહ્યા છીએ...</b>"
 
 msgid "<b>Advanced</b>"
-msgstr "<b>Erweitert</b>"
+msgstr "<b>એડવાન્સ</b>"
 
 msgid ""
 "<b>After applying these settings Bluetooth daemon will be restarted.</b>"
@@ -52,28 +52,28 @@ msgstr ""
 "übernommen wurden.</b>"
 
 msgid "<b>Audio Settings</b>"
-msgstr "<b>Audio-Einstellungen</b>"
+msgstr "<b>ઓડિયો સેટિંગ્સ</b>"
 
 msgid "<b>Author:</b>"
-msgstr "<b>Autor:</b>"
+msgstr "<b>કરતા:</b>"
 
 msgid "<b>Bluetooth Off</b>"
-msgstr "<b>Bluetooth aus</b>"
+msgstr "<b>બ્લુટુથ બંધ</b>"
 
 msgid "<b>Bonded</b>"
-msgstr "<b>Gekoppelt</b>"
+msgstr "<b>જોડાયલા</b>"
 
 msgid "<b>Conflicts with:</b>"
 msgstr "<b>Steht im Konflikt mit:</b>"
 
 msgid "<b>Congratulations, device successfully added</b>"
-msgstr "<b>Gratulation, Gerät erfolgreich hinzugefügt</b>"
+msgstr "<b>અભિનંદન, ઉપકરણ સફળતાપૂર્વક ઉમેર્યું છે</b>"
 
 msgid "<b>Connect To:</b>"
-msgstr "<b>Verbinden mit:</b>"
+msgstr "<b>જોડાણ કરો:</b>"
 
 msgid "<b>Connect to:</b>"
-msgstr "<b>Verbinde mit:</b>"
+msgstr "<b>જોડાણ કરો:</b>"
 
 msgid ""
 "<b>Connected</b>\n"
@@ -109,10 +109,10 @@ msgstr ""
 "<b>Übertragungsstärke: %(tpl)u%%</b> <i>(%(tpl_state)s)</i>"
 
 msgid "<b>DUN Support</b>"
-msgstr "<b>DUN-Unterstützung</b>"
+msgstr "<b>DUN સપોર્ટ</b>"
 
 msgid "<b>Depends on:</b>"
-msgstr "<b>Ist abhängig von:</b>"
+msgstr "<b>આધારિત:</b>"
 
 msgid ""
 "<b>Deprecated</b>\n"
@@ -122,7 +122,7 @@ msgstr ""
 "Mache DUN/PAN Verbindungen für NetzwerkManager 0.7 verfügbar"
 
 msgid "<b>Device added and connected successfuly</b>"
-msgstr "<b>Gerät erfolgreich hinzugefügt und verbunden</b>"
+msgstr "<b>ઉપકરણ ઉમેર્યું અને સફળતાપૂર્વક જોડ્યું છે</b>"
 
 msgid "<b>Device added successfuly, but failed to connect</b>"
 msgstr "<b>Gerät erfolgreich hinzugefügt, aber Verbindung fehlgeschlagen</b>"
@@ -131,10 +131,10 @@ msgid "<b>Disconnect:</b>"
 msgstr "Trennen:"
 
 msgid "<b>Downloaded:</b>"
-msgstr "<b>Heruntergeladen:</b>"
+msgstr "<b>ડાઉનલોડેડ:</b>"
 
 msgid "<b>Failed to add device</b>"
-msgstr "<b>Hinzufügen des Geräts fehlgeschlagen</b>"
+msgstr "<b>ઉપકરણ ઉમેરવામાં નિષ્ફળ</b>"
 
 msgid "<b>File Receiving (Object Push)</b>"
 msgstr "<b>Datei empfangen (Object Push)</b>"
@@ -143,13 +143,13 @@ msgid "<b>File Sharing (FTP)</b>"
 msgstr "<b>Dateifreigabe (FTP)</b>"
 
 msgid "<b>File:</b>"
-msgstr "<b>Datei:</b>"
+msgstr "<b>ફાઈલ:</b>"
 
 msgid "<b>Friendly Name</b>"
-msgstr "<b>leslicher Name</b>"
+msgstr "<b>મેત્રી-નામ</b>"
 
 msgid "<b>GSM settings</b>"
-msgstr "<b>GSM-Einstellungen</b>"
+msgstr "<b>GSM સેટિંગ્સ</b>"
 
 msgid "<b>Log duration:</b>"
 msgstr "<b>Protokoll-Dauer:</b>"
@@ -161,7 +161,7 @@ msgid "<b>NAP Settings</b>"
 msgstr "<b>NAP-Einstellungen</b>"
 
 msgid "<b>Network Settings</b>"
-msgstr "<b>Netzwerk-Einstellungen</b>"
+msgstr "<b>નેટવર્ક સેટિંગ્સ</b>"
 
 msgid "<b>No DHCP servers installed</b>"
 msgstr "<b>Keine DHCP-Server installiert</b>"
@@ -191,10 +191,10 @@ msgid "<b>Services</b>"
 msgstr "<b>Dienste</b>"
 
 msgid "<b>To:</b>"
-msgstr "<b>Nach:</b>"
+msgstr "<b>ને:</b>"
 
 msgid "<b>Total:</b>"
-msgstr "<b>Gesamt:</b>"
+msgstr "<b>કુલ:</b>"
 
 msgid "<b>Transfer Settings</b>"
 msgstr "<b>Übertragungseinstellungen</b>"
@@ -246,7 +246,7 @@ msgid "Adapter selection"
 msgstr "Adapterauswahl"
 
 msgid "Add"
-msgstr "Hinzufügen"
+msgstr "ઉમેરો"
 
 msgid "Add Device"
 msgstr "Gerät hinzufügen"
@@ -324,46 +324,46 @@ msgid "Blueman is a GTK based Bluetooth manager"
 msgstr "Blueman ist ein GTK-basierter Bluetooth-Manager"
 
 msgid "Bluetooth Active"
-msgstr "Bluetooth aktiv"
+msgstr "બ્લુટુથ સક્રિય"
 
 msgid "Bluetooth Adapters"
-msgstr "Bluetooth-Adapter"
+msgstr "બ્લુટુથ એડેપ્ટર"
 
 msgid "Bluetooth Assistant"
-msgstr "Bluetooth-Assistent"
+msgstr "બ્લુટુથ સહાયક"
 
 msgid "Bluetooth Audio"
-msgstr "Bluetooth Audio"
+msgstr "બ્લુટુથ ઓડિયો"
 
 msgid "Bluetooth Authentication"
-msgstr "Bluetooth Authentifizierung"
+msgstr "બ્લુટુથ પ્રમાણીત્કરણ"
 
 msgid "Bluetooth Configuration"
 msgstr "Bluetooth-Konfiguration"
 
 msgid "Bluetooth Devices"
-msgstr "Bluetooth-Geräte"
+msgstr "બ્લુટુથ ઉપકરણો"
 
 msgid "Bluetooth Dialup"
-msgstr "Bluetooth Dialup"
+msgstr "બ્લુટુથ ડાયલ-અપ"
 
 msgid "Bluetooth Disabled"
-msgstr "Bluetooth deaktiviert"
+msgstr "બ્લુટુથ નિષ્ક્રિય"
 
 msgid "Bluetooth Enabled"
-msgstr "Bluetooth aktiviert"
+msgstr "બ્લુટુથ સક્રિય"
 
 msgid "Bluetooth File Transfer"
-msgstr "Bluetooth-Dateitransfer"
+msgstr "બ્લુટુથ ફાઈલ ટ્રાન્સફર"
 
 msgid "Bluetooth Manager"
-msgstr "Bluetooth-Manager"
+msgstr "બ્લુટુથ મેનેજર"
 
 msgid "Bluetooth Network"
-msgstr "Bluetooth-Netzwerk"
+msgstr "બ્લુટુથ નેટવર્ક"
 
 msgid "Bluetooth Turned Off"
-msgstr "Bluetooth ausgeschaltet"
+msgstr "બ્લુટુથ બંધ છે"
 
 msgid "Bluetooth needs to be turned on for file sending to work"
 msgstr ""
@@ -402,7 +402,7 @@ msgid "Changing Bluetooth system settings requires privileges"
 msgstr "Bluetooth-Systemeinstellungen zu ändern erfordert Privilegien"
 
 msgid "Close"
-msgstr "Schließen"
+msgstr "બંધ કરો"
 
 msgid "Command"
 msgstr "Befehl"
@@ -457,10 +457,10 @@ msgid "Connecting to %s"
 msgstr "Verbinde mit %s"
 
 msgid "Connecting..."
-msgstr "Verbinden..."
+msgstr "જોડાઈ રહ્યા છીએ..."
 
 msgid "Connection Failed: "
-msgstr "Verbindung fehlgeschlagen: "
+msgstr "જોડાણ નિષ્ફળ: "
 
 msgid "Connection to BlueZ failed"
 msgstr "Verbindung mit BlueZ fehlgeschlagen"
@@ -484,7 +484,7 @@ msgid "Dependency issue"
 msgstr "Abhängigkeitsproblem"
 
 msgid "Device Manager"
-msgstr "Geräteverwaltung"
+msgstr "ઉપકરણ મેનેજર"
 
 msgid "Device search progress"
 msgstr "Fortschritt der Gerätesuche"
@@ -493,10 +493,10 @@ msgid "Dialup Networking (DUN)"
 msgstr "Einwahl-Netzwerk (DUN)"
 
 msgid "Dialup Service"
-msgstr "Einwahl-Dienst"
+msgstr "ડાયલ-અપ સુવિધા"
 
 msgid "Dialup Settings"
-msgstr "Einwahl-Einstellungen"
+msgstr "ડાયલ ઉપ સેટિંગ્સ"
 
 msgid "Disconnecting..."
 msgstr "Trenne ..."
@@ -514,13 +514,13 @@ msgid "ETA:"
 msgstr "ETA:"
 
 msgid "Enable Bluetooth"
-msgstr "Bluetooth einschalten"
+msgstr "બ્લુટુથ સક્રિય કરો"
 
 msgid "Enable Routing (NAT)"
 msgstr "Routing (NAT) aktivieren"
 
 msgid "Enabled"
-msgstr "Aktiviert"
+msgstr "સક્રિય"
 
 msgid "Enter PIN code"
 msgstr "PIN Code eingeben"
@@ -947,28 +947,28 @@ msgid "Starting Adapter Preferences"
 msgstr "Starte Adapter-Voreinstellungen"
 
 msgid "Starting Bluetooth Assistant"
-msgstr "Starte Bluetooth-Assistent"
+msgstr "બ્લુટુથ સહાયક ચાલુ કરી રહ્યા છીએ"
 
 msgid "Starting Device Manager"
-msgstr "Gerätemanager starten"
+msgstr "ઉપકરણ મેનેજર ચાલુ કરી રહ્યા છીએ"
 
 msgid "Starting File Browser"
-msgstr "Datei-Browser starten"
+msgstr "ફાઈલ બ્રાઉસર ચાલુ કરી રહ્યા છીએ"
 
 msgid "Starting File Sender"
-msgstr "Starte Datei-Sender"
+msgstr "ફાઈલ મોકલનાર ચાલુ કરી રહ્યા છીએ"
 
 msgid "Starting Service Preferences"
-msgstr "Starte Dienst-Voreinstellungen"
+msgstr "સુવિધા "
 
 msgid "Sub-optimal"
 msgstr "Nicht optimal"
 
 msgid "Success"
-msgstr "Erfolgreich"
+msgstr "સફળ"
 
 msgid "Success!"
-msgstr "Erfolgreich!"
+msgstr "સફળ!"
 
 msgid ""
 "Successfully connected to <b>DUN</b> service on <b>%(0)s.</b>\n"
