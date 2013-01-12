@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Thunar 0.9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-05-26 23:58+0200\n"
-"PO-Revision-Date: 2013-01-11 12:29+0530\n"
+"PO-Revision-Date: 2013-01-12 19:27+0530\n"
 "Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
 "Language-Team: German <xfce-i18n@xfce.org>\n"
 "Language: de\n"
@@ -563,7 +563,7 @@ msgid "Disabled"
 msgstr "Deaktiviert"
 
 msgid "Display"
-msgstr "Anzeige"
+msgstr "ડિસ્પ્લે"
 
 msgid "Display Thunar user manual"
 msgstr "Handbuch zu Thunar anzeigen"
@@ -603,13 +603,13 @@ msgstr ""
 "Dateien und Unterordner anwenden?"
 
 msgid "Do you want to create it?"
-msgstr "Wollen Sie diese anlegen?"
+msgstr "શું તમે બનાવવા માગો છો?"
 
 msgid "Do you want to overwrite it?"
 msgstr "Wollen Sie diese überschreiben?"
 
 msgid "Do you want to skip it?"
-msgstr "Wollen Sie diese überspringen?"
+msgstr "શું તમે છોડવા માંગો છો?"
 
 msgid ""
 "Do you want to skip this file and continue to rename the remaining files?"
@@ -647,7 +647,7 @@ msgid "Emblems"
 msgstr "Embleme"
 
 msgid "Emptying the Trash..."
-msgstr "Papierkorb leeren…"
+msgstr "કચરાપેટી ખાલી કરી રહ્યા છીએ…"
 
 msgid "Enable _Volume Management"
 msgstr "Datenträger_verwaltung aktivieren"
@@ -678,7 +678,7 @@ msgstr ""
 "getrennt werden (z.B. *.txt;*.doc)."
 
 msgid "Enter the new name:"
-msgstr "Neuen Namen eingeben:"
+msgstr "નવું નામ લખો:"
 
 msgid ""
 "Enter the text that should be used as replacement for the pattern above."
@@ -707,16 +707,16 @@ msgid "Exposure Time:"
 msgstr "Belichtungsdauer:"
 
 msgid "Failed to add new application \"%s\""
-msgstr "Die Anwendung »%s« konnte nicht hinzugefügt werden"
+msgstr "\"%s\" એપ્લીકેશન ઉમેરવામાં નિષ્ફળ"
 
 msgid "Failed to add new shortcut"
-msgstr "Neues Lesezeichen konnte nicht hinzugefügt werden"
+msgstr "નવું શોર્ટકટ ઉમેરવામાં નિષ્ફળ"
 
 msgid "Failed to browse the network"
-msgstr "Das Netzwerk konnte nicht durchsucht werden"
+msgstr "નેટવર્ક બ્રાઉઝ કરવામાં નિષ્ફળ"
 
 msgid "Failed to change icon of \"%s\""
-msgstr "Das Symbol von »%s« konnte nicht geändert werden"
+msgstr "\"%s\"નો આયકોન બદલવામાં નિષ્ફળ"
 
 msgid "Failed to change the group of \"%s\": %s"
 msgstr "Die Gruppe von »%s« konnte nicht geändert werden: %s"
@@ -847,28 +847,28 @@ msgid "Failed to set default application for \"%s\""
 msgstr "Die Standardanwendung für »%s« konnte nicht gesetzt werden"
 
 msgid "File"
-msgstr "Datei"
+msgstr "ફાઈલ"
 
 msgid "File Context Menu"
 msgstr "Dateimenü"
 
 msgid "File Manager"
-msgstr "Dateimanager"
+msgstr "ફાઈલ મેનેજર"
 
 msgid "File Manager Preferences"
-msgstr "Dateimanager-Einstellungen"
+msgstr "ફાઈલ મેનેજર પ્રીફરન્સ"
 
 msgid "File Name"
-msgstr "Dateiname"
+msgstr "ફાઈલનું નામ"
 
 msgid "File Operation Progress"
-msgstr "Fortschritt der Dateioperation"
+msgstr "ફાઈલ ઓપરેશન પ્રગતિ"
 
 msgid "File System"
-msgstr "Dateisystem"
+msgstr "ફાઈલ સીસ્ટમ"
 
 msgid "File does not exist"
-msgstr "Datei ist nicht vorhanden"
+msgstr "ફાઈલ અસ્તિત્વમાં નથી"
 
 msgid "Flash Fired:"
 msgstr "Blitzlicht:"
@@ -880,13 +880,13 @@ msgid "Folder Context Menu"
 msgstr "Ordnermenü"
 
 msgid "Folder Permissions"
-msgstr "Ordner-Berechtigungen"
+msgstr "ફોલ્ડરની પરવાનગીઓ"
 
 msgid "Forward"
-msgstr "Vorwärts"
+msgstr "આગળ"
 
 msgid "Free Space:"
-msgstr "Freier Speicher:"
+msgstr "ખાલી જગ્યા:"
 
 msgid "From the back (right)"
 msgstr "Von hinten (rechts)"
@@ -895,13 +895,13 @@ msgid "From the front (left)"
 msgstr "Von vorne (links)"
 
 msgid "General"
-msgstr "Allgemein"
+msgstr "સામાન્ય"
 
 msgid "Go to the desktop folder"
-msgstr "Den Desktop-Ordner öffnen"
+msgstr "ડેસ્કટોપ ફોલ્ડર પર જાઓ"
 
 msgid "Go to the documents folder"
-msgstr "Den Dokumente-Ordner öffnen"
+msgstr "ડોક્યુમેન્ટસ ફોલ્ડર પર જાઓ"
 
 msgid "Go to the downloads folder"
 msgstr "Den Download-Ordner öffnen"
@@ -931,10 +931,10 @@ msgid "Go to the videos folder"
 msgstr "Den Video-Ordner öffnen"
 
 msgid "Group"
-msgstr "Gruppe"
+msgstr "વર્ગ"
 
 msgid "Group:"
-msgstr "Gruppe:"
+msgstr "વર્ગ:"
 
 msgid "Help URL"
 msgstr "URL der Hilfe"
@@ -946,7 +946,7 @@ msgid "ISO Speed Ratings:"
 msgstr "ISO-Geschw.:"
 
 msgid "Icon View"
-msgstr "Symbolansicht"
+msgstr "આયકોન દેખાવ"
 
 msgid "Icon _Size:"
 msgstr "Symbol_größe"
@@ -955,10 +955,10 @@ msgid "Icon based directory listing"
 msgstr "Symbolbasierte Ordneransicht"
 
 msgid "Icon size"
-msgstr "Symbolgröße"
+msgstr "આયકોન માપ"
 
 msgid "Icon view"
-msgstr "Symbolansicht"
+msgstr "આયકોન દેખાવ"
 
 msgid ""
 "If you choose to empty the Trash, all items in it will be permanently lost. "
@@ -1020,44 +1020,44 @@ msgstr ""
 "ändern."
 
 msgid "Image"
-msgstr "Bild"
+msgstr "ઈમેજ"
 
 msgid "Image Files"
-msgstr "Bilddateien"
+msgstr "ઈમેજ ફાઈલો"
 
 msgid "Image Size:"
-msgstr "Bildgröße:"
+msgstr "ઈમેજનું માપ:"
 
 msgid "Image Type:"
-msgstr "Bildtyp:"
+msgstr "ઈમેજનો પ્રકાર:"
 
 msgid "Include additional files in the list of files to be renamed"
 msgstr ""
 "Weitere Dateien zur Liste hinzufügen, die ebenfalls umbenannt werden sollen"
 
 msgid "Insert"
-msgstr "Einfügen"
+msgstr "ઉમેરો"
 
 msgid "Insert / Overwrite"
 msgstr "Einfügen / Überschreiben"
 
 msgid "Insert Date / Time"
-msgstr "Datum / Uhrzeit einfügen"
+msgstr "તારીખ/સમય ઉમેરો"
 
 msgid "Insert _time:"
-msgstr "_Zeit einfügen:"
+msgstr "_સમય ઉમેરો:"
 
 msgid "Invalid desktop file"
-msgstr "Ungültige .desktop-Datei"
+msgstr "અમાન્ય .ડેસ્કટોપ ફાઈલ"
 
 msgid "Invalid filename \"%s\""
-msgstr "Ungültiger Dateiname »%s«"
+msgstr "\"%s\" અમાન્ય ફાઈલનું નામ"
 
 msgid "Invalid filename provided by XDS drag site"
 msgstr "Ungültiger Dateiname seitens der Quelle"
 
 msgid "Invalid path"
-msgstr "Ungültiger Pfad"
+msgstr "અમાન્ય પાથ"
 
 msgid "Invalid regular expression, at character position %ld: %s"
 msgstr "Ungültiger regulärer Ausdruck, Fehler an Zeichenposition %ld: %s"
@@ -1075,10 +1075,10 @@ msgid "Keep items sorted by their type"
 msgstr "Objekte nach Typ in Zeilen sortieren"
 
 msgid "Kind:"
-msgstr "Typ:"
+msgstr "પ્રકાર:"
 
 msgid "Label"
-msgstr "Beschriftung"
+msgstr "લેબલ"
 
 msgid "Label widget"
 msgstr "Beschriftungsobjekt"
@@ -1105,10 +1105,10 @@ msgid "Loading folder contents..."
 msgstr "Ordnerinhalt wird geladen…"
 
 msgid "Loading..."
-msgstr "Wird geladen…"
+msgstr "લોડ થઇ રહ્યું છે…"
 
 msgid "Long"
-msgstr "Lang"
+msgstr "લાંબુ"
 
 msgid "MIME Type"
 msgstr "MIME-Typ"
@@ -1119,7 +1119,7 @@ msgstr[0] "_Verknüpfung erstellen"
 msgstr[1] "_Verknüpfungen erstellen"
 
 msgid "Mail Recipient"
-msgstr "E-Mail-Empfänger"
+msgstr "મેઈલ પ્રાપ્તકર્તા"
 
 msgid "Medium"
 msgstr "Mittel"
@@ -1134,10 +1134,10 @@ msgid "Modified:"
 msgstr "Geändert:"
 
 msgid "Move Dow_n"
-msgstr "_Hinunter schieben"
+msgstr "_ઉપર ખસેડો"
 
 msgid "Move _Up"
-msgstr "_Aufwärts schieben"
+msgstr "_નીચે ખસેડો"
 
 msgid "Move or copy files previously selected by a Cut or Copy command"
 msgstr ""
@@ -1164,46 +1164,46 @@ msgid "Move the currently selected action up by one row."
 msgstr "Die ausgewählte Aktion eine Zeile nach oben verschieben"
 
 msgid "Moving files into \"%s\"..."
-msgstr "Dateien werden in »%s« verschoben…"
+msgstr "\"%s\"માં ફાઈલો ખસેડી રહ્યા છીએ…"
 
 msgid "Moving files into the trash..."
-msgstr "Dateien werden in den Papierkorb verschoben…"
+msgstr "ફાઈલોને કચરાપેટીમાં ખસેડી રહ્યા છીએ…"
 
 msgid "N_o to all"
 msgstr "Nein zu a_llen"
 
 msgid "Name"
-msgstr "Name"
+msgstr "નામ"
 
 msgid "Name and Suffix"
-msgstr "Name und Suffix"
+msgstr "નામ અને પ્રત્યય"
 
 msgid "Name only"
-msgstr "Nur Name"
+msgstr "ખાલી નામ"
 
 msgid "Name:"
-msgstr "Name:"
+msgstr "નામ:"
 
 msgid "Navigation"
-msgstr "Navigation"
+msgstr "નેવિગેશન"
 
 msgid "Network"
-msgstr "Netzwerk"
+msgstr "નેટવર્ક"
 
 msgid "New Empty File"
-msgstr "Leere Datei"
+msgstr "નવી ખાલી ફાઈલ"
 
 msgid "New Empty File..."
-msgstr "Neue leere Datei…"
+msgstr "નવી ખાલી ફાઈલ…"
 
 msgid "New File"
-msgstr "Neue Datei"
+msgstr "નવી ફાઈલ"
 
 msgid "New Folder"
-msgstr "Neuer Ordner"
+msgstr "નવું ફોલ્ડર"
 
 msgid "New Name"
-msgstr "Neuer Name"
+msgstr "નવું નામ"
 
 msgid "No Exec field specified"
 msgstr "Das Exec-Feld fehlt oder ist leer"
@@ -1215,7 +1215,7 @@ msgid "No application selected"
 msgstr "Keine Anwendung ausgewählt"
 
 msgid "No icon"
-msgstr "Kein Symbol"
+msgstr "આયકોન નથી"
 
 msgid ""
 "No renamer modules were found on your system. Please check your\n"
@@ -1234,16 +1234,16 @@ msgid "No templates installed"
 msgstr "Keine Vorlagen installiert"
 
 msgid "None"
-msgstr "Keine"
+msgstr "નહિ"
 
 msgid "None available"
-msgstr "Keine verfügbar"
+msgstr "પ્રાપ્ત નથી"
 
 msgid "Normal"
-msgstr "Normal"
+msgstr "સામાન્ય"
 
 msgid "Normal Si_ze"
-msgstr "_Normale Größe"
+msgstr "_સામાન્ય માપ"
 
 msgid "Number - Text"
 msgstr "Zahl - Text"
@@ -1272,13 +1272,13 @@ msgid "Open <i>%s</i> and other files of type \"%s\" with:"
 msgstr "<i>%s</i> und andere Dateien vom Typ »%s« öffnen mit:"
 
 msgid "Open Folder"
-msgstr "Ordner öffnen"
+msgstr "ફોલ્ડર ખોલો"
 
 msgid "Open Folder with Thunar"
-msgstr "Ordner in Thunar öffnen"
+msgstr "ફોલ્ડર થુનાર દ્વારા ખોલો"
 
 msgid "Open Location"
-msgstr "Ort öffnen"
+msgstr "સ્થાન ખોલો"
 
 msgid "Open New _Window"
 msgstr "_Neues Fenster öffnen"
@@ -1340,46 +1340,46 @@ msgid "Open the specified folders in Thunar"
 msgstr "Angegebene Ordner mit Thunar öffnen"
 
 msgid "Options:"
-msgstr "Optionen:"
+msgstr "વિકલ્પો:"
 
 msgid "Original Path:"
 msgstr "Herkunftsort:"
 
 msgid "Other Application..."
-msgstr "Andere Anwendung…"
+msgstr "બીજા એપ્લીકેશન…"
 
 msgid "Other Applications"
-msgstr "Andere Anwendungen"
+msgstr "બીજા એપ્લીકેશનો"
 
 msgid "Others:"
-msgstr "Andere:"
+msgstr "બીજા:"
 
 msgid "Overwrite"
-msgstr "Überschreiben mit"
+msgstr "પુનઃલખો"
 
 msgid "Owner"
-msgstr "Besitzer"
+msgstr "માલિક"
 
 msgid "Owner:"
-msgstr "Besitzer:"
+msgstr "માલિક:"
 
 msgid "P_roperties..."
 msgstr "_Eigenschaften…"
 
 msgid "Paste Into Folder"
-msgstr "In Ordner einfügen"
+msgstr "ફોલ્ડરમાં પેસ્ટ કરો"
 
 msgid "Perl Scripts"
 msgstr "Perl-Skripte"
 
 msgid "Permissions"
-msgstr "Berechtigungen"
+msgstr "પરવાનગીઓ"
 
 msgid "Please report bugs to <%s>."
 msgstr "Bitte melden Sie Probleme unter <%s>."
 
 msgid "Please wait..."
-msgstr "Bitte warten…"
+msgstr "રાહ જુઓ…"
 
 msgid "Pr_eferences..."
 msgstr "_Einstellungen…"
@@ -1399,19 +1399,19 @@ msgstr[1] ""
 "Die ausgewählten Dateien beim nächsten »Einfügen« an neuen Ort verschieben"
 
 msgid "Preparing..."
-msgstr "Vorbereiten…"
+msgstr "તૈયાર કરી રહ્યું છે…"
 
 msgid "Print version information and exit"
 msgstr "Programmversion anzeigen"
 
 msgid "Program:"
-msgstr "Programm:"
+msgstr "પ્રોગ્રામ:"
 
 msgid "Python Scripts"
-msgstr "Python-Skripte"
+msgstr "પાયથોન સ્ક્રીપ્ટસ"
 
 msgid "Question"
-msgstr "Frage"
+msgstr "પ્રશ્ન"
 
 msgid "Quit a running Thunar instance"
 msgstr "Einen laufenden Prozess von Thunar beenden"
@@ -1423,10 +1423,10 @@ msgid "Re_name Shortcut"
 msgstr "Lesezeichen _umbenennen"
 
 msgid "Read & Write"
-msgstr "Lesen & Schreiben"
+msgstr "વાંચો & લખો"
 
 msgid "Read only"
-msgstr "Nur Lesen"
+msgstr "ખાલી વાંચો"
 
 msgid "Recommended Applications"
 msgstr "Bevorzugte Anwendungen"
@@ -1442,14 +1442,14 @@ msgstr "Zeichen entfernen"
 
 msgid "Remove File"
 msgid_plural "Remove Files"
-msgstr[0] "Datei _entfernen"
-msgstr[1] "Dateien _entfernen"
+msgstr[0] "ફાઈલ દુર કરો"
+msgstr[1] "ફાઈલો દુર કરો"
 
 msgid "Remove _From Position:"
 msgstr "_Entferne Zeichen ab Position:"
 
 msgid "Remove all files and folders from the Trash?"
-msgstr "Alle Dateien und Ordner aus dem Papierkorb löschen?"
+msgstr "કચરાપેટીમાંની બધી ફાઈલો અને ફોલ્ડર દુર કરો?"
 
 msgid "Remove the selected file from the list of files to be renamed"
 msgid_plural "Remove the selected files from the list of files to be renamed"
@@ -1460,7 +1460,7 @@ msgstr[1] ""
 "entfernen"
 
 msgid "Rename \"%s\""
-msgstr "»%s« umbenennen"
+msgstr "\"%s\"નું નામ બદલો"
 
 msgid "Rename Multiple Files"
 msgstr "Mehrere Dateien gleichzeitig umbenennen"
@@ -1601,10 +1601,10 @@ msgstr[0] "%d Datei als komprimiertes Archiv senden?"
 msgstr[1] "%d Dateien als komprimiertes Archiv senden?"
 
 msgid "Send _directly"
-msgstr "_Direkt senden"
+msgstr "_તરત મોકલો"
 
 msgid "Send as _archive"
-msgstr "Als A_rchiv senden"
+msgstr "_આર્કાઇવ તરીકે મોકલો"
 
 msgid "Send com_pressed"
 msgstr "_Komprimiert senden"
@@ -1615,7 +1615,7 @@ msgstr[0] "Die ausgewählte Datei an »%s« senden"
 msgstr[1] "Die ausgewählten Dateien an »%s« senden"
 
 msgid "Set as wallpaper"
-msgstr "Als Hintergrundbild verwenden"
+msgstr "વોલપેપર તરીકે સેટ કરો"
 
 msgid ""
 "Setup custom actions that will appear in the file managers context menus"
@@ -1627,7 +1627,7 @@ msgid "Shell Scripts"
 msgstr "Shell-Skripte"
 
 msgid "Shortcuts Pane"
-msgstr "Lesezeichenliste"
+msgstr "શોર્ટકટસ પેનલ"
 
 msgid "Show Icon E_mblems"
 msgstr "Embleme für _Ordner anzeigen"
@@ -1636,7 +1636,7 @@ msgid "Show Icon _Emblems"
 msgstr "_Embleme für Lesezeichen anzeigen"
 
 msgid "Show _Hidden Files"
-msgstr "_Verborgene Dateien anzeigen"
+msgstr "_ગુપ્ત ફાઈલો બતાવો"
 
 msgid "Show the contents at the normal size"
 msgstr "Den Inhalt in normaler Größe anzeigen"
@@ -1651,7 +1651,7 @@ msgid "Shutter Speed:"
 msgstr "Verschlussgeschw.:"
 
 msgid "Side Pane"
-msgstr "Seitenleiste"
+msgstr "સાઇડ પેનલ"
 
 msgid "Side Pane (Create Shortcut)"
 msgid_plural "Side Pane (Create Shortcuts)"
@@ -1659,40 +1659,40 @@ msgstr[0] "Seitenleiste (Lesezeichen erstellen)"
 msgstr[1] "Seitenleiste (Lesezeichen erstellen)"
 
 msgid "Size"
-msgstr "Größe"
+msgstr "માપ"
 
 msgid "Size:"
-msgstr "Größe:"
+msgstr "માપ:"
 
 msgid "Small"
-msgstr "Klein"
+msgstr "નાનું"
 
 msgid "Smaller"
-msgstr "Kleiner"
+msgstr "ખૂબ નાનું"
 
 msgid "Software:"
-msgstr "Software:"
+msgstr "સોફ્ટવેર:"
 
 msgid "Sort By Modification _Date"
-msgstr "Nach Än_derungsdatum sortieren"
+msgstr "ફેરફારની _તારીખ પ્રમાણે વર્ગીકૃત કરો"
 
 msgid "Sort By _Name"
-msgstr "Nach _Name sortieren"
+msgstr "_ નામ પ્રમાણે વર્ગીકૃત કરો"
 
 msgid "Sort By _Size"
-msgstr "Nach _Größe sortieren"
+msgstr "_માપ પ્રમાણે વર્ગીકૃત કરો"
 
 msgid "Sort By _Type"
-msgstr "Nach Datei_typ sortieren"
+msgstr "_પ્રકાર પ્રમાણે વર્ગીકૃત કરો"
 
 msgid "Sort _folders before files"
-msgstr "_Ordner vor Dateien anzeigen"
+msgstr "ફાઈલો પહેલા _ફોલ્ડરો ને વર્ગીકૃત કરો"
 
 msgid "Sort items in ascending order"
-msgstr "Objekte in absteigender Richtung sortieren"
+msgstr "વસ્તુઓને ચઢતા ક્રમે વર્ગીકૃત કરો"
 
 msgid "Sort items in descending order"
-msgstr "Objekte in absteigender Richtung sortieren"
+msgstr "વસ્તુઓને ઉતરતા ક્રમે વર્ગીકૃત કરો"
 
 msgid "Spacing"
 msgstr "Abstand"
@@ -1727,7 +1727,7 @@ msgid "Text - Number"
 msgstr "Text - Zahl"
 
 msgid "Text _Format:"
-msgstr "Text_format:"
+msgstr "ટેક્સ્ટ_ફોર્મેટ:"
 
 msgid "Text of the page's label"
 msgstr "Text für die Beschriftung der Seite"
@@ -1777,14 +1777,14 @@ msgstr ""
 "nicht oder trennen die Verbindung"
 
 msgid "The file \"%s\" already exists"
-msgstr "Die Datei »%s« existiert bereits"
+msgstr "ફાઇલ  \"%s\" 'પહેલેથી જ અસ્તિત્વમાં છે"
 
 msgid ""
 "The file \"%s\" already exists. Would you like to replace it?\n"
 "\n"
 "If you replace an existing file, its contents will be overwritten."
 msgstr ""
-"Die Datei »%s« existiert bereits. Wollen Sie sie ersetzen?\n"
+"ફાઇલ \"%s\" પહેલેથી જ અસ્તિત્વમાં છે. શું તમે એને બદલવા માગો છો?\n"
 "\n"
 "Falls Sie eine existierende Datei ersetzen, wird deren Inhalt überschrieben."
 
@@ -1879,13 +1879,13 @@ msgstr ""
 "In der Zwischenablage befindet sich nichts, was hier eingefügt werden könnte"
 
 msgid "This folder already contains a file \"%s\"."
-msgstr "Dieser Ordner enthält bereits eine Datei »%s«."
+msgstr "આ ફોલ્ડર પહેલેથી જ \"%s\" ફાઈલ ધરાવે છે."
 
 msgid "This folder already contains a folder \"%s\"."
-msgstr "Dieser Ordner enthält bereits einen Ordner »%s«."
+msgstr "આ ફોલ્ડર પહેલેથી જ \"%s\" ફોલ્ડર ધરાવે છે."
 
 msgid "This folder already contains a symbolic link \"%s\"."
-msgstr "Dieser Ordner enthält bereits eine Verknüpfung »%s«."
+msgstr "આ ફોલ્ડર પહેલેથી જ \"%s\" સિમ્બોલિક લિંક ધરાવે છે."
 
 msgid ""
 "This page lists the conditions under which the\n"
@@ -1912,8 +1912,8 @@ msgstr ""
 
 msgid "This will open %d separate file manager window."
 msgid_plural "This will open %d separate file manager windows."
-msgstr[0] "Es wird %d separates Dateimanager-Fenster geöffnet."
-msgstr[1] "Es werden %d separate Dateimanager-Fenster geöffnet."
+msgstr[0] "આ %d અલગ ફાઈલ મેનેજર વિન્ડો ખોલશે"
+msgstr[1] "આ %d અલગ ફાઈલ મેનેજર વિન્ડોઝ ખોલશે"
 
 msgid ""
 "This will remove the application launcher that appears in the file context "
@@ -1930,7 +1930,7 @@ msgstr ""
 "wurden."
 
 msgid "Thunar"
-msgstr "Thunar"
+msgstr "થુનાર"
 
 msgid ""
 "Thunar Bulk Rename is a powerful and extensible\n"
@@ -1940,7 +1940,7 @@ msgstr ""
 "Werkzeug zum gleichzeitigen Umbenennen mehrerer Dateien."
 
 msgid "Thunar File Manager"
-msgstr "Dateimanager Thunar"
+msgstr "થુનાર ફાઈલ મેનેજર"
 
 msgid ""
 "Thunar is a fast and easy to use file manager\n"
@@ -1950,16 +1950,16 @@ msgstr ""
 "Dateimanager für die Arbeitsumgebung »Xfce«."
 
 msgid "Thunar: %s\n"
-msgstr "Thunar: %s\n"
+msgstr "થુનાર: %s\n"
 
 msgid "Thunar: Failed to open display: %s\n"
-msgstr "Thunar: Konnte keine Verbindung zur Anzeige »%s« herstellen\n"
+msgstr "થુનાર: %s ને પ્રદર્શિત કરવામાં નિષ્ફળ\n"
 
 msgid "Today"
-msgstr "Heute"
+msgstr "આજ"
 
 msgid "Today at %X"
-msgstr "Heute um %X"
+msgstr "આજે %X"
 
 msgid "Toggles the display of hidden files in the current window"
 msgstr "Verborgene Dateien im momentan geöffneten Fenster anzeigen/verbergen"
@@ -1982,25 +1982,25 @@ msgid "Traditional approach with location bar and navigation buttons"
 msgstr "Herkömmlicher Ansatz mit Pfadleiste und Navigationsknöpfen"
 
 msgid "Trash Applet"
-msgstr "Papierkorb"
+msgstr "કચરાપેટી અપ્લેટ"
 
 msgid "Trash contains files"
-msgstr "Papierkorb enthält Dateien"
+msgstr "કચરાપેટીમાં ફાઈલો છે"
 
 msgid "Trash is empty"
-msgstr "Papierkorb ist leer"
+msgstr "કચરાપેટી ખાલી છે."
 
 msgid "Tree Pane"
-msgstr "Baumansicht"
+msgstr "ટ્રી પેનલ"
 
 msgid "Trying to move \"%s\""
-msgstr "Versuche, die Datei »%s« zu verschieben…"
+msgstr "\"%s\" ને ખસેડી રહ્યા છીએ"
 
 msgid "Trying to restore \"%s\""
-msgstr "Versuche, die Datei »%s« wiederherzustellen…"
+msgstr " \"%s\" પુનઃસ્થાપિત કરી રહ્યા છીએ"
 
 msgid "Type"
-msgstr "Typ"
+msgstr "પ્રકાર"
 
 msgid "UPPERCASE"
 msgstr "GROSSBUCHSTABEN"
@@ -2009,7 +2009,7 @@ msgid "URL:"
 msgstr "Adresse:"
 
 msgid "Unknown"
-msgstr "Unbekannt"
+msgstr "અજ્ઞાત"
 
 msgid "Unknown closing element <%s>"
 msgstr "Unbekanntes schließendes Element <%s>"
@@ -2027,7 +2027,7 @@ msgid "Unmounting device"
 msgstr "Gerät wird ausgehängt"
 
 msgid "Uppercase / Lowercase"
-msgstr "Groß-/Kleinschreibung"
+msgstr "મોટા અક્ષર/નાના અક્ષર"
 
 msgid "Use \"%s\" to open the selected file"
 msgid_plural "Use \"%s\" to open the selected files"
@@ -2054,28 +2054,28 @@ msgstr ""
 "der obigen Liste enthalten ist."
 
 msgid "Use as _default for this kind of file"
-msgstr "Stan_dardmäßig für Dateien dieses Typs benutzen"
+msgstr "આ પ્રકારની ફાઈલ માટે _ડીફોલ્ટ તરીકે વાપરો"
 
 msgid "Very Large"
-msgstr "Sehr groß"
+msgstr "અત્યંત મોટું"
 
 msgid "Very Small"
-msgstr "Sehr klein"
+msgstr "અત્યંત નાનું"
 
 msgid "Video Files"
-msgstr "Videodateien"
+msgstr "વિડીયો ફાઈલ્સ"
 
 msgid "View _new folders using:"
 msgstr "_Neue Fenster öffnen mit:"
 
 msgid "View as _Compact List"
-msgstr "_Listenansicht"
+msgstr "_સંક્ષિપ્ત યાદી સ્વરૂપે જુઓ"
 
 msgid "View as _Detailed List"
-msgstr "_Detailansicht"
+msgstr "_વિગતવાર યાદી રૂપે જુઓ"
 
 msgid "View as _Icons"
-msgstr "_Symbolansicht"
+msgstr "_આયકોન સ્વરૂપે જુઓ"
 
 msgid "View the properties of the folder \"%s\""
 msgstr "Die Eigenschaften des Ordners »%s« anzeigen"
@@ -2084,18 +2084,16 @@ msgid "View the properties of the selected file"
 msgstr "Die Eigenschaften der ausgewählten Datei anzeigen/ändern"
 
 msgid "Visible Columns"
-msgstr "Anzuzeigende Spalten"
+msgstr "દ્રશ્યમાન કોલમ"
 
 msgid "Volume Management"
-msgstr "Datenträgerverwaltung"
+msgstr "વોલ્યુમ મેનેજમેન્ટ"
 
 msgid "Volume:"
 msgstr "અવાજ:"
 
 msgid "Warning, you are using the root account, you may harm your system."
-msgstr ""
-"Achtung, Sie arbeiten mit Supernutzer-Rechten und können Ihr System "
-"beschädigen."
+msgstr "ચેતવણી, તમે રુટ વાપરી રહ્યા છો , જે તમારી સિસ્ટમ નુકસાન પહોંચાડી શકે છે."
 
 msgid ""
 "When changing the permissions of a folder, you\n"
@@ -2140,22 +2138,22 @@ msgstr ""
 "ist nützlich, um Einträge nur auszuwählen anstatt sie zu aktivieren."
 
 msgid "Write only"
-msgstr "Nur Schreiben"
+msgstr "માત્ર લખો"
 
 msgid "Writing data to device"
-msgstr "Daten werden auf Gerät geschrieben"
+msgstr "ઉપકરણ પર ડેટા લખાઈ રહ્યો છે"
 
 msgid "Written by Benedikt Meurer <benny@xfce.org>."
 msgstr "Entwickelt von Benedikt Meurer <benny@xfce.org>."
 
 msgid "Yes to _all"
-msgstr "Ja _zu allen"
+msgstr "હા_બધાજ"
 
 msgid "Yesterday"
-msgstr "Gestern"
+msgstr "ગઈકાલ"
 
 msgid "Yesterday at %X"
-msgstr "Gestern um %X"
+msgstr "ગઈકાલે %X"
 
 msgid ""
 "You can configure custom actions that will appear in the\n"
@@ -2226,28 +2224,28 @@ msgid "_Delete"
 msgstr "_ડીલીટ"
 
 msgid "_Descending"
-msgstr "A_ufsteigend"
+msgstr "_ઉતરતો ક્રમ"
 
 msgid "_Description:"
 msgstr "_વર્ણન:"
 
 msgid "_Directories"
-msgstr "_Ordner"
+msgstr "_ડિરેક્ટરીસ"
 
 msgid "_Double click to activate items"
-msgstr "_Doppelklick zum Aktivieren von Objekten"
+msgstr "_વસ્તુ પસંદ કરવા ડબલ ક્લિક"
 
 msgid "_Edit"
-msgstr "_Bearbeiten"
+msgstr "_સંપાદન"
 
 msgid "_Empty File"
-msgstr "_Leere Datei"
+msgstr "_ખાલી ફાઈલ"
 
 msgid "_Empty Trash"
-msgstr "Papierkorb l_eeren"
+msgstr "_ખાલી કચરાપેટી"
 
 msgid "_Execute"
-msgstr "_Ausführen"
+msgstr "_એક્ઝીક્યુટ"
 
 msgid "_File"
 msgstr "_ફાઈલ"
@@ -2280,10 +2278,10 @@ msgid "_Link here"
 msgstr "_અહી લીંક જોડો"
 
 msgid "_Location Selector"
-msgstr "_Adressleiste"
+msgstr "_સ્થાન પસંદગીકાર"
 
 msgid "_Location:"
-msgstr "_Ort:"
+msgstr "_સ્થાન:"
 
 msgid "_Mount Volume"
 msgstr "_ડ્રાઈવ ખોલો"
@@ -2319,7 +2317,7 @@ msgid "_Open in New Window"
 msgstr "_નવી વિન્ડોમાં ખોલો"
 
 msgid "_Other Files"
-msgstr "A_ndere Dateien"
+msgstr "_અન્ય ફાઈલો"
 
 msgid "_Paste"
 msgstr "_પેસ્ટ"
@@ -2328,10 +2326,10 @@ msgid "_Paste Into Folder"
 msgstr "_ફોલ્ડરમાં પેસ્ટ કરો"
 
 msgid "_Pathbar Style"
-msgstr "_Pfadleisten-Stil"
+msgstr "_પાથબર શૈલી"
 
 msgid "_Pattern:"
-msgstr "_Muster:"
+msgstr "_પેટર્ન:"
 
 msgid "_Properties..."
 msgstr "_પ્રોપર્ટીસ…"
@@ -2340,7 +2338,7 @@ msgid "_Reload"
 msgstr "_રીલોડ"
 
 msgid "_Remove Launcher"
-msgstr "Starter _entfernen"
+msgstr "_લોન્ચર દુર કરો"
 
 msgid "_Remove Shortcut"
 msgstr "_શોર્ટકટ દુર કરો"
@@ -2358,10 +2356,10 @@ msgid "_Replace"
 msgstr "_બદલો"
 
 msgid "_Restore"
-msgstr "_Wiederherstellen"
+msgstr "_પુનઃસ્થાપિત કરો"
 
 msgid "_Retry"
-msgstr "_Wiederholen"
+msgstr "_ફરી પ્રયત્ન કરો"
 
 msgid "_Revert Changes"
 msgstr "_ફરેફાર ઉલટાવો"
@@ -2379,49 +2377,49 @@ msgid "_Shortcuts"
 msgstr "_શોર્ટકટસ"
 
 msgid "_Show"
-msgstr "_Anzeigen"
+msgstr "_બતાવો"
 
 msgid "_Show thumbnails"
-msgstr "_Miniatur-Vorschaubilder anzeigen"
+msgstr "_થમ્બ્નેઈલ બતાવો"
 
 msgid "_Side Pane"
-msgstr "S_eitenleiste"
+msgstr "_સાઈડની પેનલ"
 
 msgid "_Single click to activate items"
-msgstr "_Einfacher Klick zum Aktivieren von Objekten"
+msgstr "_વસ્તુ પસંદ કરવા એક ક્લિક"
 
 msgid "_Skip"
-msgstr "Ü_berspringen"
+msgstr "_અવગણો"
 
 msgid "_Skip This File"
-msgstr "Datei ü_berspringen"
+msgstr "_આ ફાઈલની અવગણના કરો"
 
 msgid "_Start With:"
-msgstr "_beginnend ab:"
+msgstr "_પ્રારંભ :"
 
 msgid "_Text Files"
 msgstr "_ટેક્સ્ટ ફાઈલ્સ"
 
 msgid "_Text beside icons"
-msgstr "_Text neben Symbolen"
+msgstr "_આયકોન સાથે ટેક્સ્ટ "
 
 msgid "_Text:"
-msgstr "_Text:"
+msgstr "_ટેક્સ્ટ:"
 
 msgid "_To Position:"
-msgstr "_Bis Position:"
+msgstr "_સ્થાન:"
 
 msgid "_Toolbar Style"
-msgstr "_Werkzeugleisten-Stil"
+msgstr "_ટૂલબાર શૈલી"
 
 msgid "_Tree"
-msgstr "Bau_mansicht"
+msgstr "_ટ્રી"
 
 msgid "_Video Files"
-msgstr "_Videodateien"
+msgstr "_વિડીયો ફાઈલ્સ"
 
 msgid "_View"
-msgstr "_Anzeige"
+msgstr "_દેખાવ"
 
 msgid "_Yes"
 msgstr "_Ja"
