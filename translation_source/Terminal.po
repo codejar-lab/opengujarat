@@ -3,13 +3,14 @@ msgstr ""
 "Project-Id-Version: Terminal 0.2.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-06-20 16:01+0000\n"
-"PO-Revision-Date: 2010-05-21 19:52+0200\n"
-"Last-Translator: Enrico Tröger <enrico@xfce.org>\n"
+"PO-Revision-Date: 2013-01-12 22:08+0530\n"
+"Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
 "Language-Team: German <xfce-i18n-de@xfce.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 msgid "$TERM s_etting:"
 msgstr "$TERM _Einstellung:"
@@ -18,13 +19,13 @@ msgid "ASCII DEL"
 msgstr "ASCII DEL"
 
 msgid "Action"
-msgstr "Aktion"
+msgstr "એક્શન"
 
 msgid "Ad_vanced"
 msgstr "F_ortgeschritten"
 
 msgid "All Files"
-msgstr "Alle Dateien"
+msgstr "બધી ફાઈલો"
 
 msgid "Allow bold te_xt"
 msgstr "T_ext in Fettschrift zulassen"
@@ -36,19 +37,19 @@ msgid "Auto-detect"
 msgstr "Automatisch erkennen"
 
 msgid "Background"
-msgstr "Hintergrund"
+msgstr "બેકગ્રાઉન્ડ"
 
 msgid "Background image"
-msgstr "Hintergrundbild"
+msgstr "બેકગ્રાઉન્ડ ચિત્ર"
 
 msgid "C_lose Tab"
 msgstr "Reiter sch_ließen"
 
 msgid "Centered"
-msgstr "Zentriert"
+msgstr "વચ્ચે"
 
 msgid "Choose Terminal Font"
-msgstr "Terminalschriftart auswählen"
+msgstr "ટર્મિનલ ફોન્ટ પસંદ કરો"
 
 msgid "Choose tab activity color"
 msgstr "Farbe für aktive Reiter auswählen"
@@ -69,34 +70,34 @@ msgid "Clea_r"
 msgstr "_Leeren"
 
 msgid "Close Tab"
-msgstr "Reiter schließen"
+msgstr "ટેબ બંધ કરો"
 
 msgid "Close Window"
-msgstr "Fenster schließen"
+msgstr "વિન્ડો બંધ કરો"
 
 msgid "Close all tabs"
-msgstr "Alle Reiter schließen"
+msgstr "બધી ટેબ બંધ કરો"
 
 msgid "Close all tabs?"
-msgstr "Alle Reiter schließen?"
+msgstr "શું બધી ટેબ બંધ કરીએ?"
 
 msgid "Close the current terminal tab"
-msgstr "Den aktuellen Terminalreiter schließen"
+msgstr "ચાલુ ટર્મિનલ ટેબ બંધ કરો"
 
 msgid "Close the terminal window"
-msgstr "Das Terminalfenster schließen"
+msgstr "ટર્મિનલ વિન્ડો બંધ કરો"
 
 msgid "Close this tab"
-msgstr "Reiter schließen"
+msgstr "આ ટેબ બંધ કરો"
 
 msgid "Color Selector"
-msgstr "Farbwähler"
+msgstr "રંગ પસંદગીકાર"
 
 msgid "Command"
-msgstr "Befehl"
+msgstr "કમાન્ડ"
 
 msgid "Compatibility"
-msgstr "Kompatibilität"
+msgstr "સુસંગતા"
 
 msgid "Compose Email"
 msgstr "E-Mail schreiben"
@@ -113,13 +114,13 @@ msgid ""
 msgstr "Fo_lgende Zeichen beim Doppelklick als Teil eines Wortes ansehen:"
 
 msgid "Contents"
-msgstr "Inhalt"
+msgstr "કન્ટેન્ટ"
 
 msgid "Control-H"
 msgstr "Steuerung-H"
 
 msgid "Copy"
-msgstr "Kopieren"
+msgstr "કોપી"
 
 msgid "Copy Email Address"
 msgstr "E-Mail-Adresse kopieren"
@@ -128,7 +129,7 @@ msgid "Copy Link Address"
 msgstr "Verknüpfung kopieren"
 
 msgid "Copy to clipboard"
-msgstr "In die Zwischenablage kopieren"
+msgstr "ક્લિપબોર્ડમાં કોપી કરો"
 
 msgid "Cu_rsor color:"
 msgstr "_Cursorfarbe:"
@@ -140,7 +141,7 @@ msgid "D-BUS message bus disconnected, exiting...\n"
 msgstr "Verbindung zum Nachrichtenbus D-Bus wurde getrennt, beende...\n"
 
 msgid "Detach Tab"
-msgstr "Reiter abtrennen"
+msgstr "ટેબ અલગ પાડો"
 
 msgid "Disable all me_nu access keys (such as Alt+f)"
 msgstr "A_lle Menükürzelbuchstaben deaktivieren (z.B. Alt+d)"
@@ -149,7 +150,7 @@ msgid "Disable m_enu shortcut keys (F10 by default)"
 msgstr "_Menütastenkürzel deaktivieren (Vorgabe ist F10)"
 
 msgid "Disabled"
-msgstr "Deaktiviert"
+msgstr "નિષ્ક્રિય"
 
 msgid "Display _borders around new windows"
 msgstr "Fenster_dekoration in neuen Terminals anzeigen"
@@ -173,10 +174,10 @@ msgid "Do _not ask me again"
 msgstr "In Zukunft _nicht mehr nachfragen"
 
 msgid "Double Click"
-msgstr "Doppelklick"
+msgstr "ડબલ ક્લિક"
 
 msgid "Edit"
-msgstr "Bearbeiten"
+msgstr "ફેરફાર"
 
 msgid "Enab_le anti-aliasing for the terminal font"
 msgstr "_Kantenglättung für die Terminalschrift verwenden"
@@ -253,22 +254,22 @@ msgid "Failed to open the documentation browser"
 msgstr "Konnte den Browser für die Dokumentation nicht öffnen"
 
 msgid "File"
-msgstr "Datei"
+msgstr "ફાઈલ"
 
 msgid "Font"
-msgstr "Schriftart"
+msgstr "ફોન્ટ"
 
 msgid "Fullscreen"
-msgstr "Vollbild"
+msgstr "ફૂલસ્ક્રીન"
 
 msgid "General"
-msgstr "Allgemein"
+msgstr "સામાન્ય"
 
 msgid "General Options"
-msgstr "Allgemeine Einstellungen"
+msgstr "સામાન્ય વિકલ્પો"
 
 msgid "Go"
-msgstr "Gehe zu"
+msgstr "જાઓ"
 
 msgid "Goes after initial title"
 msgstr "Nach dem Titel anzeigen"
@@ -277,10 +278,10 @@ msgid "Goes before initial title"
 msgstr "Vor dem Titel anzeigen"
 
 msgid "Help"
-msgstr "Hilfe"
+msgstr "મદદ"
 
 msgid "Image Files"
-msgstr "Bilddateien"
+msgstr "ઈમેજ ફાઈલો"
 
 msgid "Invalid geometry string \"%s\"\n"
 msgstr "Ungültige Geometrieangabe »%s«\n"
@@ -289,49 +290,49 @@ msgid "Isn't displayed"
 msgstr "Nicht anzeigen"
 
 msgid "Menubar Access"
-msgstr "Zugriff auf Menüs"
+msgstr "મેનુબાર ઍક્સેસ"
 
 msgid "Next Tab"
-msgstr "Nächster Reiter"
+msgstr "આગળની ટેબ"
 
 msgid "None (use solid color)"
 msgstr "Keiner (einfarbig)"
 
 msgid "OPTION"
-msgstr "OPTION"
+msgstr "વિકલ્પ"
 
 msgid "On the left side"
-msgstr "Auf der linken Seite"
+msgstr "ડાબી બાજુએ"
 
 msgid "On the right side"
-msgstr "Auf der rechten Seite"
+msgstr "જમણી બાજુએ"
 
 msgid "Open Link"
-msgstr "Verknüpfung öffnen"
+msgstr "લિંક ખોલો"
 
 msgid "Open T_erminal"
-msgstr "F_enster öffnen"
+msgstr "ટર્મિનલ ખોલો"
 
 msgid "Open Tab"
-msgstr "Reiter öffnen"
+msgstr "ટેબ ખોલો"
 
 msgid "Open Terminal"
-msgstr "Fenster öffnen"
+msgstr "ટર્મિનલ ખોલો"
 
 msgid "Open _Tab"
-msgstr "_Reiter öffnen"
+msgstr "_ટેબ ખોલો"
 
 msgid "Open a dialog to specify the color"
 msgstr "Einen Dialog öffnen, um die Farbe zu wählen"
 
 msgid "Open a new terminal tab"
-msgstr "Einen neuen Terminalreiter öffnen"
+msgstr "નવી ટર્મિનલ ટેબ ખોલો"
 
 msgid "Open a new terminal window"
-msgstr "Ein neues Terminalfenster öffnen"
+msgstr "નવી ટર્મિનલ વિન્ડો ખોલો"
 
 msgid "Open a new window for the current terminal tab"
-msgstr "Den aktuellen Terminalreiter in neuem Fenster öffnen"
+msgstr "હાલની ટેર્મીનલ ટેબ માટે નવી વિન્ડો ખોલો"
 
 msgid "Open the Terminal preferences dialog"
 msgstr "Die Terminaleinstellungen bearbeiten"
@@ -460,16 +461,16 @@ msgid "Palette entry 9"
 msgstr "Paletteneintrag 9"
 
 msgid "Paste"
-msgstr "Einfügen"
+msgstr "પેસ્ટ"
 
 msgid "Paste Selection"
-msgstr "Textauswahl einfügen"
+msgstr "પેસ્ટ પસંદગી"
 
 msgid "Paste _Selection"
-msgstr "Textauswahl ein_fügen"
+msgstr "પેસ્ટ _સિલેક્શન"
 
 msgid "Paste from clipboard"
-msgstr "Aus der Zwischenablage einfügen"
+msgstr "ક્લિપબોર્ડમાંથી પેસ્ટ કરો"
 
 msgid "Paste from primary selection"
 msgstr "Den ausgewählten Text einfügen"
@@ -484,7 +485,7 @@ msgid "Preferences"
 msgstr "Einstellungen"
 
 msgid "Previous Tab"
-msgstr "Vorheriger Reiter"
+msgstr "પાછલી ટેબ"
 
 msgid "Received invalid color data: Wrong format (%d) or length (%d)\n"
 msgstr "Ungültige Farbdaten erhalten: Falsches Format (%d) oder Länge (%d)\n"
@@ -499,22 +500,22 @@ msgid "Rese_t double click options to defaults"
 msgstr "_Doppelklickeinstellungen auf Vorgaben zurücksetzen"
 
 msgid "Reset"
-msgstr "Zurücksetzen"
+msgstr "રીસેટ"
 
 msgid "Reset and C_lear"
 msgstr "Zurücksetzen und _leeren"
 
 msgid "Reset and Clear"
-msgstr "Zurücksetzen und leeren"
+msgstr "રીસેટ અને ક્લીઅર"
 
 msgid "Reset and clear"
-msgstr "Zurücksetzen und leeren"
+msgstr "રીસેટ અને ક્લીઅર"
 
 msgid "Reset tab activity _indicator after"
 msgstr "An_zeige für aktive Reiter zurücksetzen nach"
 
 msgid "Scaled"
-msgstr "Skaliert"
+msgstr "સ્કેલ્ડ"
 
 msgid "Scr_ollbar is:"
 msgstr "_Scrollleiste ist:"
@@ -532,20 +533,20 @@ msgid "Scroll_back:"
 msgstr "_Zurückscrollen:"
 
 msgid "Scrolling"
-msgstr "Scrollleiste"
+msgstr "સ્ક્રોલીંગ"
 
 msgid "See the %s man page for full explanation of the options above."
 msgstr ""
 "Lesen Sie die »%s man page« für eine vollständige Erklärung des Obigen."
 
 msgid "Select All"
-msgstr "Alles auswählen "
+msgstr "બધું પસંદ કરો"
 
 msgid "Select Background Image File"
 msgstr "Bilddatei für Hintergrund auswählen"
 
 msgid "Select _All"
-msgstr "Alles au_swählen "
+msgstr "_બધું પસંદ કરો"
 
 msgid "Select all text in the terminal"
 msgstr "Den gesamten Text im Terminal auswählen"
@@ -568,37 +569,37 @@ msgid "Set a custom title for the current tab"
 msgstr "Einen benutzerdefinierten Titel für den aktuellen Reiter einstellen"
 
 msgid "Shortcut Keys"
-msgstr "Tastenkürzel"
+msgstr "શોર્ટકટ કીઓ"
 
 msgid "Shortcut key"
-msgstr "Tastenkürzel"
+msgstr "શોર્ટકટ કી"
 
 msgid "Show Window _Borders"
-msgstr "_Fensterdekoration anzeigen"
+msgstr "વિન્ડો _બોર્ડર બતાવો"
 
 msgid "Show _Menubar"
-msgstr "_Menüleiste anzeigen"
+msgstr "_મેનુબાર બતાવો"
 
 msgid "Show _Toolbars"
-msgstr "_Werkzeugleisten anzeigen"
+msgstr "_ટૂલબાર બતાવો"
 
 msgid "Show borders"
-msgstr "Fensterdekoration anzeigen"
+msgstr "બોર્ડર બતાવો"
 
 msgid "Show menubar"
-msgstr "Menüleiste anzeigen"
+msgstr "મેનુબાર બતાવો"
 
 msgid "Show toolbars"
-msgstr "Werkzeugleisten anzeigen"
+msgstr "ટૂલબાર બતાવો"
 
 msgid "Show/hide the menubar"
-msgstr "Die Menüleiste anzeigen oder verbergen"
+msgstr "બતાવો/છુપાવો મેનુબાર"
 
 msgid "Show/hide the toolbars"
-msgstr "Die Werkzeugleisten anzeigen oder verbergen"
+msgstr "બતાવો/છુપાવો ટૂલબાર"
 
 msgid "Show/hide the window decorations"
-msgstr "Die Fensterdekoration anzeigen oder verbergen"
+msgstr "બતાવો/છુપાવો વિન્ડો સજાવટ"
 
 msgid ""
 "Specifies the number of lines that you can scroll back using the scrollbar."
@@ -607,10 +608,10 @@ msgstr ""
 "zurückrollen können."
 
 msgid "St_yle:"
-msgstr "_Darstellung:"
+msgstr "_શૈલી"
 
 msgid "Stretched"
-msgstr "Gestreckt"
+msgstr "ખેંચાયેલું"
 
 msgid "Switch to Tab 1"
 msgstr "Zu Reiter 1 wechseln"
@@ -649,16 +650,16 @@ msgid "Tab Activity Indicator"
 msgstr "Aktivität in Reitern hervorheben"
 
 msgid "Tab Options"
-msgstr "Reitereinstellungen"
+msgstr "ટેબ વિકલ્પો"
 
 msgid "Tab activit_y color:"
 msgstr "F_arbe bei aktivem Reiter"
 
 msgid "Terminal"
-msgstr "Terminal"
+msgstr "ટર્મિનલ"
 
 msgid "Terminal Emulator"
-msgstr "Terminal-Programm"
+msgstr "ટર્મિનલ ઈમ્યુલેટર"
 
 msgid "Terminal Preferences"
 msgstr "Einstellungen"
@@ -667,7 +668,7 @@ msgid "Terminal applications have this color palette available to them:"
 msgstr "Terminalanwendungen verwenden diese Farbpalette:"
 
 msgid "Text Selection"
-msgstr "Textauswahl"
+msgstr "ટેક્સ્ટ પસંદગી"
 
 msgid "The %s user manual is not installed on your computer"
 msgstr "Das %s Nutzerhandbuch ist nicht installiert"
@@ -715,19 +716,19 @@ msgstr ""
 "alle Reiter darin geschlossen."
 
 msgid "Tiled"
-msgstr "Gekachelt"
+msgstr "ટાઇલ્ડ"
 
 msgid "Title"
-msgstr "Titel"
+msgstr "શીર્ષક"
 
 msgid "Title:"
-msgstr "Titel:"
+msgstr "શીર્ષક:"
 
 msgid "Toggle fullscreen mode"
-msgstr "Den Vollbildmodus betreten oder verlassen"
+msgstr "ફૂલસ્ક્રીન મોડમાં બદલો"
 
 msgid "Toolbar Editor"
-msgstr "Werkzeugleisten editieren..."
+msgstr "ટૂલબાર એડિટર..."
 
 msgid "Transpare_ncy:"
 msgstr "_Transparenz:"
@@ -766,10 +767,10 @@ msgid "Untitled"
 msgstr "Unbenannt"
 
 msgid "Usage:"
-msgstr "Aufruf:"
+msgstr "વપરાશ:"
 
 msgid "Use _default color"
-msgstr "_Standardfarbe benutzen"
+msgstr "_મૂળભૂત રંગ વાપરો"
 
 msgid "Use a custom text selection background color"
 msgstr "Benutzerdefinierte Farbe für die Textauswahl benutzen"
@@ -787,7 +788,7 @@ msgid "User manual is missing"
 msgstr "Handbuch fehlt"
 
 msgid "View"
-msgstr "Anzeige"
+msgstr "વ્યુ"
 
 msgid "Visit Terminal website"
 msgstr "Terminal Webseite besuchen"
@@ -796,7 +797,7 @@ msgid "Warning"
 msgstr "Warnung"
 
 msgid "Window Options"
-msgstr "Fenstereinstellungen"
+msgstr "વિન્ડો ઓપ્શન"
 
 msgid "Window Title|Set Title"
 msgstr "Titel festlegen"
@@ -818,73 +819,73 @@ msgstr ""
 "Version nicht zu Ihrer Version %s passt."
 
 msgid "_About"
-msgstr "_Über"
+msgstr "_વિષે"
 
 msgid "_Appearance"
-msgstr "A_ussehen"
+msgstr "_દેખાવ"
 
 msgid "_Background color:"
-msgstr "_Hintergrundfarbe:"
+msgstr "_બેકગ્રાઉન્ડ રંગ:"
 
 msgid "_Backspace key generates:"
 msgstr "_Rücktaste erzeugt:"
 
 msgid "_Close Window"
-msgstr "Fenster _schließen"
+msgstr "વિન્ડો _બંધ કરો"
 
 msgid "_Colors"
-msgstr "_Farben"
+msgstr "_રંગો"
 
 msgid "_Contents"
-msgstr "_Inhalt"
+msgstr "_કન્ટેન્ટ"
 
 msgid "_Copy"
-msgstr "_Kopieren"
+msgstr "_કોપી"
 
 msgid "_Delete key generates:"
 msgstr "E_ntfernentaste erzeugt:"
 
 msgid "_Detach Tab"
-msgstr "Reiter _abtrennen"
+msgstr "ટેબ _અલગ કરો"
 
 msgid "_Dynamically-set title:"
 msgstr "Titel _dynamisch setzen:"
 
 msgid "_Edit"
-msgstr "_Bearbeiten"
+msgstr "_સંપાદન"
 
 msgid "_File"
-msgstr "_Datei"
+msgstr "_ફાઈલ"
 
 msgid "_File:"
-msgstr "_Datei:"
+msgstr "_ફાઈલ:"
 
 msgid "_Fullscreen"
-msgstr "_Vollbild"
+msgstr "_ફૂલસ્ક્રીન"
 
 msgid "_General"
-msgstr "_Allgemein"
+msgstr "_સામાન્ય"
 
 msgid "_Go"
-msgstr "_Gehe zu"
+msgstr "_જાઓ"
 
 msgid "_Help"
-msgstr "_Hilfe"
+msgstr "_મદદ"
 
 msgid "_Initial title:"
-msgstr "_Vorgegebener Titel:"
+msgstr "_પ્રારંભિક શીર્ષક:"
 
 msgid "_Input Methods"
-msgstr "_Eingabemethoden"
+msgstr "_ઇનપુટ પદ્ધતિઓ"
 
 msgid "_Next Tab"
-msgstr "_Nächster Reiter"
+msgstr "_આગળની ટેબ"
 
 msgid "_Paste"
-msgstr "Ei_nfügen"
+msgstr "_પેસ્ટ"
 
 msgid "_Previous Tab"
-msgstr "_Vorheriger Reiter"
+msgstr "_પાછળની ટેબ"
 
 msgid "_Read Online"
 msgstr "_Online lesen"
@@ -893,7 +894,7 @@ msgid "_Report a bug"
 msgstr "_Fehler melden"
 
 msgid "_Reset"
-msgstr "_Zurücksetzen"
+msgstr "_રીસેટ"
 
 msgid "_Reset compatibility options to defaults"
 msgstr "_Kompatibilitätseinstellungen auf Vorgaben zurücksetzen"
@@ -902,25 +903,25 @@ msgid "_Run command as login shell"
 msgstr "Als _Login-Shell starten"
 
 msgid "_Set Title..."
-msgstr "_Titel festlegen..."
+msgstr "_શીર્ષક સેટ કરો..."
 
 msgid "_Shortcuts"
-msgstr "_Tastenkürzel"
+msgstr "_શોર્ટકટસ"
 
 msgid "_Terminal"
-msgstr "_Terminal"
+msgstr "_ટર્મિનલ"
 
 msgid "_Text color:"
-msgstr "T_ext- und Cursorfarbe:"
+msgstr "_અક્ષર રંગ:"
 
 msgid "_Toolbars..."
-msgstr "_Werkzeugleisten..."
+msgstr "_ટૂલબાર..."
 
 msgid "_Update utmp/wtmp records when command is launched"
 msgstr "utmp/_wtmp-Aufzeichnungen aktualisieren"
 
 msgid "_View"
-msgstr "_Ansicht"
+msgstr "_વ્યુ"
 
 msgid "and Nick Schermer <nick@xfce.org>."
 msgstr "und Nick Schermer <nick@xfce.org>"
