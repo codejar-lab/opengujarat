@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Thunar 0.9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-05-26 23:58+0200\n"
-"PO-Revision-Date: 2013-01-11 12:29+0530\n"
-"Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
+"PO-Revision-Date: 2013-01-12 19:27+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
 "Language-Team: German <xfce-i18n@xfce.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -17,23 +17,23 @@ msgid "\"%s\" (%s) %s"
 msgstr "»%s« (%s) %s"
 
 msgid "\"%s\" (%s) link to %s"
-msgstr "»%s« (%s) Verknüpfung mit »%s«"
+msgstr "»%s« (%s) ની લીંક »%s«"
 
 msgid "\"%s\" broken link"
-msgstr "»%s« Verknüpfung (fehlerhaft)"
+msgstr "»%s« બ્રોકન લીંક"
 
 msgid "\"%s\" mountable"
-msgstr "»%s« ist einhängbar"
+msgstr "»%s« ખોલી શકાય તેમ છે"
 
 msgid "\"%s\" shortcut"
-msgstr "Verknüpfung mit »%s«"
+msgstr "શોર્ટકટ »%s«"
 
 msgid "%A at %X"
 msgstr "%A um %X"
 
 msgid "%d file operation running"
 msgid_plural "%d file operations running"
-msgstr[0] "%d Dateioperation wird ausgeführt"
+msgstr[0] "%d ફાઈલ ઓપરેશન ચાલુ છે"
 msgstr[1] "%d Dateioperationen werden ausgeführt"
 
 msgid "%d item"
@@ -48,22 +48,22 @@ msgstr[1] "%d વસ્તુઓ (%s), ખાલી જગ્યા: %s"
 
 msgid "%d item selected"
 msgid_plural "%d items selected"
-msgstr[0] "%d Objekt ausgewählt"
+msgstr[0] "%d વસ્તુ પસંદ કરેલ છે"
 msgstr[1] "%d Objekte ausgewählt"
 
 msgid "%d item selected (%s)"
 msgid_plural "%d items selected (%s)"
-msgstr[0] "%d Objekt ausgewählt (%s)"
+msgstr[0] "%d વસ્તુ પસંદ કરેલ છે (%s)"
 msgstr[1] "%d Objekte ausgewählt (%s)"
 
 msgid "%d item, Free space: %s"
 msgid_plural "%d items, Free space: %s"
-msgstr[0] "%d Objekt, Freier Speicher: %s"
+msgstr[0] "%d વસ્તુ,ખાલી જગ્યા: %s"
 msgstr[1] "%d Objekte, Freier Speicher: %s"
 
 msgid "%dx%d pixel"
 msgid_plural "%dx%d pixels"
-msgstr[0] "%dx%d Pixel"
+msgstr[0] "%dx%d પીક્સલ"
 msgstr[1] "%dx%d Pixel"
 
 msgid "%lu hour remaining"
@@ -73,33 +73,33 @@ msgstr[1] "(%lu કલાકો બાકી)"
 
 msgid "%lu minute remaining"
 msgid_plural "%lu minutes remaining"
-msgstr[0] "(%lu Minute verbleibend)"
+msgstr[0] "(%lu મિનીટ બાકી)"
 msgstr[1] "(%lu Minuten verbleibend)"
 
 msgid "%lu second remaining"
 msgid_plural "%lu seconds remaining"
-msgstr[0] "(%lu Sekunde verbleibend)"
+msgstr[0] "(%lu સેકંડ બાકી)"
 msgstr[1] "(%lu Sekunden verbleibend)"
 
 msgid "%s - Properties"
 msgstr "%s - પ્રોપર્ટીસ"
 
 msgid "%s Bytes"
-msgstr "%s Byte"
+msgstr "%s બાઈટસ"
 
 msgid "%u item, totalling %s"
 msgid_plural "%u items, totalling %s"
-msgstr[0] "%u Objekt der Gesamtgröße %s"
+msgstr[0] "%u આઈટમ,કુલ %s"
 msgstr[1] "%u Objekte der Gesamtgröße %s"
 
 msgid "%uth copy of %s"
-msgstr "%ute Kopie von %s"
+msgstr "%ut ની કોપી %s"
 
 msgid "%uth link to %s"
-msgstr "%ute Verknüpfung mit %s"
+msgstr "%ute લીંક ટુ %s"
 
 msgid "%x at %X"
-msgstr "%x um %X"
+msgstr "%x  %X માં"
 
 msgid "0001, 0002, 0003, ..."
 msgstr "0001, 0002, 0003, …"
@@ -117,85 +117,74 @@ msgid ""
 "<a href=\"volman-config:\">Configure</a> the management of removable drives\n"
 "and media (i.e. how cameras should be handled)."
 msgstr ""
-"Die <a href=\"volman-config:\">Verwaltung</a> von Wechseldatenträgern und\n"
-"-medien konfigurieren (z.B. Digitalkameras)."
 
 msgid "A destination directory must be specified"
-msgstr "Ein Zielverzeichnis muss angegeben werden"
+msgstr "ડેસ્ટીનેશન ડીરેક્ટરી સ્પષ્ટ કરવી જરૂરી છે"
 
 msgid "A widget to display in place of the usual page label"
-msgstr ""
-"Ein Objekt, das statt der gewöhnlichen Beschriftung der Seite angezeigt wird"
+msgstr "સામાન્ય પેજ લેબલની જગ્યાએ ડિસ્પ્લે કરવાનું વીડ્જેટ"
 
 msgid "About Templates"
-msgstr "Über Vorlagen"
+msgstr "ટેમ્પ્લેટ વિષે"
 
 msgid "Access:"
-msgstr "Zugriff:"
+msgstr "એક્સેસ:"
 
 msgid "Accessed:"
-msgstr "Zugegriffen:"
+msgstr "એક્સેસ થઇ ગઈ:"
 
 msgid "Add a new custom action."
-msgstr "Eine neue Aktion hinzufügen."
+msgstr "કસ્ટમ લોકેશન ઉમેરો."
 
 msgid "Add the selected folder to the shortcuts side pane"
 msgid_plural "Add the selected folders to the shortcuts side pane"
-msgstr[0] "Neues Lesezeichen für den ausgewählten Ordner erstellen"
-msgstr[1] "Neue Lesezeichen für die ausgewählten Ordner erstellen"
+msgstr[0] "પસંદ કરેલા ફોલ્ડરને શોર્ટકટ સાઈડપેનલ તરીકે ઉમેરો"
+msgstr[1] "પસંદ કરેલા ફોલ્ડર્સને શોર્ટકટ સાઈડપેનલ તરીકે ઉમેરો"
 
 msgid "Advanced"
-msgstr "Fortgeschritten"
+msgstr "વધારાનું"
 
 msgid "All Files"
-msgstr "Alle Dateien"
+msgstr "બધી ફાઈલ્સ"
 
 msgid "All files in this folder will appear in the \"Create Document\" menu."
-msgstr ""
-"Alle Dateien in diesem Ordner erscheinen im Menü »Neues Dokument erstellen«."
+msgstr "આ ફોલ્ડરની બધીજ ફાઈલ્સ \"દસ્તાવેજ બનાવો\" માં દેખાશે."
 
 msgid "Allow this file to _run as a program"
-msgstr "Datei darf als Programm _gestartet werden"
+msgstr "આ ફાઈલને પ્રોગ્રામ તરીકે રન કરવા ડો"
 
 msgid ""
 "Allowing untrusted programs to run\n"
 "presents a security risk to your system."
 msgstr ""
-"Wird nicht vertrauenswürdigen Dateien gestattet\n"
-"als Programm gestartet zu werden, kann dies ein\n"
-"Sicherheitsproblem für Ihr System darstellen."
 
 msgid "Aperture Value:"
 msgstr "Blendenwert:"
 
 msgid "Appearance Conditions"
-msgstr "Dateizuordnung"
+msgstr "દેખાવ પરિસ્થિતિ"
 
 msgid "Appears if selection contains:"
-msgstr "Erscheint, falls Auswahl Folgendes enthält:"
+msgstr "જો પસંદ કરેલ હશે તો દેખાશે:"
 
 msgid "Apply recursively?"
-msgstr "Rekursiv anwenden?"
+msgstr "અંદરોઅંદર અપ્લાય કરવું છે?"
 
 msgid "Apply to Folder Only"
-msgstr "Nur auf Ordner anwenden"
+msgstr "માત્ર ફોલ્ડર ને અપ્લાય કરો"
 
 msgid "Apply to Folder and Contents"
-msgstr "Auf Ordner und Inhalt anwenden"
+msgstr "ફોલ્ડર અને સામગ્રીને અપ્લાય કરો"
 
 msgid ""
 "Are you sure that you want to\n"
 "permanently delete \"%s\"?"
-msgstr ""
-"Sind Sie sicher, dass Sie »%s«\n"
-"dauerhaft löschen wollen?"
+msgstr "%s રદ કરવા તમે ચોક્કસ છો?"
 
 msgid ""
 "Are you sure that you want to delete\n"
 "action \"%s\"?"
-msgstr ""
-"Sind Sie sicher, dass Sie die Aktion »%s«\n"
-"löschen wollen?"
+msgstr " »%s« એક્શન રદ કરવા તમે ચોક્કસ છો?"
 
 msgid ""
 "Are you sure that you want to permanently\n"
@@ -203,13 +192,8 @@ msgid ""
 msgid_plural ""
 "Are you sure that you want to permanently\n"
 "delete the %u selected files?"
-msgstr[0] ""
-"Soll die ausgewählte Datei wirklich\n"
-"dauerhaft gelöscht werden?"
-msgstr[1] ""
-"Sollen diese %u ausgewählten Dateien\n"
-"wirklich\n"
-"dauerhaft gelöscht werden?"
+msgstr[0] "શું આ ફાઈલને કાયમી રદ કરવા તમે ચોક્કસ છો?"
+msgstr[1] "શું આ ફાઈલ્સને કાયમી રદ કરવા તમે ચોક્કસ છો?"
 
 msgid "Are you sure that you want to remove \"%s\"?"
 msgstr "Sind Sie sicher, dass Sie »%s« entfernen wollen?"
@@ -218,59 +202,56 @@ msgid "Are you sure you want to open all folders?"
 msgstr "Sind Sie sicher, dass alle Ordner geöffnet werden sollen?"
 
 msgid "Arran_ge Items"
-msgstr "An_ordnen"
+msgstr "સામગ્રીઓ ગોઠવો"
 
 msgid "Ask everytime"
-msgstr "Jedes mal nachfragen"
+msgstr "દર વખતે પૂછો"
 
 msgid "At least one filename must be specified"
-msgstr "Mindestens ein Dateiname muss angegeben werden"
+msgstr "ઓછામાં ઓછી એક વાર ફાઈલ નું નામ સ્પષ્ટ કરો"
 
 msgid "At least one source filename must be specified"
-msgstr "Mindestens ein Dateiname für die Quelle muss angegeben werden"
+msgstr "ઓછામાં ઓછુ એક પ્રાપ્તિસ્થાન સ્પષ્ટ કરો"
 
 msgid "Atleast one filename must be specified"
-msgstr "Es muss mindestens ein Dateiname angegeben werden"
+msgstr "ઓછામાં ઓછી એક વાર ફાઈલ નું નામ સ્પષ્ટ કરો"
 
 msgid "Audio Files"
-msgstr "Audiodateien"
+msgstr "ઓડિયો ફાઈલ્સ"
 
 msgid "Automatically _expand columns as needed"
-msgstr "Listenspalten automatisch ver_größern"
+msgstr "જરૂર પડે ત્યારે આપમેળે કોલમ મોટી કરો"
 
 msgid "Back"
-msgstr "Zurück"
+msgstr "પાછળ"
 
 msgid "Basic"
-msgstr "Allgemein"
+msgstr "સામાન્ય"
 
 msgid "Behavior"
-msgstr "Verhalten"
+msgstr "વર્તન"
 
 msgid "Browse the file system"
-msgstr "Dateisystem durchsuchen"
+msgstr "ફાઈલ સિસ્ટમ ખોલો"
 
 msgid ""
 "Browse the file system to select an application to open files of type \"%s\"."
 msgstr ""
-"Das Dateisystem durchsuchen, um eine Anwendung auszuwählen, mit der Dateien "
-"vom Typ »%s« geöffnet werden können."
 
 msgid "Browse the file system to select an application to use for this action."
 msgstr ""
-"Das Dateisystem durchsuchen, um eine Anwendung für diese Aktion auszuwählen."
 
 msgid "Browse the filesystem with the file manager"
-msgstr "Das Dateisystem im Dateimanager anzeigen"
+msgstr "ફાઈલ મેનેજરથી ફાઈલ સીસ્ટમ ખોલો"
 
 msgid "Browse the network"
-msgstr "Netzwerk durchsuchen"
+msgstr "નેટવર્ક ખોલો"
 
 msgid "Bulk Rename"
-msgstr "Bulk-Rename"
+msgstr ""
 
 msgid "Bulk Rename - Rename Multiple Files"
-msgstr "Bulk-Rename - Mehrere Dateien gleichzeitig umbenennen"
+msgstr "મુખ્ય ભાગ બદલો - મલ્ટીપલ ફાઈલો નામ બદલો"
 
 msgid ""
 "By default columns will be automatically expanded if\n"
@@ -278,292 +259,267 @@ msgid ""
 "able this behavior below the file manager will always\n"
 "use the user defined column widths."
 msgstr ""
-"Standardmäßig werden die Listenspalten automatisch bei Bedarf\n"
-"vergrößert, so dass der Text vollständig angezeigt werden kann\n"
-". Wird diese Einstellung deaktiviert, merkt sich der Dateimanager\n"
-" die benutzerdefinierten Spaltengrößen."
 
 msgid "C_ase Sensitive Search"
-msgstr "_Groß-/Kleinschreibung beachten"
+msgstr "_કેસ સેન્સીટીવ શોધ"
 
 msgid "C_reate"
-msgstr "_Erstellen"
+msgstr "_બનાવો"
 
 msgid "Calculating..."
-msgstr "Berechne…"
+msgstr "ગણતરી કરી રહ્યું છે…"
 
 msgid "Calculation aborted"
-msgstr "Berechnung abgebrochen"
+msgstr "ગણતરી રદ કરી છે"
 
 msgid "Camelcase"
-msgstr "Überschrift"
+msgstr ""
 
 msgid "Camera Brand:"
-msgstr "Kameramarke:"
+msgstr "કેમેરા બ્રાંડ:"
 
 msgid "Camera Model:"
-msgstr "Kameramodell:"
+msgstr "કેમેરા મોડલ:"
 
 msgid "Cancelling..."
-msgstr "Abbrechen…"
+msgstr "બંધ કરી રહ્યું છે…"
 
 msgid "Cannot convert filename \"%s\" to the local encoding"
-msgstr ""
-"Der Dateiname »%s« kann nicht in den Zeichensatz des Dateisystems "
-"umgewandelt werden"
+msgstr "ફાઈલ નું નામ  »%s« લોકલ એનકોડીંગ માં રૂપાંતરિત થઇ શકશે નહિ"
 
 msgid ""
 "Change the default application for files of type \"%s\" to the selected "
 "application."
 msgstr ""
-"Die ausgewählte Anwendung soll standardmäßig zum Öffnen von Dateien des Typs "
-"»%s« benutzt werden."
 
 msgid "Change the visibility of this window's statusbar"
-msgstr "Die Sichtbarkeit der Statusleiste dieses Fensters ändern"
+msgstr "આ વિંડોના સ્ટેટસ બાર ની દૃશ્યતા બદલો"
 
 msgid "Choose another application with which to open the selected file"
-msgstr ""
-"Eine andere Anwendung wählen, mit der die ausgewählte Datei geöffnet werden "
-"soll"
+msgstr "આ ફાઈલ ખોલવા માટે બીજી એપ્લીકેશન પસંદ કરો"
 
 msgid ""
 "Choose the order of information to appear in the\n"
 "detailed list view."
-msgstr ""
-"Legen Sie die Reihenfolge fest, in welcher in der Detailansicht\n"
-"Informationen angezeigt werden sollen."
+msgstr "વિગતવાર સૂચિ દૃશ્ય જોવા માટે માહિતી ક્રમ પસંદ કરો"
 
 msgid "Clear"
-msgstr "Liste leeren"
+msgstr "સાફ"
 
 msgid "Clear the file list below"
-msgstr "Die Liste der unten angezeigten Dateien leeren"
+msgstr "નીચેની આઈટમ સાફ કરો"
 
 msgid ""
 "Click here to actually rename the files listed above to their new names."
 msgstr ""
-"Die Umbenennung der Datei durchführen, wie oben in der Vorschau angezeigt."
 
 msgid "Click here to automatically fix the folder permissions."
-msgstr ""
-"Hier klicken, um die Berechtigungen für diesen Ordner automatisch zu "
-"korrigieren."
+msgstr "આપમેળે ફોલ્ડરની પરમીશન ફિકસ કરવા અહી ક્લિક કરો."
 
 msgid "Click here to stop calculating the total size of the folder."
-msgstr "Hier klicken, um die Berechnung der Ordnergröße abzubrechen."
+msgstr "ફોલ્ડરની  કુલ કદ ગણતરી અટકાવવા માટે અહીં ક્લિક કરો"
 
 msgid "Click here to view the documentation for the selected rename operation."
-msgstr "Die Dokumentation für den ausgewählten Umbenennungsmodus anzeigen."
+msgstr ""
 
 msgid ""
 "Click this button to select an icon file that will be displayed in the "
 "context menu in addition to the action name chosen above."
 msgstr ""
-"Auf diesen Knopf klicken, um ein Dateisymbol auszuwählen, das im "
-"Kontextmenü  zusätzlich zum oben angegebenen Namen angezeigt wird."
 
 msgid "Close _All Windows"
-msgstr "_Alle Fenster schließen"
+msgstr "_બધી વિન્ડોઝ બંધ કરો"
 
 msgid "Close all Thunar windows"
-msgstr "Alle Thunar-Fenster schließen"
+msgstr "બધી થુનાર વિન્ડોઝ બંધ કરો"
 
 msgid "Close this window"
-msgstr "Dieses Fenster schließen"
+msgstr "વિન્ડોઝ બંધ કરો"
 
 msgid "Collecting files..."
-msgstr "Sammle Dateien…"
+msgstr "ફાઈલ્સ ભેગી કરી રહ્યું છે…"
 
 msgid "Column Sizing"
-msgstr "Spaltengröße"
+msgstr "કૉલમ કદ બદલવાનું"
 
 msgid "Command not configured"
-msgstr "Befehl nicht angegeben"
+msgstr "કમાન્ડ રૂપરેખાંકિત કરેલ નથી"
 
 msgid "Command:"
-msgstr "Befehl:"
+msgstr "કમાન્ડ:"
 
 msgid "Comment:"
-msgstr "Kommentar:"
+msgstr "ટિપ્પણી:"
 
 msgid "Compact List View"
-msgstr "Listenansicht"
+msgstr "સૂચિ દૃશ્ય સંક્ષિપ્ત કરો"
 
 msgid "Compact directory listing"
-msgstr "Listenbasierte Ordneransicht"
+msgstr "ડિરેક્ટરી યાદી સંક્ષિપ્ત કરો"
 
 msgid "Compact view"
-msgstr "Listenansicht"
+msgstr "સંક્ષિપ્ત દૃશ્ય"
 
 msgid "Compressing files..."
-msgstr "Dateien werden komprimiert…"
+msgstr "ફાઈલસ સંકુચિત થઇ રહી છે…"
 
 msgid "Con_vert to:"
-msgstr "U_mwandeln in:"
+msgstr "માં રૂપાંતર કરો:"
 
 msgid "Configure Columns in the Detailed List View"
-msgstr "Listenspalten in der Detailansicht"
+msgstr "વિગતવાર સૂચિ દૃશ્ય માં કૉલમ રૂપરેખાંકિત કરો"
 
 msgid "Configure _Columns..."
-msgstr "Listens_palten festlegen…"
+msgstr "કૉલમ રૂપરેખાંકિત કરો..."
 
 msgid "Configure c_ustom actions..."
-msgstr "_Benutzerdefinierte Aktionen…"
+msgstr ""
 
 msgid "Configure the Thunar file manager"
-msgstr "Dateimanager Thunar einrichten"
+msgstr ""
 
 msgid "Configure the columns in the detailed list view"
-msgstr "Die Listenspalten in der Detailansicht festlegen"
+msgstr ""
 
 msgid "Confirm to replace files"
-msgstr "Ersetzen von Dateien bestätigen"
+msgstr "ફાઈલ રિપ્લેસ કરવા મંજુરી આપો"
 
 msgid "Copying files to \"%s\"..."
-msgstr "Dateien werden nach »%s« kopiert…"
+msgstr " »%s« માં ફાઈલ્સ કોપી કરી રહ્યું છે…"
 
 msgid "Copying files..."
-msgstr "Kopiere Dateien…"
+msgstr "ફાઈલ્સ કોપી કરી રહ્યું છે…"
 
 msgid "Correct folder permissions"
-msgstr "Ordner-Berechtigungen korrigieren"
+msgstr "ફોલ્ડર પરવાનગીઓ સાચી કરો"
 
 msgid "Correct folder permissions automatically?"
-msgstr "Ordner-Berechtigungen automatisch korrigieren?"
+msgstr "આપમેળે ફોલ્ડર પરવાનગીઓ સાચી કરવિ છે?"
 
 msgid "Correct folder permissions..."
-msgstr "Ordner-Berechtigungen korrigieren…"
+msgstr "ફોલ્ડર પરવાનગીઓ સાચી કરો…"
 
 msgid "Could not create symbolic link to \"%s\" because it is not a local file"
 msgstr ""
-"Die Verknüpfung zu »%s« konnte nicht erstellt werden, weil es keine lokale "
-"Datei ist"
 
 msgid "Could not delete file \"%s\": %s"
-msgstr "»%s« konnte nicht gelöscht werden: %s"
+msgstr "%s ફાઈલ રદ થઇ શકે તેમ નથી"
 
 msgid "Could not move \"%s\" directly. Collecting files for copying..."
 msgstr ""
-"Die Datei »%s« konnte nicht direkt verschoben werden. Sammle Dateien zum "
-"Kopieren…"
 
 msgid "Could not restore \"%s\""
-msgstr "Die Datei »%s« konnte nicht wiederhergestellt werden"
+msgstr "રીસ્ટોર થઇ શકી નથી »%s« "
 
 msgid "Create Action"
-msgstr "Neue Aktion erstellen"
+msgstr "ઍક્શન બનાવો"
 
 msgid "Create Document from template \"%s\""
-msgstr "Dokument aus Vorlage »%s« erstellen"
+msgstr " »%s« ટેમ્પ્લેટ માંથી ડોક્યુમેન્ટ બનાવો"
 
 msgid "Create New File"
-msgstr "Neue Datei erstellen"
+msgstr "નવી ફાઈલ બનાવો"
 
 msgid "Create New Folder"
-msgstr "Neuen Ordner erstellen"
+msgstr "નવું ફોલ્ડર બનાવો"
 
 msgid "Create _Document"
-msgstr "Neues _Dokument erstellen"
+msgstr "ડોક્યુમેન્ટ બનાવો"
 
 msgid "Create _Folder..."
-msgstr "Neuen _Ordner erstellen..."
+msgstr "ફોલ્ડર બનાવો..."
 
 msgid "Create a link to the selected file on the desktop"
 msgid_plural "Create links to the selected files on the desktop"
 msgstr[0] ""
-"Eine symbolische Verknüpfung für die ausgewählte Datei auf der "
-"Arbeitsoberfläche erstellen"
 msgstr[1] ""
-"Eine symbolische Verknüpfung für jede ausgewählte Datei auf der "
-"Arbeitsoberfläche erstellen"
 
 msgid "Create a new folder in \"%s\""
-msgstr "Neuen Ordner in »%s« erstellen"
+msgstr " »%s« માં નવું ફોલ્ડર બનાવો"
 
 msgid "Create a symbolic link for the selected file"
 msgid_plural "Create a symbolic link for each selected file"
-msgstr[0] "Eine symbolische Verknüpfung für die ausgewählte Datei erstellen"
-msgstr[1] "Eine symbolische Verknüpfung für jede ausgewählte Datei erstellen"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "Create an empty folder within the current folder"
-msgstr "Einen neuen, leeren Ordner im aktuellen Ordner erstellen"
+msgstr "ચાલુ ફોલ્ડરની અંદર ખાલી ફોલ્ડર બનાવો"
 
 msgid "Creating directories..."
-msgstr "Erstelle Ordner…"
+msgstr "ડીરેકટરીસ બનાવી રહ્યું છે…"
 
 msgid "Creating files..."
-msgstr "Erstelle Dateien…"
+msgstr "ફાઈલ્સ બની રહી છે…"
 
 msgid "Creating symbolic links in \"%s\"..."
-msgstr "Erstelle Verknüpfungen in »%s«…"
+msgstr ""
 
 msgid "Cu_t"
-msgstr "_Ausschneiden"
+msgstr "_કટ કરો"
 
 msgid "Current"
-msgstr "Systemzeit"
+msgstr "ચાલુ"
 
 msgid "Custom Actions"
-msgstr "Benutzerdefinierte Aktionen"
+msgstr "કસ્ટમ એક્શન્સ"
 
 msgid "Date"
-msgstr "Datum"
+msgstr "તારીખ"
 
 msgid "Date Accessed"
-msgstr "Zugriffsdatum"
+msgstr "તારીખ એક્સેસ થઇ ગઈ"
 
 msgid "Date Modified"
-msgstr "Änderungsdatum"
+msgstr "તારીખ બદલી ગઈ છે"
 
 msgid "Date Picture Taken"
-msgstr "Aufnahmedatum"
+msgstr "તારીખ ચિત્ર લેવાઈ ગયું છે"
 
 msgid "Date Taken:"
-msgstr "Aufnahmedatum:"
+msgstr "તારીખ લેવાઈ ગઈ છે:"
 
 msgid "Default View"
-msgstr "Standardansicht"
+msgstr "મૂળભૂત દૃશ્ય"
 
 msgid "Delete all files and folders in the Trash"
-msgstr "Alle Dateien und Ordner aus dem Papierkorb löschen"
+msgstr "બધી ફાઈલ્સ અને ફોલ્ડર્સ કચરાપેટીમાં નાખો"
 
 msgid "Delete the currently selected action."
-msgstr "Die ausgewählte Aktion löschen."
+msgstr "ચાલુ પસંદિત ક્રિયાઓ રદ કરો."
 
 msgid "Delete the selected file"
 msgid_plural "Delete the selected files"
-msgstr[0] "Die ausgewählte Datei löschen"
-msgstr[1] "Die ausgewählten Dateien löschen"
+msgstr[0] "પસંદ કરેલ ફાઈલ રદ કરો"
+msgstr[1] "પસંદ કરેલ ફાઈલ્સ રદ કરો"
 
 msgid "Deleted:"
-msgstr "Gelöscht:"
+msgstr "રદ થઇ ગઈ:"
 
 msgid "Deleting files..."
-msgstr "Lösche Dateien…"
+msgstr "રદ કરી રહ્યું છે…"
 
 msgid "Description:"
-msgstr "Beschreibung:"
+msgstr "વર્ણન:"
 
 msgid "Desktop (Create Link)"
 msgid_plural "Desktop (Create Links)"
-msgstr[0] "Arbeitsoberfläche (Verknüpfung erstellen)"
-msgstr[1] "Arbeitsoberfläche (Verknüpfungen erstellen)"
+msgstr[0] "ડેસ્કટોપ(લીંક બનાવો)"
+msgstr[1] "ડેસ્કટોપ(લીંક્સ બનાવો)"
 
 msgid "Detailed List View"
-msgstr "Detailansicht"
+msgstr "વિગતવાર સૂચિ દૃશ્ય"
 
 msgid "Detailed directory listing"
-msgstr "Detaillierte Ordneransicht"
+msgstr "વિગતવાર ડિરેક્ટરી યાદી"
 
 msgid "Details view"
-msgstr "Detailansicht"
+msgstr "વિગતો જોવા માટે"
 
 msgid "Disabled"
-msgstr "Deaktiviert"
+msgstr "નિષ્ક્રિય"
 
 msgid "Display"
-msgstr "Anzeige"
+msgstr "પ્રદર્શન"
 
 msgid "Display Thunar user manual"
 msgstr "Handbuch zu Thunar anzeigen"
@@ -581,16 +537,16 @@ msgid "Display information about Thunar"
 msgstr "Würdigungen für die Schöpfer von Thunar anzeigen"
 
 msgid "Display information about Thunar Bulk Rename"
-msgstr "Würdigungen für die Schöpfer von Thunar Bulk-Rename anzeigen"
+msgstr ""
 
 msgid "Display the contents of the trash can"
-msgstr "Den Inhalt des Papierkorbs angezeigen"
+msgstr ""
 
 msgid "Display the trash can"
-msgstr "Schneller Zugriff auf den Papierkorb"
+msgstr ""
 
 msgid "Do _not ask me again"
-msgstr "In Zukunft _nicht mehr nachfragen"
+msgstr "ફરીથી ન પૂછો"
 
 msgid "Do _not display this message again"
 msgstr "Diese Meldung in Zukunft _nicht mehr anzeigen"
