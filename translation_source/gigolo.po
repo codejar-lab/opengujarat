@@ -3,17 +3,18 @@ msgstr ""
 "Project-Id-Version: gigolo 0.3.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-07-31 15:43+0200\n"
-"PO-Revision-Date: 2009-04-13 14:30+0200\n"
-"Last-Translator: Fabian Nowak <timystery@arcor.de>\n"
+"PO-Revision-Date: 2013-01-13 12:24+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
 "Language-Team: German <xfce-i18n-de@xfce.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 msgid "- a simple frontend to easily connect to remote filesystems"
-msgstr "- eine einfache Oberfläche zum Einbinden entfernter Dateisysteme"
+msgstr ""
 
 msgid ""
 "<b>%s</b>\n"
@@ -22,110 +23,102 @@ msgid ""
 "Connected: Yes\n"
 "Service Type: %s"
 msgstr ""
-"<b>%s</b>\n"
-"\n"
-"URI: %s\n"
-"Verbunden: Ja\n"
-"Verbindungstyp: %s"
 
 msgid "<b>Unix device: %s</b>"
-msgstr "<b>Unix-Gerät: %s</b>"
+msgstr "<b>યુનિક્સ ઉપકરણ: %s</b>"
 
 msgid "A simple frontend to easily connect to remote filesystems"
-msgstr "Eine einfache Oberfläche zum Einbinden entfernter Dateisysteme"
+msgstr ""
 
 msgid "Archive"
-msgstr "Archiv"
+msgstr "આર્કાઈવ"
 
 msgid "Au_to-Connect"
-msgstr "A_utom. Verbinden"
+msgstr "આપમેળે જોડાણ"
 
 msgid "Auto-Connect"
-msgstr "Autom. Verbinden"
+msgstr "આપમેળે જોડાણ"
 
 msgid "Be verbose"
-msgstr "Ausführliche Ausgabe"
+msgstr ""
 
 msgid "Bookmarks"
-msgstr "_Lesezeichen"
+msgstr "બુકમાર્ક્સ"
 
 msgid "Both"
-msgstr "Beides"
+msgstr "બંને"
 
 msgid "Both horizontal"
-msgstr "Beides horizontal"
+msgstr "બંને આડા"
 
 msgid "Choose a bookmark to connect to"
-msgstr ""
-"Wählen Sie ein Lesezeichen, zu dem eine Verbindung aufgebaut werden soll"
+msgstr "ની સાથે જોડાણ માટે બુકમાર્ક પસંદ કરો"
 
 msgid "Close panel"
-msgstr "Leiste schließen"
+msgstr "પેનલ બંધ કરો"
 
 msgid "Connect"
-msgstr "Verbinden"
+msgstr "જોડાઓ"
 
 msgid "Connect to Server"
-msgstr "Verbinde zum Server"
+msgstr "સર્વર સાથે જોડાઓ"
 
 msgid "Connect to the selected bookmark"
-msgstr "Mit der ausgewählten Freigabe verbinden"
+msgstr "પસંદિત બુકમાર્ક સાથે જોડાઓ"
 
 msgid "Connect to the selected share"
-msgstr "Mit der ausgewählten Freigabe verbinden"
+msgstr ""
 
 msgid "Connected"
-msgstr "Verbunden"
+msgstr "જોડાણ થઇ ગયું"
 
 msgid "Connecting"
-msgstr "Verbinden"
+msgstr "જોડાઈ થઇ રહ્યું છે"
 
 msgid "Connecting to \"%s\""
-msgstr "Verbinde zu »%s« ..."
+msgstr "»%s« સાથે જોડાણ થઇ રહ્યું છે..."
 
 msgid "Connecting to \"%s\" failed."
-msgstr "Verbinden zu »%s« fehlgeschlagen."
+msgstr "»%s« સાથે જોડાણ નિષ્ફળ."
 
 msgid "Copy _URI"
-msgstr "_URI kopieren"
+msgstr "_URI કોપી કરો"
 
 msgid "Copyright 2008-2010 Enrico Tröger"
-msgstr "Copyright 2008-2009 Enrico Tröger"
+msgstr ""
 
 msgid "Create Bookmark"
-msgstr "Lesezeichen erstellen"
+msgstr "બુકમાર્ક બનાવો"
 
 msgid "Create _Bookmark"
-msgstr "Lesezeichen _erstellen"
+msgstr "બુકમાર્ક બનાવો"
 
 msgid "Create a bookmark from the selected share"
-msgstr "Ein Lesezeichen für die ausgewählte Freigabe anlegen"
+msgstr ""
 
 msgid "Custom Location"
-msgstr "Eigene Adresse"
+msgstr "કસ્ટમ લોકેશન"
 
 msgid "Detailed List"
-msgstr "Details"
+msgstr "વિગતવાર યાદી"
 
 msgid "Disconnect the selected resource"
-msgstr "Trennt die ausgewählte Verbindung"
+msgstr "પસંદિત રિસોર્સને જોડાણરહિત કરો"
 
 msgid "Disconnecting from \"%s\" failed."
-msgstr "Trennen von »%s« fehlgeschlagen."
+msgstr " »%s માંથી જોડાણ રદ નિષ્ફળ."
 
 msgid "Domain: %s"
-msgstr "Domäne: %s"
+msgstr "ડોમેઈન: %s"
 
 msgid "Edit Bookmark"
-msgstr "Lesezeichen bearbeiten"
+msgstr "એડીટ બુકમાર્ક"
 
 msgid "Edit Bookmarks"
-msgstr "Lesezeichen bearbeiten"
+msgstr "એડીટ બુકમાર્ક્સ"
 
 msgid "Enter the name of a program to use to open or view mount points"
 msgstr ""
-"Geben Sie den Namen eines Programms ein zum Anzeigen oder Öffnen von "
-"Einhängepunkten"
 
 msgid "Error"
 msgstr "Fehler"
@@ -134,309 +127,290 @@ msgid "FTP"
 msgstr "FTP"
 
 msgid "Folder: %s"
-msgstr "Ordner: %s"
+msgstr "ફોલ્ડર: %s"
 
 msgid "General"
-msgstr "Allgemein"
+msgstr "સામાન્ય"
 
 msgid "Gigolo"
 msgstr "Gigolo"
 
 msgid "Gigolo can use the following protocols provided by GVfs:"
-msgstr ""
-"Gigolo kann mit den folgenden, von GVfs bereitgestellen Protokollen umgehen:"
+msgstr "GIgilo GVf દ્વારા અપાએલ આ પ્રોતોકોલ્સનો ઉપયોગ કરી શકે છે:"
 
 msgid "Gigolo needs to move your old configuration directory before starting."
 msgstr ""
-"Gigolo muss Ihr aktuelles Konfigurationsverzeichnis an einen neuen Ort "
-"verschieben, bevor es gestartet wird."
 
 msgid "HTTP"
 msgstr "HTTP"
 
 msgid "Horizontal"
-msgstr "Horizontal"
+msgstr "આડુ"
 
 msgid "Host"
-msgstr "Host"
+msgstr "હોસ્ટ"
 
 msgid ""
 "How often to try auto connecting bookmarks, in seconds. Zero disables "
 "checking."
 msgstr ""
-"Zeitspanne, nach der versucht werden soll, als automatisch gekennzeichnete "
-"Lesezeichen zu verbinden"
 
 msgid "Icons"
-msgstr "Symbole"
+msgstr "આઈકોન્સ"
 
 msgid "Ignore running instances, enforce opening a new instance"
-msgstr "Laufende Instanzen nicht beachten, eine neue Instanz erzwingen"
+msgstr ""
 
 msgid "Interface"
-msgstr "Oberfläche"
+msgstr "ઈન્ટરફેસ"
 
 msgid "Move it now?"
-msgstr "Soll es jetzt verschoben werden?"
+msgstr "અત્યારે ખસેડો?"
 
 msgid "Name"
-msgstr "Name"
+msgstr "નામ"
 
 msgid "Network"
-msgstr "Netzwerk"
+msgstr "નેટવર્ક"
 
 msgid "No Hosts found"
-msgstr "Keine Rechner gefunden"
+msgstr "કોઈપણ હોસ્ટ મળ્યા નથી"
 
 msgid "No Shares found"
-msgstr "Keine Freigaben gefunden"
+msgstr "કોઈપણ શેર મળ્યા નથી"
 
 msgid "No Workgroups found"
-msgstr "Keine Arbeitsgruppen gefunden"
+msgstr "કોઈ વર્કગ્રુપ મળ્યા નથી"
 
 msgid "No bookmarks"
-msgstr "Keine Lesezeichen"
+msgstr "એકપણ બુકમાર્ક નહિ"
 
 msgid "Obex"
-msgstr "Obex"
+msgstr ""
 
 msgid "Online Help"
-msgstr "Online-Hilfe"
+msgstr "ઓનલાઈન મદદ"
 
 msgid "Open the bookmark manager to add, edit or delete bookmarks"
-msgstr ""
-"Öffnet den Lesezeicheneditor zum Hinzufügen, Bearbeiten oder Löschen von "
-"Lesezeichen"
+msgstr "બુકમાર્કસને ઉમેરવા,એડીટ કરવા,કાઢી નાખવા બુકમાર્ક મેનેજર ખોલો"
 
 msgid "Open the selected resource with a file manager"
-msgstr "Öffnet die ausgewählte Verbindung in einem Dateimanager"
+msgstr "પસંદિત રિસોર્સને ફાઈલમેનેજર સાથે ખોલો"
 
 msgid "Optional information:"
-msgstr "Optionale Angaben:"
+msgstr "વૈકલ્પિક માહિતીઓ:"
 
 msgid "Other information"
-msgstr "Andere Angaben"
+msgstr "બીજી માહિતીઓ"
 
 msgid "Path: %s"
-msgstr "Pfad: %s"
+msgstr "પાથ: %s"
 
 msgid "Photos"
-msgstr "Fotos"
+msgstr "ફોટાઓં"
 
 msgid "Port"
-msgstr "Port"
+msgstr "પોર્ટ"
 
 msgid "Preferences"
-msgstr "Einstellungen"
+msgstr "અગ્રતાઓ"
 
 msgid "Print a list of supported URI schemes"
-msgstr "Gibt eine Liste unterstützter URI-Formate aus"
+msgstr "આધારભૂત કરેલ યોજનાયાદીઓ છાપો"
 
 msgid "Quit Gigolo"
-msgstr "Gigolo beenden"
+msgstr "GIgolo માંથી બહાર નીકળો"
 
 msgid "Refresh the network list"
-msgstr "Netzwerkliste aktualisieren"
+msgstr "નેટવર્ક યાદી રીફ્રેશ કરો"
 
 msgid "SSH"
 msgstr "SSH"
 
 msgid "Saves the window position and geometry and restores it at the start"
-msgstr ""
-"Speichert die Fensterposition und Größe und stellt sie beim nächsten Start "
-"wieder her."
+msgstr "વિન્ડો સ્થિતિ અને ભૂમિતિ સાચવો અને શરુઆત વખતે રીસ્ટોર કરો"
 
 msgid "Service Type"
-msgstr "Verbindungstyp"
+msgstr "સેવા પ્રકાર"
 
 msgid "Service t_ype:"
-msgstr "_Verbindungstyp:"
+msgstr "_સેવા પ્રકાર:"
 
 msgid "Set the port to 0 to use the default port"
-msgstr "Setzen Sie den Port auf 0, um den Standardwert zu benutzen"
+msgstr "મુલ્ભ્ત પોર્ટ ઉપયોગ કરવા પોર્ટ ને ૦ સેટ કરો"
 
 msgid "Share: %s"
-msgstr "Freigabe: %s"
+msgstr "શેર: %s"
 
 msgid "Show _toolbar"
-msgstr "_Werkzeugleiste anzeigen"
+msgstr "_ટુલબાર દેખાડો"
 
 msgid "Show auto-connect error messages"
-msgstr "Fehlermeldungen beim autom. Verbinden zeigen"
+msgstr "ઓટો જોડાણ ત્રુટી મેસેજ દેખાડો "
 
 msgid "Show side panel"
-msgstr "Seitenleiste anzeigen"
+msgstr "સાઈડ પેનલ બતાવો"
 
 msgid "Show status _icon in the Notification Area"
-msgstr "Zeige ein Statussymbol im _Benachrichtigungsfeld"
+msgstr "સ્ટેટસ આઈકોન નોટીફીકેશન વિસ્તારમાં દેખાડો"
 
 msgid "Show version information"
-msgstr "Zeige Versionsinformationen"
+msgstr "આવૃત્તિ માહિતી દેખાડો"
 
 msgid "Side _Panel"
-msgstr "_Seitenleiste"
+msgstr "_સાઈડ પેનલ"
 
 msgid "St_yle"
-msgstr "_Stil"
+msgstr "_સ્ટાઈલ"
 
 msgid "Start _minimized in the Notification Area"
-msgstr "Im Benachrichtigungsfeld _minimiert starten"
+msgstr ""
 
 msgid "Status _Icon"
-msgstr "S_tatusanzeige"
+msgstr "સ્ટેટ્સ આઈકોન"
 
 msgid "Supported Protocols"
-msgstr "Unterstützte Protokolle"
+msgstr "સપોર્ટેડ પ્રોટોકોલ્સ"
 
 msgid "Symbols"
-msgstr "Symbole"
+msgstr "સિમ્બોલ્સ"
 
 msgid "Text"
-msgstr "Text"
+msgstr "ટેક્સ્ટ"
 
 msgid "The command '%s' failed"
-msgstr "Der Befehl '%s' ist fehlgeschlagen"
+msgstr "કમાન્ડ '%s' નિષ્ફળ "
 
 msgid "The entered bookmark name is already in use. Please choose another one."
-msgstr ""
-"Der angegebene Name für das Lesezeichen ist bereits vergeben. Bitte wählen "
-"Sie einen anderen Namen."
+msgstr "આપેલું બુકમાર્ક નામ ઉપયોગમાં છે.મહેરબાની કરીને બીજું કોઈ નામ આપો"
 
 msgid "Toolbar"
-msgstr "Werkzeugleiste"
+msgstr "ટુલબાર"
 
 msgid "Unix Device"
-msgstr "Unix-Gerät"
+msgstr "યુનિક્સ ઉપકરણ"
 
 msgid "Username"
-msgstr "Benutzername"
+msgstr "વપરાશકર્તાનું નામ"
 
 msgid "Vertical"
-msgstr "Vertikal"
+msgstr "ઉભુ"
 
 msgid "View as _Detailed List"
-msgstr "_Detaillierte Liste anzeigen"
+msgstr "_વિગતવાર માહિતી રૂપે જુઓ"
 
 msgid "View as _Symbols"
-msgstr "S_ymbole anzeigen"
+msgstr "સિમ્બોલ્સ રૂપે જુઓ"
 
 msgid "Warning"
-msgstr "Warnung"
+msgstr "ચેતવણી"
 
 msgid "WebDAV"
-msgstr "WebDAV"
+msgstr ""
 
 msgid "WebDAV (secure)"
-msgstr "WebDAV (sicher)"
+msgstr ""
 
 msgid ""
 "Whether to show a side panel for browsing the local network for available "
 "Samba/Windows shares and a bookmark list"
 msgstr ""
-"Seitenleiste zum Durchsuchen des lokalen Netzwerks nach verfügbaren Samba-"
-"Freigaben"
 
 msgid ""
 "Whether to show error message dialogs when auto-connecting of bookmarks fails"
 msgstr ""
-"Fehlermeldungen zeigen, wenn das automatische Verbinden zu Lesezeichen "
-"fehlschlägt."
 
 msgid "Windows Share"
-msgstr "Windows-Freigabe"
+msgstr "વિન્ડો શેર"
 
 msgid "You must enter a name for the bookmark."
-msgstr "Sie müssen einen Namen für das Lesezeichen angeben."
+msgstr "તમારે બુકમાર્ક માટે નામ દાખલ કરવું જ પડશે"
 
 msgid "You must enter a server address or name."
-msgstr "Sie müssen die Adresse oder den Namen eines Servers angeben."
+msgstr "તમારે કોઈ સર્વર એડ્રેસ અથવા નામ દાખલ કરવું જ પડશે"
 
 msgid "You must enter a share name."
-msgstr "Sie müssen den Namen einer Freigabe angeben."
+msgstr "શેર નેમ આપવુજ પડશે."
 
 msgid "You must enter a valid URI for the connection."
-msgstr "Sie müssen eine gültige URI für die Verbindung angeben."
+msgstr "જોડાણ માટે યોગ્ય URI આપવુ જ પડશે"
 
 msgid ""
 "Your old configuration directory \"%s\" could not be moved to \"%s\" (%s). "
 "Please move manually the directory to the new location."
 msgstr ""
-"Ihr altes Konfigurationsverzeichnis »%s« konnte nicht nach »%s« verschoben "
-"werden. Fehlermeldung: %s. Bitte führen Sie die Aktion manuell aus."
 
 msgid "_Actions"
-msgstr "A_ktionen"
+msgstr "એકશન"
 
 msgid "_Bookmark Auto-Connect Interval"
-msgstr "_Zeitintervall für autom. Verbinden"
+msgstr "_બુકમાર્ક સ્વતઃ જોડાણ અંતરાલ"
 
 msgid "_Bookmark name:"
-msgstr "_Lesezeichenname:"
+msgstr "_બુકમાર્કનું નામ:"
 
 msgid "_Bookmarks"
-msgstr "_Lesezeichen"
+msgstr "_બુકમાર્ક"
 
 msgid "_Connection List Mode"
-msgstr "Darstellung der _Verbindungsliste:"
+msgstr "જોડાણ યાદી સ્થિતિ:"
 
 msgid "_Device:"
-msgstr "_Gerät:"
+msgstr "_ઉપકરણ:"
 
 msgid "_Domain:"
-msgstr "_Domäne:"
+msgstr "_ડોમેઈન:"
 
 msgid "_Edit"
-msgstr "_Bearbeiten"
+msgstr "_એડીટ"
 
 msgid "_Edit Bookmarks"
-msgstr "Lesezeichen _bearbeiten"
+msgstr "બુકમાર્ક એડીટ કરો"
 
 msgid "_File"
-msgstr "_Datei"
+msgstr "_ફાઈલ"
 
 msgid "_File Manager"
-msgstr "_Dateimanager"
+msgstr "_ફાઈલ મેનેજર"
 
 msgid "_Folder:"
-msgstr "_Ordner:"
+msgstr "_ફોલ્ડર:"
 
 msgid "_Help"
-msgstr "_Hilfe"
+msgstr "_મદદ"
 
 msgid "_Location (URI):"
-msgstr "Adresse (U_RI):"
+msgstr "લોકેશન(URI):"
 
 msgid "_Orientation"
-msgstr "_Ausrichtung"
+msgstr "_દિશામાન"
 
 msgid "_Path:"
-msgstr "_Pfad:"
+msgstr "_પાથ:"
 
 msgid "_Port:"
-msgstr "_Port:"
+msgstr "_પોર્ટ:"
 
 msgid "_Save window position and geometry"
-msgstr "_Fensterposition und -größe speichern"
+msgstr "_વિન્ડો સ્થિતિ અને ભૂમિતિ સાચવો"
 
 msgid "_Server:"
-msgstr "_Server:"
+msgstr "_સર્વર:"
 
 msgid "_Share:"
-msgstr "_Freigabe:"
+msgstr "_શેર કરો:"
 
 msgid "_Toolbar"
-msgstr "_Werkzeugleiste"
+msgstr "_ટુલબાર"
 
 msgid "_User Name:"
-msgstr "_Benutzername:"
+msgstr "_વપરાશકર્તાનું નામ:"
 
 msgid "_View"
-msgstr "_Ansicht"
+msgstr "_વ્યુ"
 
 msgid "translator-credits"
 msgstr ""
-"Enrico Tröger <enrico@xfce.org>\n"
-"Fabian Nowak <timystery@arcor.de>"
 
 msgid "unknown"
-msgstr "unbekannt"
+msgstr "અજાણ્યું"
