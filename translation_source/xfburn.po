@@ -3,12 +3,13 @@ msgstr ""
 "Project-Id-Version: xfburn 0.3.0svn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-02-02 22:14-0700\n"
-"PO-Revision-Date: 2010-02-04 18:44-0700\n"
-"Last-Translator: David Mohr <squisher@xfce.org>\n"
+"PO-Revision-Date: 2013-01-13 12:35+0530\n"
+"Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
 "Language-Team: de <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: \n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 msgid ""
 "%s\n"
@@ -44,7 +45,7 @@ msgstr ""
 "die nötige Modul.\n"
 
 msgid "%s's home"
-msgstr "Persönlicher Ordner von %s"
+msgstr "%s'નું ઘર"
 
 msgid ""
 "%s: %s\n"
@@ -78,16 +79,16 @@ msgstr ""
 "<i>Vielen Dank!</i>"
 
 msgid "<big>Burn _Image</big>"
-msgstr "<big>CD-Abbild _brennen</big>"
+msgstr "<big>_ઈમેજ લાખો</big>"
 
 msgid "<big>New _Data Composition</big>"
 msgstr "<big>_Daten-Zusammenstellung</big>"
 
 msgid "<big>_Audio CD</big>"
-msgstr "<big>A_udio-CD</big>"
+msgstr "<big>ઓડિયો-CD</big>"
 
 msgid "<big>_Blank Disc</big>"
-msgstr "<big>Medium _löschen</big>"
+msgstr "<big>_ખાલી ડિસ્ક</big>"
 
 msgid "<small>Would you like to change the default composition name?</small>"
 msgstr ""
@@ -116,16 +117,16 @@ msgid "A problem with the burn backend occurred."
 msgstr "Es ist ein Problem im Brennmodul aufgetreten."
 
 msgid "Aborted"
-msgstr "Abgebrochen"
+msgstr "અટકાવ્યું"
 
 msgid "Aborting..."
-msgstr "Am abbrechen..."
+msgstr "અટકાવી રહ્યા છીએ..."
 
 msgid "Accept only CDs as valid discs"
 msgstr "Akzeptiere nur CDs als gültige Discs"
 
 msgid "Add"
-msgstr "Hinzufügen"
+msgstr "ઉમેરો"
 
 msgid "Add a new directory to the composition"
 msgstr "Fügt ein neues Verzeichnis zur Zusammenstellung hinzu"
@@ -137,13 +138,13 @@ msgid "Adding files to the composition"
 msgstr "Dateien zur Zusammenstellung hinzufügen"
 
 msgid "Adding home directory"
-msgstr "Heimatverzeichniss hinzufügen"
+msgstr "ઘર ડિરેક્ટરી ઉમેરી રહ્યા છીએ"
 
 msgid "All files"
-msgstr "Alle Dateien"
+msgstr "બધી ફાઈલો"
 
 msgid "An error occured while writing ISO: %s"
-msgstr "Beim Schreiben der ISO-Datei »%s« ist ein Fehler aufgetreten."
+msgstr "ISO: %s લખતી વખતે ભૂલ થઇ."
 
 msgid "An error occurred in the burn backend"
 msgstr "Ein Fehler ist im Brennmodul aufgetreten"
@@ -155,7 +156,7 @@ msgid "Another cd burning GUI"
 msgstr "Noch ein anderes CD-Brennprogramm"
 
 msgid "Artist"
-msgstr "Künstler"
+msgstr "કલાકાર"
 
 msgid "Audio CD playable in regular stereos"
 msgstr "Erstelle eine Musik-CD zum Abspielen in gewöhnlichen Playern"
@@ -167,43 +168,43 @@ msgid "Author/Maintainer"
 msgstr "Autor/Entwickler"
 
 msgid "Auto"
-msgstr "automatisch"
+msgstr "સ્વત:"
 
 msgid "Blank CD-RW"
-msgstr "CD-RW löschen"
+msgstr "ખાલી CD-RW "
 
 msgid "Blank Disc"
-msgstr "Leere Medium"
+msgstr "ખાલી ડિસ્ક"
 
 msgid "Blank mode"
-msgstr "Löschmodus"
+msgstr "ખાલી મોડ"
 
 msgid "Blanking disc..."
-msgstr "Leere Medium"
+msgstr "ડિસ્ક ખાલી કરી રહ્યા છીએ..."
 
 msgid "Burn Composition"
 msgstr "Zusammenstellung brennen"
 
 msgid "Burn DVD Image"
-msgstr "DVD-Abbild brennen"
+msgstr "DVD ઈમેજ લાખો"
 
 msgid "Burn Image"
-msgstr "CD-Abbild brennen"
+msgstr "ઈમેજ લખો"
 
 msgid "Burn Image (xfburn)"
-msgstr "CD-Abbild brennen (xfburn)"
+msgstr "ઈમેજ લખો (xfburn)"
 
 msgid "Burn a prepared compilation, i.e. an .ISO file"
 msgstr "Brenne eine Zusammenstellung (z.B. ISO Dateien)"
 
 msgid "Burn image"
-msgstr "Abbild brennen"
+msgstr "ઈમેજ લખો"
 
 msgid "Burn mode is not currently implemented."
 msgstr "Dieser Schreibmodus wird noch nicht unterstützt."
 
 msgid "Burn speeds supported by the device"
-msgstr "Die unterstützten Brenngeschwindigkeiten des Gerätes"
+msgstr "ઉપકરણ દ્વારા સપોર્ટેડ લેખન ગતિ"
 
 msgid "Burn_Free"
 msgstr "Burn_Free"
@@ -212,16 +213,16 @@ msgid "Burning composition..."
 msgstr "Schreibe Zusammenstellung..."
 
 msgid "Burning device"
-msgstr "Brenner"
+msgstr "ઉપકરણ પર લખી રહ્યા છીએ"
 
 msgid "Burning image..."
-msgstr "Brenne Abbild..."
+msgstr "ઈમેજ લખી રહ્યા છીએ..."
 
 msgid "Burning track %2d/%d..."
 msgstr "Brenne Titel %2d/%d..."
 
 msgid "CD Reader device"
-msgstr "CD-Lesegerät"
+msgstr "CD-Reader ઉપકરણ"
 
 msgid "CD and DVD burning application"
 msgstr "CD und DVD Brennprogramm"
@@ -242,7 +243,7 @@ msgid "Can burn DVDRAM"
 msgstr "Kann DVDRAM brennen"
 
 msgid "Cancelled"
-msgstr "Abgebrochen"
+msgstr "રદ કર્યું"
 
 msgid "Cannot access drive (it might be in use)"
 msgstr ""
@@ -259,16 +260,16 @@ msgstr ""
 "Konnte die Daten nicht an das Multisession-Medium anhängen (benutzen Sie TAO)"
 
 msgid "Cannot burn audio onto a DVD."
-msgstr "Musik kann nicht auf eine DVD gebrannt werden."
+msgstr "ઓડિયો DVD પર લખી શક્યા નથી."
 
 msgid "Cannot open image."
-msgstr "Öffnen des Abbilds fehlgeschlagen."
+msgstr "ઈમેજ ખોલી શક્યા નથી."
 
 msgid "Cannot recognize state of drive and disc"
-msgstr "Kann Laufwerks- und Medienstatus nicht ermitteln"
+msgstr "ડ્રાઈવ અને ડિસ્કની સ્થિતિ જાણી શક્યા નથી"
 
 msgid "Cannot recognize the state of the drive and disc."
-msgstr "Kann Laufwerks- und Medienstatus nicht ermitteln."
+msgstr "ડ્રાઈવ અને ડિસ્કની સ્થિતિ જાણી શક્યા નથી."
 
 msgid "Changing this setting only takes full effect after a program restart."
 msgstr ""
@@ -276,7 +277,7 @@ msgstr ""
 "Kraft."
 
 msgid "Clear"
-msgstr "Leeren"
+msgstr "ક્લીઅર"
 
 msgid "Clear the content of the composition"
 msgstr "Inhalt der Zusammenstellung leeren"
@@ -286,40 +287,36 @@ msgstr "Zusammenstellung schließen"
 
 msgid "Closed disc with data detected, a blank or appendable disc is needed."
 msgstr ""
-"Abgeschlossenes Daten Medium erkannt, leeres oder anhängfähiges Medium "
-"erforderlich."
 
 msgid "Closed disc with data detected. Need blank or appendable disc"
 msgstr ""
-"Abgeschlossenes Medium mit Daten erkannt. Leeres oder anhängfähiges Medium "
-"erforderlich"
 
 msgid "Closing session..."
-msgstr "Schließe Sitzung ab..."
+msgstr "સત્ર બંધ કરી રહ્યા છીએ..."
 
 msgid "Closing track..."
-msgstr "Schließe Spur ab...."
+msgstr "ટ્રેક બંધ કરી રહ્યા છીએ...."
 
 msgid "Completed"
-msgstr "Fertig"
+msgstr "પૂર્ણ"
 
 msgid "Composition name"
-msgstr "Zusammenstellungsname"
+msgstr ""
 
 msgid "Contents"
-msgstr "Inhalt"
+msgstr "કન્ટેન્ટ"
 
 msgid "Continue to _show this notice"
-msgstr "Weiterhin diese Nachricht _anzeigen"
+msgstr ""
 
 msgid "Copy Data CD"
-msgstr "Daten-CD kopieren"
+msgstr "ડેટા-CD કોપી કરો"
 
 msgid "Copy data CD"
-msgstr "Daten-CD kopieren"
+msgstr "ડેટા-CD કોપી કરો"
 
 msgid "Copy data DVD"
-msgstr "Daten-DVD kopieren"
+msgstr "ડેટા-DVD કોપી કરો"
 
 msgid "Could not create ISO source structure."
 msgstr "Konnte die ISO-Quellstruktur nicht anlegen."
@@ -328,43 +325,43 @@ msgid "Could not create destination ISO file: %s"
 msgstr "Konnte Ziel-ISO-Datei »%s« nicht anlegen"
 
 msgid "Could not open %s."
-msgstr "»%s« konnte nicht geöffnet werden."
+msgstr "»%s« ખોલી શક્યા નથી."
 
 msgid "Could not open %s: %s"
-msgstr "Konnte %s nicht öffnen: %s"
+msgstr "%s : %s ખોલી શક્યા નથી"
 
 msgid "Could not stat %s: %s"
 msgstr "Konnte keine Informationen über »%s« erlangen: %s"
 
 msgid "Create ISO from CD"
-msgstr "ISO aus CD erzeugen"
+msgstr "CDમાંથી ISO બનાવો"
 
 msgid "Create a new data disc with the files of your choosing"
 msgstr "Erstelle ein neues Datenmedium mit beliebigen Dateien"
 
 msgid "Create directory"
-msgstr "Neues Verzeichnis"
+msgstr "ડિરેક્ટરી બનાવો"
 
 msgid "Currently selected device"
 msgstr "Im Moment ausgewähltes Geräte"
 
 msgid "DVD Reader device"
-msgstr "DVD-Lesegerät"
+msgstr "DVD-Reader ઉપકરણ"
 
 msgid "DVD+RW does not need blanking"
 msgstr "DVD+RW muss nicht gelöscht werden"
 
 msgid "Data %s~%d"
-msgstr "Daten %s~%d"
+msgstr "ડેટા %s~%d"
 
 msgid "Data Composition"
-msgstr "Datenzusammenstellung"
+msgstr ""
 
 msgid "Default value for eject checkbox"
 msgstr "Standardwert für die Checkbox zum Auswurf"
 
 msgid "Detected devices"
-msgstr "Gefundene Geräte"
+msgstr "શોધાલેયા ઉપકરણો"
 
 msgid "Determine whether the close button is visible"
 msgstr "Stellt fest, ob der Schließenknopf angezeigt werden soll"
@@ -373,77 +370,75 @@ msgid "Device address"
 msgstr "Geräteadresse"
 
 msgid "Device buffer:"
-msgstr "Geräte-Puffer:"
+msgstr ""
 
 msgid "Devices"
-msgstr "Geräte"
+msgstr "ઉપકરણો"
 
 msgid "Disc is not erasable."
-msgstr "Medium nicht löschbar."
+msgstr "ડિસ્ક ભૂંસી શકાય તેમ નથી ."
 
 msgid "Disc status"
-msgstr "Medien-Status"
+msgstr "ડિસ્ક સ્થિતિ"
 
 msgid "Display information about Xfburn"
 msgstr "Informationen über Xfburn anzeigen"
 
 msgid "Display name"
-msgstr "Anzeigename"
+msgstr "ડિસ્પ્લે નામ"
 
 msgid "Done"
-msgstr "Abgeschlossen"
+msgstr "પૂર્ણ"
 
 msgid "Drive can't burn on the inserted disc"
-msgstr "Das Laufwerk kann das eingelegte Medium nicht beschreiben"
+msgstr "ડ્રાઈવ નાખેલી ડિસ્ક પર લખી શકે તેમ નથી"
 
 msgid "Drive is empty"
-msgstr "Kein Medium im Laufwerk"
+msgstr "ડ્રાઈવ ખાલી છે"
 
 msgid "Duplicate filename '%s' for '%s'"
 msgstr "Der Dateiname '%s' für die Datei '%s' existiert schon"
 
 msgid "E_ject disk"
-msgstr "CD aus_werfen"
+msgstr "ડિસ્ક _બહાર કાઢો"
 
 msgid "Eject the disc"
-msgstr "CD auswerfen"
+msgstr "ડિસ્ક _બહાર કાઢો"
 
 msgid "Empty speed list"
-msgstr "Leere Geschwindigketsliste"
+msgstr ""
 
 msgid "Error determining disc"
-msgstr "Fehler beim Untersuchen des Mediums"
+msgstr "ડિસ્ક ઓળખવામાં ભૂલ"
 
 msgid "Estimated writing speed:"
-msgstr "Geschätzte Schreibgeschwindigkeit:"
+msgstr "અંદાજીત લેખન ગતિ:"
 
 msgid "FIFO buffer size (in kb)"
-msgstr "FIFO Puffer Größe (in kb)"
+msgstr ""
 
 msgid "FIFO buffer:"
-msgstr "FIFO Puffer:"
+msgstr ""
 
 msgid "Failed"
-msgstr "Fehlgeschlagen"
+msgstr "નિષ્ફળ"
 
 msgid "Failed to change songs while transcoding"
 msgstr "Titelwechsel beim Umwandeln ist fehlgeschlagen"
 
 msgid "Failed to get image size"
-msgstr "Konnte Abbildgröße nicht ermitteln"
+msgstr "ઈમેજનું માપ મેળવવામાં નિષ્ફળ"
 
 msgid ""
 "Failed to initialize %s transcoder: %s\n"
 "\t(falling back to basic implementation)"
 msgstr ""
-"Der·%s·Umwandler konnte nicht initialisiert werden:·%s\n"
-"\t(falle auf die Basisversion zurück)"
 
 msgid "Failure"
-msgstr "Fehlgeschlagen"
+msgstr "નિષ્ફળ"
 
 msgid "File"
-msgstr "Datei"
+msgstr "ફાઈલ"
 
 msgid "File %s does not contain uncompressed PCM wave audio"
 msgstr "Datei %s enthählt keine unkomprimierten PCM wave Musik"
@@ -452,22 +447,22 @@ msgid "File %s does not have a .wav extension"
 msgstr "Datei %s hat keine .wav Endung"
 
 msgid "File browser"
-msgstr "Dateibrowser"
+msgstr "ફાઈલ બ્રાઉઝર"
 
 msgid "Filename"
-msgstr "Dateiname"
+msgstr "ફાઈલનું નામ"
 
 msgid "Filesystem"
-msgstr "Dateisystem"
+msgstr "ફાઈલ સિસ્ટમ"
 
 msgid "Flushing cache..."
-msgstr "Leere Cache..."
+msgstr ""
 
 msgid "Folder"
-msgstr "Ordner"
+msgstr "ફોલ્ડર"
 
 msgid "Formatting..."
-msgstr "Formatiere..."
+msgstr "ભૂંસી રહ્યા છીએ..."
 
 msgid "Full Blank (slow)"
 msgstr "komplett löschen (langsam)"
@@ -476,61 +471,58 @@ msgid "Full Deformat (slow)"
 msgstr "vollständig unformatieren (langsam)"
 
 msgid "Full Format"
-msgstr "vollständig formatieren"
+msgstr "ફૂલ ફોર્મેટ"
 
 msgid "General"
-msgstr "Allgemein"
+msgstr "સામાન્ય"
 
 msgid "Gstreamer did not like this file (detection timed out)"
 msgstr ""
-"Gstreamer mochte diese Datei nicht (Zeitüberschreitung bei der Erkennung)"
 
 msgid "Gstreamer did not want to start transcoding (timed out)"
-msgstr "Gstreamer wollte mit dem Umwandeln nicht anfangen (Zeitüberschreitung)"
+msgstr ""
 
 msgid "ISO images"
-msgstr "ISO-Abbilder"
+msgstr "ISO ઈમેજ"
 
 msgid "Image"
-msgstr "ISO-Abbild"
+msgstr "ઈમેજ"
 
 msgid "Image file '%s' does not exist."
-msgstr "Die Abbilddatei '%s' existiert nicht."
+msgstr "ઈમેજ ફાઈલ '%s' અસ્તિત્વમાં નથી."
 
 msgid "Image to burn"
-msgstr "Zu brennendes Abbild"
+msgstr "ઈમેજ લખવા માટે"
 
 msgid "Initializing..."
-msgstr "Initialisiere..."
+msgstr "આરંભ કરી રહ્યા છીએ..."
 
 msgid "Inserted disc is already blank"
-msgstr "Das Medium ist schon leer"
+msgstr "તમે નાંખેલી ડિસ્ક ખાલી છે"
 
 msgid "Inserted disc is full"
-msgstr "Das Medium ist voll"
+msgstr "તમે નાંખેલી ડિસ્ક ભરેલી છે"
 
 msgid "Inserted disc is unsuitable"
-msgstr "Das Medium ist ungeeignet"
+msgstr "નાખેલી ડિસ્ક અયોગ્ય છે"
 
 msgid "Is it a valid combination"
-msgstr "ist es eine gültige Kombination"
+msgstr ""
 
 msgid "Is the combination of hardware and disc valid to burn the composition?"
 msgstr ""
-"ist die Kombination von Hardware und Medium geeignet für die "
-"Zusammenstellung?"
 
 msgid "Is the disc erasable"
-msgstr "Ist das Medium löschbar"
+msgstr "શું ડિસ્ક ભૂંસી શકાય તેમ છે?"
 
 msgid "Label"
-msgstr "Label"
+msgstr "લેબલ"
 
 msgid "Length"
-msgstr "Dauer"
+msgstr "લંબાઈ"
 
 msgid "List of devices"
-msgstr "Geräteliste"
+msgstr "ઉપકરણોની યાદી"
 
 msgid "Local Path"
 msgstr "Lokaler Pfad"
@@ -543,13 +535,13 @@ msgstr ""
 "erforderlichen Zugriffsrechte haben."
 
 msgid "Max"
-msgstr "Max."
+msgstr "મહતમ."
 
 msgid "Min. fill was %2d%%"
 msgstr "%2d%% min. gefüllt"
 
 msgid "Name"
-msgstr "Name"
+msgstr "નામ"
 
 msgid "New audio composition"
 msgstr "Neue Musikzusammenstellung"
@@ -558,22 +550,22 @@ msgid "New data composition"
 msgstr "Neue Daten-Zusammenstellung"
 
 msgid "New directory"
-msgstr "Neues Verzeichnis"
+msgstr "નવી ડિરેક્ટરી"
 
 msgid "No burners are currently available"
 msgstr "Im Moment ist kein Brenner verfügbar"
 
 msgid "No disc detected in drive"
-msgstr "Kein Medium im Laufwerk erkannt"
+msgstr "કોઈ ડિસ્ક ડ્રાઈવમાં મળી નથી"
 
 msgid "No disc detected in drive."
-msgstr "Kein Medium im Laufwerk erkannt"
+msgstr "કોઈ ડિસ્ક ડ્રાઈવમાં મળી નથી."
 
 msgid "No disc detected in the drive."
-msgstr "Kein Medium im Laufwerk."
+msgstr "કોઈ ડિસ્ક ડ્રાઈવમાં મળી નથી."
 
 msgid "Node"
-msgstr "Knoten"
+msgstr "નોડ"
 
 msgid "Number of burners in the system"
 msgstr "Die Anzahl von Brennern im System"
@@ -588,10 +580,10 @@ msgid "On the _fly"
 msgstr "_Ohne Zwischenpuffern"
 
 msgid "Only create _ISO"
-msgstr "_Nur ISO erzeugen"
+msgstr "ખાલી _ISO લાખો"
 
 msgid "Options"
-msgstr "Einstellungen"
+msgstr "વિકલ્પો"
 
 msgid "Please insert a recordable disc."
 msgstr "Bitte legen Sie ein beschreibbares Medium ein."
@@ -624,7 +616,7 @@ msgid "Prepare the rewriteable disc for a new burn"
 msgstr "Ein wiederbeschreibares (RW) Medium löschen"
 
 msgid "Proceed to Burn"
-msgstr "Weiter zum Brennen"
+msgstr "લખવા માટે આગળ વધો"
 
 msgid "Profile name as reported by libburn"
 msgstr "Profilename von libburn"
@@ -639,73 +631,73 @@ msgid "Quick Deformat"
 msgstr "schnell unformatieren"
 
 msgid "Quick Format"
-msgstr "schnell formatieren"
+msgstr "ત્વરિત ફોર્મેટ"
 
 msgid "Quit Xfburn"
-msgstr "Xfburn beenden"
+msgstr "Xfburnમાંથી બહાર નીકળો"
 
 msgid "Reading CD..."
-msgstr "Lese CD..."
+msgstr "CD વાંચી રહ્યા છીએ..."
 
 msgid "Ready"
-msgstr "Bereit"
+msgstr "તૈયાર"
 
 msgid "Refresh"
-msgstr "Aktualisieren"
+msgstr "રીફ્રેશ"
 
 msgid "Refresh file list"
-msgstr "Dateiliste neu laden"
+msgstr "ફાઈલ યાદી રીફ્રેશ કરો"
 
 msgid "Remove"
-msgstr "Entfernen"
+msgstr "કાઢી નાખો"
 
 msgid "Remove the selected file(s) from the composition"
 msgstr "Ausgewählte Datei(en) von der zusammenstellung entfernen"
 
 msgid "Rename"
-msgstr "Umbenennen"
+msgstr "નામ બદલો"
 
 msgid "Rename Artist"
-msgstr "Künstler umbennen"
+msgstr "કલાકારનું નામ બદલો"
 
 msgid "Rename Title"
-msgstr "Titelname umbennnen"
+msgstr "શીર્ષક બદલો"
 
 msgid "Rename the artist of the selected file"
 msgstr "Den Künstler der ausgewählten Datei umbennen"
 
 msgid "Rename the selected file"
-msgstr "Ausgewählte Datei umbennen"
+msgstr "પસંદ કરેલી ફાઈલનું નામ બદલો"
 
 msgid "Rename the title of the selected file"
-msgstr "Den Titel der Ausgewählte Datei umbennen"
+msgstr "પસંદ કરેલી ફાઈલના કલાકારનું નામ બદલો"
 
 msgid "Retired author/maintainer"
 msgstr "In den Ruhestand getretener Autor/Entwickler"
 
 msgid "Sc_an for devices"
-msgstr "_Nach Geräten suchen"
+msgstr "ઉપકરણો માટે શોધ કરો"
 
 msgid "Select command"
-msgstr "Programm auswählen"
+msgstr "કમાન્ડ પસંદ કરો"
 
 msgid "Show _hidden files"
-msgstr "_Zeige versteckte Dateien"
+msgstr "_ગુપ્ત ફાઈલો બતાવો"
 
 msgid "Show a text entry for the name of the volume"
 msgstr "Zeige ein Texteingabefeld für den Volumennamen an"
 
 msgid "Show close button"
-msgstr "Schließenknopf anzeigen"
+msgstr "બંધ કરવા માટેનું બટન બતાવો"
 
 msgid "Show file browser"
-msgstr "Dateibrowser anzeigen"
+msgstr "ફાઈલ બ્રાઉઝર બતાવો"
 
 msgid "Show human_readable filesizes"
 msgstr "_Benutze gut lesbare Dateigrößen"
 
 msgid "Show mode selection"
-msgstr "Modusauswahl"
+msgstr "મોડ પસંદગીકાર બતાવો"
 
 msgid "Show mode selection combo"
 msgstr "Modusauswahl"
@@ -720,10 +712,10 @@ msgid "Show speed selection combo"
 msgstr "Geschwindidigkeitsauswahl anzeigen"
 
 msgid "Show toolbar"
-msgstr "Werkzeugleiste anzeigen"
+msgstr "ટૂલબાર બતાવો"
 
 msgid "Show volume name"
-msgstr "Volumennamen anzeigen"
+msgstr "વોલ્યુમ નામ બતાવો"
 
 msgid "Show warning on _empty speed list"
 msgstr ""
@@ -740,13 +732,13 @@ msgid "Show/hide the toolbar"
 msgstr "Zeigt oder verbirgt die Werkzeugleiste"
 
 msgid "Size"
-msgstr "Größe"
+msgstr "માપ"
 
 msgid "Sorry, multisession is not yet supported"
 msgstr "Multisessions werden noch nicht unterstützt"
 
 msgid "Temporary directory"
-msgstr "Verzeichnis für temporäre Dateien"
+msgstr "કામચલાઉ ડિરેક્ટરી"
 
 msgid ""
 "The basic transcoder is built in,\n"
@@ -758,17 +750,9 @@ msgid ""
 "audio files, please compile with\n"
 "gstreamer support."
 msgstr ""
-"Der elementare Umwandler ist eingebaut,\n"
-"und braucht keine Bibliotheken. Allerdings\n"
-"unterstützt er nur unkomprimierte .wav\n"
-"Dateien.\n"
-"Wenn Sie Musikzusammenstellungen von\n"
-"anderen Musikdateien erstellen wollen, dann\n"
-"kompilieren Sie bitte mit gstreamer\n"
-"Unterstützung."
 
 msgid "The blank mode shows different disc status messages than regular mode"
-msgstr "Im Löschmodus werden andere Medien Statusnachrichten angezeigt"
+msgstr ""
 
 msgid ""
 "The gstreamer transcoder uses the gstreamer\n"
@@ -780,15 +764,6 @@ msgid ""
 "that you have the 'good','bad', and 'ugly'\n"
 "gstreamer plugin packages installed."
 msgstr ""
-"Der gstreamer Umwandler benutzt die gstreamer\n"
-"Bibliothek um Musikzusammenstellungen zu er-\n"
-"stellen.\n"
-"\n"
-"Im Prinzip wird jede Musikdatei unterstützt, wenn\n"
-"das entsprechende Modul installiert ist. Sollte eine\n"
-"Musikdatei nicht erkannt werden, stellen Sie sicher,\n"
-"dass die 'good','bad', und 'ugly' gstreamer Modulpakete\n"
-"installiert sind."
 
 msgid "The inserted disc is already blank."
 msgstr "Das Medium ist schon leer."
@@ -797,19 +772,19 @@ msgid "The selected image does not fit on the inserted disc"
 msgstr "Das ausgewählte CD-Abbild ist zu groß für das Medium im Laufwerk"
 
 msgid "The text of the label"
-msgstr "Der Text des Labels"
+msgstr "લેબલના અક્ષર"
 
 msgid "The write mode is not supported currently."
-msgstr "Dieser Schreibmodus wird zur Zeit nicht unterstützt."
+msgstr "હાલમાં લેખન મોડ સપોર્ટેડ નથી."
 
 msgid "There is not enough space available on the inserted disc."
 msgstr "Das ausgewählte CD-Abbild ist zu groß für das Medium im Laufwerk."
 
 msgid "Title"
-msgstr "Titel"
+msgstr "શીર્ષક"
 
 msgid "Toolbar Editor"
-msgstr "Werkzeugleisteneditor"
+msgstr "ટૂલબાર એડિટર"
 
 msgid "Translator (%s)"
 msgstr "Übersetzer (%s)"
@@ -818,7 +793,7 @@ msgid "Tune how Xfburn behaves"
 msgstr "Das Verhalten von »Xfburn« konfigurieren"
 
 msgid "Type"
-msgstr "Typ"
+msgstr "પ્રકાર"
 
 msgid "Unable to determine image size."
 msgstr "Konnte Abbildgröße nicht ermitteln."
@@ -830,43 +805,43 @@ msgid "Unable to initialize the burning backend."
 msgstr "Das Brennmodul konnte nicht initialisiert werden."
 
 msgid "User Aborted"
-msgstr "Benutzerabbruch"
+msgstr "વપરાશકર્તાએ રદ કર્યું"
 
 msgid "Volume name :"
-msgstr "Bezeichnung:"
+msgstr "વોલ્યુમ નામ:"
 
 msgid "Welcome"
 msgstr "Willkommen"
 
 msgid "Welcome to xfburn!"
-msgstr "Willkommen zu xfburn!"
+msgstr "xfburn માં આપનું સ્વાગત છે!"
 
 msgid "What files can get burned to an audio CD?"
 msgstr "Welche Dateien können auf eine Musik CD gebrannt werden?"
 
 msgid "Write CD-R"
-msgstr "CD-R schreiben"
+msgstr "CD-R લખો"
 
 msgid "Write CD-RW"
-msgstr "CD-RW schreiben"
+msgstr "CD-RW લખો"
 
 msgid "Write DVD-R"
-msgstr "DVD-R schreiben"
+msgstr "DVD-R લખો"
 
 msgid "Write DVD-RAM"
-msgstr "DVD-RAM schreiben"
+msgstr "DVD-RAM લખો"
 
 msgid "Write _mode:"
-msgstr "Schreib_modus:"
+msgstr "લખાણ _મોડ:"
 
 msgid "Write-once disc, no blanking possible"
 msgstr "Einmal beschreibbares Medium, Löschen ist nicht möglich"
 
 msgid "Writing CD..."
-msgstr "Schreibe CD..."
+msgstr "CD પર લખી રહ્યા છીએ..."
 
 msgid "Writing ISO..."
-msgstr "Schreibe ISO-Datei..."
+msgstr "ISO લખી રહ્યા છીએ..."
 
 msgid "Writing Lead-In..."
 msgstr "Schreibe Lead-In..."
@@ -899,22 +874,22 @@ msgid "You can only have a maximum of 99 tracks."
 msgstr "99 Titel sind das Maximum. "
 
 msgid "You must give a name to the file."
-msgstr "Sie müssen der Datei einen Namen geben."
+msgstr "તમારે ફાઈલનું નામ આપવું ફરજીયાત છે."
 
 msgid "_About"
 msgstr "Ü_ber"
 
 msgid "_Actions"
-msgstr "_Aktionen"
+msgstr "_ક્રિયાઓ"
 
 msgid "_Blank"
-msgstr "_Löschen"
+msgstr "_ખાલી"
 
 msgid "_Burn Composition"
 msgstr "_Zusammenstellung brennen"
 
 msgid "_Burn image"
-msgstr "A_bbild brennen"
+msgstr "ઈમેજ _લખો"
 
 msgid "_Clean temporary directory on exit"
 msgstr ""
@@ -922,79 +897,79 @@ msgstr ""
 "Beenden aufräumen"
 
 msgid "_Copy CD"
-msgstr "CD _kopieren"
+msgstr "CD ­_કોપી કરો"
 
 msgid "_Copy DVD"
-msgstr "DVD _kopieren"
+msgstr "DVD _કોપી કરો"
 
 msgid "_Dummy write"
-msgstr "_Simulieren"
+msgstr "_બનાવટી લખાણ"
 
 msgid "_Edit"
-msgstr "_Bearbeiten"
+msgstr "_સંપાદન"
 
 msgid "_File"
-msgstr "_Datei"
+msgstr "_ફાઈલ"
 
 msgid "_Help"
-msgstr "_Hilfe"
+msgstr "_મદદ"
 
 msgid "_Quit"
-msgstr "_Beenden"
+msgstr "_બહાર નીકળો"
 
 msgid "_Speed:"
-msgstr "_Geschwindigkeit:"
+msgstr "_ગતિ:"
 
 msgid "_View"
-msgstr "A_nsicht"
+msgstr "_વ્યુ"
 
 msgid "abandoned"
-msgstr "verlassen"
+msgstr ""
 
 msgid "aborted"
-msgstr "abgebrochen"
+msgstr ""
 
 msgid "basic"
-msgstr "elementar"
+msgstr ""
 
 msgid "default"
-msgstr "Standard"
+msgstr ""
 
 msgid "ended"
-msgstr "beendet"
+msgstr ""
 
 msgid "ending"
-msgstr "am beenden"
+msgstr ""
 
 msgid "failing"
-msgstr "Fehler"
+msgstr ""
 
 msgid "gstreamer"
-msgstr "gstreamer"
+msgstr ""
 
 msgid "libburn PACKET block types"
-msgstr "libburn Packet Blocktypen"
+msgstr ""
 
 msgid "libburn RAW block types"
-msgstr "libburn RAW Blocktypen"
+msgstr ""
 
 msgid "libburn SAO block types"
-msgstr "libburn SAO Blocktypen"
+msgstr ""
 
 msgid "libburn TAO block types"
-msgstr "libburn TAO Blocktypen"
+msgstr ""
 
 msgid "no info"
-msgstr "Keine Information"
+msgstr ""
 
 msgid "not implemented"
-msgstr "noch nicht implementiert"
+msgstr ""
 
 msgid "see console"
-msgstr "siehe die Konsolenausgabe"
+msgstr ""
 
 msgid "standby"
-msgstr "Ruhezustand"
+msgstr ""
 
 msgid "unused"
-msgstr "unbenutzt"
+msgstr ""

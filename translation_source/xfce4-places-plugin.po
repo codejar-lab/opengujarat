@@ -3,67 +3,67 @@ msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-05-17 01:47-0500\n"
-"PO-Revision-Date: 2009-06-20 01:34-0800\n"
-"Last-Translator: Evaggelos Balaskas <ebalaskas@ebalaskas.gr>\n"
+"PO-Revision-Date: 2013-01-13 11:44+0530\n"
+"Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
 "Language-Team: Greek <nls@tux.hellug.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Poedit 1.5.4\n"
 
 msgid "Access folders, documents, and removable media"
-msgstr "Προσβάσιμοι φάκελοι, έγγραφα και αφαιρέσιμα μέσα"
+msgstr "ઍક્સેસ ફોલ્ડર્સ, દસ્તાવેજો અને રીમુવેબલ મીડિયા"
 
 msgid "Button"
-msgstr "Κουμπί"
+msgstr "બટન"
 
 msgid "Desktop"
-msgstr "Επιφάνεια Εργασίας"
+msgstr "ડેસ્કટોપ"
 
 msgid "File System"
-msgstr "Σύστημα αρχείων"
+msgstr "ફાઈલ સિસ્ટમ"
 
 msgid "Icon Only"
-msgstr "Μόνο εικονίδιο"
+msgstr "માત્ર આયકોન"
 
 msgid "Icon and Label"
-msgstr "Εικονίδιο και ετικέτα"
+msgstr "આયકોન અને લેબલ"
 
 msgid "Label Only"
-msgstr "Μόνο ετικέτα"
+msgstr "માત્ર લેબલ"
 
 msgid "Menu"
-msgstr "Μενού"
+msgstr "મેનુ"
 
 msgid "Places"
-msgstr "Τοποθεσίες"
+msgstr "સ્થાનો"
 
 msgid "Recent Documents"
-msgstr "Πρόσφατα έγγραφα"
+msgstr "હાલના દસ્તાવેજો"
 
 msgid "Show GTK _bookmarks"
-msgstr "Εμφάνιση GTK σ_ελιδοδεικτών"
+msgstr "GTK _બુકમાર્ક્સ બતાવો"
 
 msgid "Show _icons in menu"
-msgstr "Εμφάνιση εικ_ονιδίων στο μενού"
+msgstr "મેનુમાં _આયકોન્સ બતાવો"
 
 msgid "Show _removable media"
-msgstr "Εμφάνιση αφ_αιρέσιμων μέσων"
+msgstr "_રીમુવેબલ મીડિયા બતાવો"
 
 msgid "Show cl_ear option"
-msgstr "Εμφάνιση επιλογής κ_αθαρισμού"
+msgstr "_ક્લીઅર વિકલ્પ બતાવો"
 
 msgid "Show recent _documents"
-msgstr "Εμφάνιση πρόσφατων εγγράφων"
+msgstr "હાલના _દસ્તાવેજો બતાવો"
 
 msgid "Trash"
-msgstr "Απορρίμματα"
+msgstr "કચરાપેટી"
 
 msgid "_Label"
-msgstr "Ετ_ικέτα"
+msgstr "_લેબલ"
 
 msgid "_Number to display"
-msgstr "Αρ_ιθμός για εμφάνιση"
+msgstr "_આંકડા પ્રદર્શિત માટે"
 
 msgid "_Show"
-msgstr "Εμ_φάνιση"
+msgstr "_બતાવો"
