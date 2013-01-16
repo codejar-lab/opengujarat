@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: blueman\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2010-01-29 14:44+0200\n"
-"PO-Revision-Date: 2013-01-12 14:55+0530\n"
-"Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
+"PO-Revision-Date: 2013-01-16 15:44+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,13 +18,13 @@ msgstr "%(સુવિધા)ઓ %(ઉપકરણ)ઓ પર"
 
 msgid "%.0f Minute"
 msgid_plural "%.0f Minutes"
-msgstr[0] "%.0f Minute"
-msgstr[1] "%.0f Minuten"
+msgstr[0] "%.0f મિનીટ"
+msgstr[1] "%.0f મિનીટસ"
 
 msgid "%.0f Second"
 msgid_plural "%.0f Seconds"
-msgstr[0] "%.0f Sekunde"
-msgstr[1] "%.0f Sekunden"
+msgstr[0] "%.0f સેકંડ"
+msgstr[1] "%.0f સેકંડસ"
 
 msgid "%d %s %d %s and %d %s"
 msgstr "%d %s %d %s અને %d %s"
@@ -36,7 +36,7 @@ msgstr[1] "%d મિનીટો"
 
 msgid "<b>%d Active Connection</b>"
 msgid_plural "<b>%d Active Connections</b>"
-msgstr[0] "<b>%d aktive Verbindung</b>"
+msgstr[0] "<b>%d જોડાણ સક્રિય કરો</b>"
 msgstr[1] "<b>%d સકિય જોડાણ</b>"
 
 msgid "<b>Adding Device...</b>"
@@ -48,14 +48,12 @@ msgstr "<b>એડવાન્સ</b>"
 msgid ""
 "<b>After applying these settings Bluetooth daemon will be restarted.</b>"
 msgstr ""
-"<b>Der Bluetooth Service wird neu gestartet, nachdem die Änderungen "
-"übernommen wurden.</b>"
 
 msgid "<b>Audio Settings</b>"
 msgstr "<b>ઓડિયો સેટિંગ્સ</b>"
 
 msgid "<b>Author:</b>"
-msgstr "<b>કરતા:</b>"
+msgstr "<b>કર્તા:</b>"
 
 msgid "<b>Bluetooth Off</b>"
 msgstr "<b>બ્લુટુથ બંધ</b>"
@@ -64,7 +62,7 @@ msgid "<b>Bonded</b>"
 msgstr "<b>જોડાયલા</b>"
 
 msgid "<b>Conflicts with:</b>"
-msgstr "<b>Steht im Konflikt mit:</b>"
+msgstr ""
 
 msgid "<b>Congratulations, device successfully added</b>"
 msgstr "<b>અભિનંદન, ઉપકરણ સફળતાપૂર્વક ઉમેર્યું છે</b>"
@@ -81,10 +79,6 @@ msgid ""
 "Link Quality: %(lq)u%%\n"
 "Transmit Power Level: %(tpl)u%% <i>(%(tpl_state)s)</i>"
 msgstr ""
-"<b>Verbunden</b>\n"
-"<b>Signalstärke: %(rssi)u%%</b> <i>(%(rssi_state)s)</i>\n"
-"Verbindungsqualität: %(lq)u%%\n"
-"Übertragungsstärke: %(tpl)u%% <i>(%(tpl_state)s)</i>"
 
 msgid ""
 "<b>Connected</b>\n"
@@ -92,10 +86,6 @@ msgid ""
 "<b>Link Quality: %(lq)u%%</b>\n"
 "Transmit Power Level: %(tpl)u%% <i>(%(tpl_state)s)</i>"
 msgstr ""
-"<b>Verbunden</b>\n"
-"Signalstärke: %(rssi)u%% <i>(%(rssi_state)s)</i>\n"
-"<b>Verbindungsqualität: %(lq)u%%</b>\n"
-"Übertragungsstärke: %(tpl)u%% <i>(%(tpl_state)s)</i>"
 
 msgid ""
 "<b>Connected</b>\n"
@@ -103,10 +93,6 @@ msgid ""
 "Link Quality: %(lq)u%%\n"
 "<b>Transmit Power Level: %(tpl)u%%</b> <i>(%(tpl_state)s)</i>"
 msgstr ""
-"<b>Verbunden</b>\n"
-"Signalstärke: %(rssi)u%% <i>(%(rssi_state)s)</i>\n"
-"Verbindungsqualität: %(lq)u%%\n"
-"<b>Übertragungsstärke: %(tpl)u%%</b> <i>(%(tpl_state)s)</i>"
 
 msgid "<b>DUN Support</b>"
 msgstr "<b>DUN સપોર્ટ</b>"
@@ -118,17 +104,15 @@ msgid ""
 "<b>Deprecated</b>\n"
 "Makes DUN/PAN connections available for NetworkManager 0.7"
 msgstr ""
-"<b>abgelehnt</b>\n"
-"Mache DUN/PAN Verbindungen für NetzwerkManager 0.7 verfügbar"
 
 msgid "<b>Device added and connected successfuly</b>"
 msgstr "<b>ઉપકરણ ઉમેર્યું અને સફળતાપૂર્વક જોડ્યું છે</b>"
 
 msgid "<b>Device added successfuly, but failed to connect</b>"
-msgstr "<b>Gerät erfolgreich hinzugefügt, aber Verbindung fehlgeschlagen</b>"
+msgstr "<b>ઉપકરણ સફળ રીતે ઉમેરાઈ ગયું છે પણ જોડાણ કરવામાં નિષ્ફળ</b>"
 
 msgid "<b>Disconnect:</b>"
-msgstr "Trennen:"
+msgstr "જોડાણ નિષ્ક્રિય"
 
 msgid "<b>Downloaded:</b>"
 msgstr "<b>ડાઉનલોડેડ:</b>"
@@ -137,10 +121,10 @@ msgid "<b>Failed to add device</b>"
 msgstr "<b>ઉપકરણ ઉમેરવામાં નિષ્ફળ</b>"
 
 msgid "<b>File Receiving (Object Push)</b>"
-msgstr "<b>Datei empfangen (Object Push)</b>"
+msgstr ""
 
 msgid "<b>File Sharing (FTP)</b>"
-msgstr "<b>Dateifreigabe (FTP)</b>"
+msgstr "<b>ફાઈલ શેરીંગ(FTP)</b>"
 
 msgid "<b>File:</b>"
 msgstr "<b>ફાઈલ:</b>"
@@ -152,43 +136,40 @@ msgid "<b>GSM settings</b>"
 msgstr "<b>GSM સેટિંગ્સ</b>"
 
 msgid "<b>Log duration:</b>"
-msgstr "<b>Protokoll-Dauer:</b>"
+msgstr ""
 
 msgid "<b>Log started:</b>"
-msgstr "<b>Protokoll gestartet:</b>"
+msgstr ""
 
 msgid "<b>NAP Settings</b>"
-msgstr "<b>NAP-Einstellungen</b>"
+msgstr "<b>NAP-સેટીંગ્સ</b>"
 
 msgid "<b>Network Settings</b>"
 msgstr "<b>નેટવર્ક સેટિંગ્સ</b>"
 
 msgid "<b>No DHCP servers installed</b>"
-msgstr "<b>Keine DHCP-Server installiert</b>"
+msgstr "<b>DHCP સર્વર ઇન્સ્ટોલ થયેલ નથી</b>"
 
 msgid "<b>PAN Support</b>"
-msgstr "<b>PAN-Unterstützung</b>"
+msgstr "<b>PAN-સપોર્ટ</b>"
 
 msgid ""
 "<b>Pairing in progress...</b>\n"
 "\n"
 "Enter passkey <b>%s</b> on the device."
 msgstr ""
-"<b>Bekanntmachung läuft...</b>\n"
-"\n"
-"Passwort <b>%s</b> auf dem Gerät eingeben."
 
 msgid "<b>Please wait...</b>"
-msgstr "<b>Bitte warten...</b>"
+msgstr "<b>મહેરબાની કરીને શાંતિ રાખો...</b>"
 
 msgid "<b>Plugin description:</b>"
-msgstr "<b>Beschreibung der Erweiterung:</b>"
+msgstr "<b>પ્લગઇન વર્ણન:</b>"
 
 msgid "<b>Select pairing method to use:</b>"
-msgstr "<b>Kopplungs-Methode wählen:</b>"
+msgstr ""
 
 msgid "<b>Services</b>"
-msgstr "<b>Dienste</b>"
+msgstr "<b>સેવાઓ</b>"
 
 msgid "<b>To:</b>"
 msgstr "<b>ને:</b>"
@@ -197,131 +178,125 @@ msgid "<b>Total:</b>"
 msgstr "<b>કુલ:</b>"
 
 msgid "<b>Transfer Settings</b>"
-msgstr "<b>Übertragungseinstellungen</b>"
+msgstr "<b>પરિવહન સેટિંગ</b>"
 
 msgid "<b>Trusted and Bonded</b>"
-msgstr "<b>Vertrauenswürdig und gekoppelt</b>"
+msgstr ""
 
 msgid "<b>Trusted</b>"
-msgstr "Vertrauenswürdig"
+msgstr "વિશ્વાસુ"
 
 msgid "<b>Turn Bluetooth Off</b>"
-msgstr "<b>Bluetooth ausschalten</b>"
+msgstr "<b>બ્લુટુથ બંધ કરો</b>"
 
 msgid "<b>Turn Bluetooth On</b>"
-msgstr "<b>Bluetooth einschalten</b>"
+msgstr "<b>બ્લુટુથ ચાલુ કરો</b>"
 
 msgid "<b>Uploaded:</b>"
-msgstr "<b>Hochgeladen:</b>"
+msgstr "<b>અપલોડ થઇ ગયું:</b>"
 
 msgid "<b>Visibility Setting</b>"
-msgstr "<b>Sichtbarkeitseinstellung</b>"
+msgstr "<b>દૃશ્યતા સેટીંગ્સ</b>"
 
 msgid "<span weight=\"bold\" size=\"large\">Sending files via Bluetooth</span>"
 msgstr ""
-"<span weight=\"bold\" size=\"large\">Dateien über Bluetooth versenden</span>"
 
 msgid "A2DP Sink (Send Audio)"
-msgstr "A2DP lässt nach (sende Audio)"
+msgstr ""
 
 msgid "A2DP Source (Receive Audio)"
-msgstr "A2DP Quelle (Audioempfang)"
+msgstr ""
 
 msgid "APN:"
 msgstr "APN:"
 
 msgid "Accept"
-msgstr "Annehmen"
+msgstr "સ્વીકારો"
 
 msgid "Accept files from trusted devices"
-msgstr "Dateien von vertrauenswürdigen Geräten annehmen"
+msgstr "વિશ્વસનીય ઉપકરણોમાથી ફાઈલો સ્વીકારો"
 
 msgid "Adap_ters"
-msgstr "Adap_ter"
+msgstr "એડેપ્ટર"
 
 msgid "Adapter for this connection is not available"
-msgstr "Adapter für diese Verbindung ist nicht verfügbar"
+msgstr "આ જોડાણ માટે એડેપ્ટર પ્રાપ્ત નથી"
 
 msgid "Adapter selection"
-msgstr "Adapterauswahl"
+msgstr "એડેપ્ટર પસંદગી"
 
 msgid "Add"
 msgstr "ઉમેરો"
 
 msgid "Add Device"
-msgstr "Gerät hinzufügen"
+msgstr "ઉપકરણ ઉમેરો"
 
 msgid "Add this device to known devices list"
-msgstr "Dieses Gerät zur Liste der bekannten Geräte hinzufügen"
+msgstr "જાણીતી ઉપકરણ યાદીમાં ઉપકરણ ઉમેરો"
 
 msgid "Adding"
-msgstr "Hinzufügen"
+msgstr "ઉમેરાઈ રહ્યું છે"
 
 msgid ""
 "Advanced Audio receiver <span weight='bold' color='#cc0000'>Experimental!</"
 "span>"
 msgstr ""
-"Erweiterter Audio Empfänger <span weight='bold' "
-"color='#cc0000'>Experimentell!</span>"
 
 msgid "Allow devices to write/delete"
-msgstr "Geräten schreiben/lesen erlauben"
+msgstr "લખવા કે કાઢવા માટે ઉપકરણ ને મંજુરી આપો"
 
 msgid "Allows this computer to act like a handsfree headset."
-msgstr "Erlaube, diesen Computer wie eine Freisprecheinrichtung zu benutzen."
+msgstr ""
 
 msgid "Allows to receive audio from remote device"
-msgstr "Erlaube das Empfangen von Audio von einem entfernten Gerät"
+msgstr ""
 
 msgid "Allows to send audio to remote device"
-msgstr "Erlaube das Senden von Audio an entfernte Geräte"
+msgstr ""
 
 msgid ""
 "Allows you to monitor your (mobile broadband) network traffic usage. Useful "
 "for limited data access plans. This plugin tracks every device seperately."
 msgstr ""
-"Erlaube den Verbrauch deines (mobilen Breitbandes) Netzwerkes zu beobachten. "
-"Dies ist nützlich, wenn man den Datenzugriff beschränken will. Dieses Plugin "
-"zeigt jedes Gerät einzeln an."
 
 msgid "Already connected"
-msgstr "Schon verbunden"
+msgstr "ક્યારનાય જોડાયેલ છો"
 
 msgid "Always"
-msgstr "Immer"
+msgstr "હંમેશાં"
 
 msgid "Always accept"
-msgstr "Immer annehmen"
+msgstr "હંમેશાં સ્વીકારો"
 
 msgid "Always visible"
-msgstr "Immer sichtbar"
+msgstr "હંમેશાં દ્રશ્યમાન"
 
 msgid "Amount of time in seconds discoverable mode will last"
-msgstr "Zeitspanne (in Sekunden) die der Adapter sichtbar sein wird"
+msgstr ""
 
 msgid "Applet's transfer service plugin is disabled"
-msgstr "Das Plugin für den Datentransferservice ist deaktiviert"
+msgstr "એપ્લેટની ટ્રાન્સફર સેવા પ્લગઈન્સ નિષ્ક્રિય થઇ ગયેલ છે"
 
 msgid "Are you sure you want to reset the counter?"
-msgstr "Möchten Sie den Zähler wirklich zurücksetzen?"
+msgstr "શું તમે કાઉન્ટર રીસેટ કરવા ચોક્કસ છો?"
 
 msgid "Audio Sink"
-msgstr "Ton lässt nach"
+msgstr "ઓડિયો સીંક"
 
 msgid "Audio Source"
-msgstr "Audio-Quelle"
+msgstr "ઓડીયો સોર્સ"
 
 msgid "Authorization request for:"
-msgstr "Autorisierungsanfrage für:"
+msgstr ""
 
 msgid "Blueman Applet"
-msgstr "Blueman-Applet"
+msgstr "બ્લુંમેન એપ્લેટ"
 
 msgid "Blueman Bluetooth Manager"
-msgstr "Blueman Bluetooth-Manager"
+msgstr "બ્લુંમેન બ્લુટુથ મેનેજર"
 
 msgid "Blueman is a GTK based Bluetooth manager"
-msgstr "Blueman ist ein GTK-basierter Bluetooth-Manager"
+msgstr ""
 
 msgid "Bluetooth Active"
 msgstr "બ્લુટુથ સક્રિય"
@@ -366,95 +341,90 @@ msgid "Bluetooth Turned Off"
 msgstr "બ્લુટુથ બંધ છે"
 
 msgid "Bluetooth needs to be turned on for file sending to work"
-msgstr ""
-"Bluetooth muss eingeschaltet sein, damit Dateien verschickt werden können"
+msgstr "ફાઈલ મોકલવા બ્લુટુથ ચાલુ કરો"
 
 msgid "Bluetooth needs to be turned on for the adapter manager to work"
-msgstr ""
-"Bluetooth muss eingeschaltet sein, damit der Adapter-Manager funktioniert"
+msgstr "એડેપ્ટર મેનેજરને કાર્યરત કરવા બ્લુટુથ ચાલુ કરો"
 
 msgid "Bluetooth needs to be turned on for the device manager to function"
-msgstr ""
-"Bluetooth muss eingeschaltet sein, damit der Gerätemanager funktioniert"
+msgstr "ઉપકરણ મેનેજરને કાર્યરત કરવા બ્લુટુથ ચાલુ કરો"
 
 msgid "Browse"
-msgstr "Durchsuchen"
+msgstr ""
 
 msgid "Browse the device using obex ftp"
-msgstr "Gerät mittels obex ftp durchsuchen"
+msgstr ""
 
 msgid "Browse this device"
-msgstr "Gerät durchsuchen"
+msgstr ""
 
 msgid "CDMA or GSM not supported"
-msgstr "CDMA und GSM werden nicht unterstützt"
+msgstr "CDMA અને GSM સપોર્ટેડ નથી"
 
 msgid "Cancel Operation"
-msgstr "Vorgang abbrechen"
+msgstr "ઓપરેશન રદ કરો"
 
 msgid "Cancelled"
-msgstr "Abgebrochen"
+msgstr "રદ થઇ ગયું"
 
 msgid "Cancelling"
-msgstr "Abbruch"
+msgstr "રદ થઈ રહયુ છે"
 
 msgid "Changing Bluetooth system settings requires privileges"
-msgstr "Bluetooth-Systemeinstellungen zu ändern erfordert Privilegien"
+msgstr "બ્લુટુથ સેટીંગસ બદલવા વિશેષાધિકાર જરૂરી છે"
 
 msgid "Close"
 msgstr "બંધ કરો"
 
 msgid "Command"
-msgstr "Befehl"
+msgstr "કમાન્ડ"
 
 msgid "Command to execute when answer button is pressed:"
-msgstr "Auszuführender Befehl, wenn Rufannahmeknopf gedrückt wird:"
+msgstr "જયારે જવાબ બટન દબાવાય ત્યારે કમાન્ડ એક્ઝીક્યુટ કરો :"
 
 msgid ""
 "Command to start an obex ftp browser.\n"
 "<i>%d</i> is substituted with device address."
 msgstr ""
-"Befehl zum Starten eines OBEX FTP-Browsers.\n"
-"<i>%d</i> wird ersetzt durch die Geräteadresse."
 
 msgid "Configuration"
-msgstr "Einstellungen"
+msgstr "રૂપરેખાંકિત"
 
 msgid "Configure Bluetooth Modems"
-msgstr "Bluetooth-Modems konfigurieren"
+msgstr "બ્લુટુથ મોડેમ રૂપરેખાંકિત કરો"
 
 msgid "Configure Bluetooth Network"
-msgstr "Bluetooth-Netzwerk konfigurieren"
+msgstr "બ્લુટુથ નેટવર્ક રૂપરેખાંકિત કરો"
 
 msgid "Configure selected plugin's preferences"
-msgstr "Konfiguriere die Einstellungen des ausgewählten Plugins"
+msgstr "પસંદિત પ્લગઈન્સની અગ્રતા રૂપરેખાંકિત કરો"
 
 msgid "Configuring networking requires privileges"
 msgstr "Die Konfiguration des Netzwerkes erfordert Privilegien"
 
 msgid "Confirm"
-msgstr "Bestätigen"
+msgstr "પુષ્ટિ કરો"
 
 msgid "Confirm value"
-msgstr "Wert bestätigen"
+msgstr "વેલ્યુની પુષ્ટિ કરો"
 
 msgid "Confirm value for authentication:"
-msgstr "Wert zur Authentifizierung bestätigen:"
+msgstr ""
 
 msgid "Connected"
-msgstr "Verbunden"
+msgstr "જોડાણ થઇ ગયું છે"
 
 msgid "Connected to %s"
-msgstr "Verbunden mit %s"
+msgstr "%s ની સાથે જોડાણ થઇ ગયું છે"
 
 msgid "Connected:"
-msgstr "Verbunden:"
+msgstr "જોડાણ થઇ ગયું છે:"
 
 msgid "Connecting"
-msgstr "Verbinde"
+msgstr "જોડાણ થઇ રહ્યું છે"
 
 msgid "Connecting to %s"
-msgstr "Verbinde mit %s"
+msgstr "%s ની સાથે જોડાણ થઇ રહ્યું છે"
 
 msgid "Connecting..."
 msgstr "જોડાઈ રહ્યા છીએ..."
@@ -463,34 +433,34 @@ msgid "Connection Failed: "
 msgstr "જોડાણ નિષ્ફળ: "
 
 msgid "Connection to BlueZ failed"
-msgstr "Verbindung mit BlueZ fehlgeschlagen"
+msgstr "BlueZ સાથે જોડાણ નિષ્ફળ"
 
 msgid "Create pairing with the device"
-msgstr "Kopplung mit dem Gerät herstellen"
+msgstr ""
 
 msgid "DHCP server type:"
-msgstr "DHCP-Servertyp:"
+msgstr "DHCP-સર્વર ટાઈપ:"
 
 msgid "DUN connection on %s will now be available in Network Manager"
-msgstr "DUN Verbindung auf %s wird im Netzwerk-Manager verfügbar sein"
+msgstr ""
 
 msgid "Data activity indication"
-msgstr "Anzeige von Datenaktivität"
+msgstr ""
 
 msgid "Deny"
-msgstr "Verweigern"
+msgstr "રદ"
 
 msgid "Dependency issue"
-msgstr "Abhängigkeitsproblem"
+msgstr "આધારિત મુદાઓ"
 
 msgid "Device Manager"
 msgstr "ઉપકરણ મેનેજર"
 
 msgid "Device search progress"
-msgstr "Fortschritt der Gerätesuche"
+msgstr ""
 
 msgid "Dialup Networking (DUN)"
-msgstr "Einwahl-Netzwerk (DUN)"
+msgstr "ડાયલઅપ નેટવર્કીંગ(DUN)"
 
 msgid "Dialup Service"
 msgstr "ડાયલ-અપ સુવિધા"
@@ -499,16 +469,16 @@ msgid "Dialup Settings"
 msgstr "ડાયલ ઉપ સેટિંગ્સ"
 
 msgid "Disconnecting..."
-msgstr "Trenne ..."
+msgstr "જોડાણ રદ થઇ રહ્યું છે..."
 
 msgid "Discoverable timeout"
-msgstr "Feststellbarer Timeout"
+msgstr ""
 
 msgid "Discoverable... %ss"
-msgstr "Sichtbar... %ss"
+msgstr ""
 
 msgid "Don't connect"
-msgstr "Nicht verbinden"
+msgstr "જોડાણ ન કરો"
 
 msgid "ETA:"
 msgstr "ETA:"
@@ -517,434 +487,407 @@ msgid "Enable Bluetooth"
 msgstr "બ્લુટુથ સક્રિય કરો"
 
 msgid "Enable Routing (NAT)"
-msgstr "Routing (NAT) aktivieren"
+msgstr "રાઉટીંગ સક્રિય કરો(NAT) "
 
 msgid "Enabled"
 msgstr "સક્રિય"
 
 msgid "Enter PIN code"
-msgstr "PIN Code eingeben"
+msgstr "PIN કોડ નાખો"
 
 msgid "Enter PIN code for authentication:"
-msgstr "PIN Code zur Authentifzierung eingeben:"
+msgstr ""
 
 msgid "Enter passkey"
-msgstr "Passwort eingeben:"
+msgstr ""
 
 msgid "Enter passkey for authentication:"
-msgstr "Passwort zur Authentifizierung eingeben:"
+msgstr ""
 
 msgid "Error occurred"
-msgstr "Fehler aufgetreten"
+msgstr "ભૂલ આવી"
 
 msgid "Error occurred while sending file %s"
-msgstr "Fehler beim Senden von Datei %s aufgetreten"
+msgstr "%s ફાઈલ મોકલતી વખતે ભૂલ આવી"
 
 msgid "Fail"
-msgstr "Fehlschlagen"
+msgstr "નિષ્ફળ"
 
 msgid "Failed"
-msgstr "Gescheitert"
+msgstr "નિષ્ફળ ગયું"
 
 msgid "Failed to apply network settings"
-msgstr "Anwenden der Netzwerkeinstellungen gescheitert"
+msgstr ""
 
 msgid "Failed to connect"
-msgstr "Verbindung gescheitert"
+msgstr "જોડાણ કરવામાં નિષ્ફળ"
 
 msgid ""
 "Failed to initialize PulseAudio Bluetooth module. Bluetooth audio over "
 "PulseAudio will not work."
 msgstr ""
-"Fehler beim Initialisieren des PulseAudio Bluetooth-Moduls. Bluetooth Audio "
-"über PulseAudio wird nicht funktionieren."
 
 msgid "Failed to launch \"%s\""
-msgstr "Starten von \"%s\" fehlgeschlagen"
+msgstr "\"%s\" લોન્ચ કરવામાં નિષ્ફળ"
 
 msgid "Failed to obtain an IP address on %s"
-msgstr "Es schlug fehl eine IP Adresse von %s zu erhalten"
+msgstr "%s પર IP એડ્રેસ મેળવવામાં નિષ્ફળ "
 
 msgid "Failure"
-msgstr "Fehlgeschlagen"
+msgstr "નિષ્ફળતા"
 
 msgid "File %(0)s from %(1)s successfully received"
-msgstr "Datei %(0)s von %(1)s erfolgreich empfangen"
+msgstr ""
 
 msgid "File received"
-msgstr "Datei empfangen"
+msgstr "ફાઈલ મળી ગઈ"
 
 msgid "Files received"
-msgstr "Dateien empfangen"
+msgstr "ફાઈલો મળી ગઈ"
 
 msgid "GSM Settings"
-msgstr "GSM-Einstellungen"
+msgstr "GSM-સેટીંગસ"
 
 msgid "Get Help Online..."
-msgstr "Online Hilfe erhalten..."
+msgstr "ઓનલાઈન મદદ મેળવો..."
 
 msgid "Group Network"
-msgstr "Gruppennetzwerk"
+msgstr "ગ્રુપનેટવર્ક"
 
 msgid ""
 "Headset Emulation <span weight='bold' color='#cc0000'>Very Experimental!</"
 "span>"
 msgstr ""
-"Headset Emulation <span weight='bold' color='#cc0000'>Im hoch "
-"experimentellen Stadium!</span>"
 
 msgid "Headset Service"
-msgstr "Headset-Dienst"
+msgstr "હેડસેટ સેવા"
 
 msgid "Hidden"
-msgstr "Unsichtbar"
+msgstr "છુપાયેલ"
 
 msgid "High"
-msgstr "Hoch"
+msgstr "ઉચું"
 
 msgid "IP Address:"
-msgstr "IP-Adresse:"
+msgstr "IP-એડ્રેસ"
 
 msgid "Incoming file %(0)s from %(1)s"
-msgstr "Ankommende Datei %(0)s von %(1)s"
+msgstr ""
 
 msgid "Incoming file over Bluetooth"
-msgstr "Dateiempfang über Bluetooth"
+msgstr "બ્લુટુથ દ્વારા ફાઈલ આવ રહી છે"
 
 msgid "Input Service"
-msgstr "Eingabe-Dienst"
+msgstr "ઈનપુટ ઉપકરણ"
 
 msgid "Interface %(0)s bound to IP address %(1)s"
-msgstr "Schnittstelle %(0)s gebunden an IP-Adresse %(1)s"
+msgstr ""
 
 msgid "Latest Device First"
-msgstr "Letztes Gerät zuerst"
+msgstr "અદ્યતન ઉપકરણ આગળ"
 
 msgid "Latest Device Last"
-msgstr "Letztes Gerät zuletzt"
+msgstr "અદ્યતન ઉપકરણ પાચલ"
 
 msgid "Launch DHCP client"
-msgstr "Starte DHCP client"
+msgstr "DHCP કલાયંટ લોન્ચ કરો"
 
 msgid "Launching DHCP client requires privileges"
-msgstr "Um den DHCP-Client zu starten sind Zugriffsrechte erforderlich"
+msgstr ""
 
 msgid "Local Services"
-msgstr "Lokale Dienste"
+msgstr "લોકલ સેવા"
 
 msgid "Low"
-msgstr "Niedrig"
+msgstr "નીચું"
 
 msgid "Make the default adapter temporarily visible"
-msgstr "Mach den Standard-Adapter vorübergehend sichtbar"
+msgstr "મૂળભૂત એડેપ્ટર ટેમ્પરરી દ્રશ્યમાન રાખો"
 
 msgid "Manages local network services, like NAP bridges"
-msgstr "Verwaltet das lokale Netzwerk, wie z.B. NAP Brücken"
+msgstr ""
 
 msgid "Mark/Unmark this device as trusted"
-msgstr "Diesem Gerät vertrauen/nicht vertrauen"
+msgstr ""
 
 msgid "Maximum items"
-msgstr "Maximalanzahl"
+msgstr ""
 
 msgid "Modem Manager did not support the connection"
-msgstr "Modem-Manager unterstützt die Verbindung nicht"
+msgstr "અદ્યતન મેનેજર જોડાણ સપોર્ટ કરતુ નથી"
 
 msgid "More"
-msgstr "Mehr"
+msgstr "વધુ"
 
 msgid "Much"
-msgstr "Viel"
+msgstr "વધારે"
 
 msgid "Network"
-msgstr "Netzwerk"
+msgstr "નેટવર્ક"
 
 msgid "Network Access (%s)"
-msgstr "Netzwerkzugriff (%s)"
+msgstr "નેટવર્ક એક્સેસ(%s)"
 
 msgid "Network Access Point"
-msgstr "Network Access Point (NAP)"
+msgstr "નેટવર્ક એક્સેસ પોઈંટ(NAP)"
 
 msgid "Network Access Point (NAP)"
-msgstr "Network Access Point (NAP)"
+msgstr "નેટવર્ક એક્સેસ પોઈંટ(NAP)"
 
 msgid "Network Usage"
-msgstr "Netzwerk-Chronik"
+msgstr "નેટવર્ક વપરાશ"
 
 msgid "No adapters found"
-msgstr "Keine Adapter gefunden"
+msgstr "એડેપ્ટર મળ્યા નથી"
 
 msgid ""
 "No usage statistics are available yet. Try establishing a connection first "
 "and then check this page."
 msgstr ""
-"Es sind noch keine Benutzungsstatistiken verfügbar. Versuchen Sie zuerst "
-"eine Verbindung herzustellen und kehren Sie dann zu dieser Seite zurück."
 
 msgid "Not Connected"
-msgstr "Nicht verbunden"
+msgstr "જોડાયેલ નથી"
 
 msgid "Not currently supported with this setup"
-msgstr "Diese Konfiguration wird derzeit nicht unterstützt"
+msgstr "આ સેટઅપ સાથે સપોર્ટેડ નથી"
 
 msgid "Not specified"
-msgstr "Nicht angegeben"
+msgstr "સ્પષ્ટ નથી"
 
 msgid "Number:"
-msgstr "Nummer:"
+msgstr "નંબર:"
 
 msgid "Optimal"
-msgstr "Optimal"
+msgstr ""
 
 msgid "Pair"
-msgstr "Kopplung"
+msgstr "પેર"
 
 msgid "Pair with the device"
-msgstr "Mit Gerät koppeln"
+msgstr "ઉપકરણ સાથે પેર કરો"
 
 msgid "Pairing"
-msgstr "Koppelung"
+msgstr "પેર થઇ રહ્યું છે"
 
 msgid "Pairing request"
-msgstr "Kopplungsanfrage"
+msgstr "પેર વિનંતી"
 
 msgid "Pairing request for %s"
-msgstr "Bekanntmachungsanfrage von %s"
+msgstr "%s માટે પેર વિનંતી"
 
 msgid "Pairing request for device:"
-msgstr "Kopplungsanfrage von Gerät:"
+msgstr "ઉપકરણ માટે પેર વિનંતી:"
 
 msgid "Pairing request for:"
-msgstr "Kopplungsanfrage für:"
+msgstr "ની માટે પેર વિનંતી:"
 
 msgid "Pairing with: %s"
-msgstr "Kopplung mit: %s"
+msgstr "%s સાથે પેર વિનંતી:"
 
 msgid ""
 "Plugin <b>\"%(0)s\"</b> depends on <b>%(1)s</b>. Unloading <b>%(1)s</b> will "
 "also unload <b>\"%(0)s\"</b>.\n"
 "Proceed?"
 msgstr ""
-"Plugin <b>\"%(0)s\"</b> hängt von Plugin <b>%(1)s</b> ab. Deaktivieren von "
-"Plugin <b>%(1)s</b> wird auch das Plugin <b>\"%(0)s\"</b> deaktivieren.\n"
-"Fortfahren?"
 
 msgid ""
 "Plugin <b>%(0)s</b> conflicts with <b>%(1)s</b>. Loading <b>%(1)s</b> will "
 "unload <b>%(0)s</b>.\n"
 "Proceed?"
 msgstr ""
-"Erweiterung <b>%(0)s</b> steht im Konflikt mit <b>%(1)s</b>. Laden von <b>"
-"%(1)s</b> wird <b>%(0)s</b> deaktivieren.\n"
-"Fortfahren?"
 
 msgid "Plugins"
-msgstr "Plugins"
+msgstr "પ્લગઈન્સ"
 
 msgid "Poor"
-msgstr "Schwach"
+msgstr "નબળું"
 
 msgid "Proceed Without Pairing"
-msgstr "Ohne Kopplung fortfahren"
+msgstr "પેરીંગ વગર ક્રિયા"
 
 msgid "Provides DBus API for other Blueman components"
-msgstr "Stellt eine DBus-API für andere Blueman-Komponenten bereit"
+msgstr ""
 
 msgid "Provides OBEX file transfer capabilities"
-msgstr "Stellt OBEX Dateiübertragungs-Funktionen bereit"
+msgstr ""
 
 msgid ""
 "Provides a menu for the applet and an API for other plugins to manipulate it"
 msgstr ""
-"Stellt ein Menü für das Hilfsprogramm und anderen Erweiterungen eine API zum "
-"Verändern desselben zur Verfügung"
 
 msgid ""
 "Provides a menu item for making the default adapter temporarily visible when "
 "it is set to hidden by default"
 msgstr ""
-"Schafft einen Menüpunkt, der den Standard-Adapter temporär anzeigt, falls er "
-"auf „Versteckt“ geschaltet ist."
 
 msgid ""
 "Provides a menu item that contains last used connections for quick access"
 msgstr ""
-"Erstellt einen Menüpunkt, der die zuletzt verwendeten Verbindungen als "
-"Schnellzugriff bereithält"
 
 msgid "Provides basic support for connecting to the internet via DUN profile."
 msgstr ""
-"Stellt eine einfache Unterstützung für Verbindungen ins Internet über ein "
-"DUN-Profil bereit."
 
 msgid "Provides passkey, authentication services for BlueZ daemon"
 msgstr ""
-"Stellt den Passwort-Authentifizierungsdienst für den BlueZ-Daemon bereit"
 
 msgid ""
 "Provides support for Dial Up Networking (DUN) with ModemManager and "
 "NetworkManager 0.8"
 msgstr ""
-"Stellt Unterstützung für Dial-Up-Networking (DUN) mit dem Modem-Manager und "
-"dem Netzwerk-Manager 0.8 zur Verfügung"
 
 msgid ""
 "Provides support for Personal Area Networking (PAN) introduced in "
 "NetworkManager 0.8"
 msgstr ""
-"Stellt Unterstützung für Personal-Area-Networking (PAN), welches im Netzwerk-"
-"Manager 0.8 integriert ist, zur Verfügung"
 
 msgid "Received %d file in the background"
 msgid_plural "Received %d files in the background"
-msgstr[0] "%d Datei im Hintergrund empfangen"
-msgstr[1] "%d Dateien im Hintergrund empfangen"
+msgstr[0] "%d ફાઈલ બેકગ્રાઉન્ડમાં મળી ગઈ"
+msgstr[1] "%d ફાઈલ્સ બેકગ્રાઉન્ડમાં મળી ગઈ"
 
 msgid "Received %d more file in the background"
 msgid_plural "Received %d more files in the background"
-msgstr[0] "weitere %d Datei im Hintergrund empfangen"
-msgstr[1] "weitere %d Dateien im Hintergrund empfangen"
+msgstr[0] "વધારાની %d  ફાઈલ બેકગ્રાઉન્ડમાં મળી ગઈ"
+msgstr[1] "વધારાની %d  ફાઈલ્સ બેકગ્રાઉન્ડમાં મળી ગઈ"
 
 msgid "Receiving file"
-msgstr "empfange Datei"
+msgstr "ફાઈલ મળી રહી છે"
 
 msgid "Receiving file %(0)s from %(1)s"
-msgstr "Empfange Datei %(0)s von %(1)s"
+msgstr ""
 
 msgid "Recent Connections"
-msgstr "Letzte Verbindungen"
+msgstr "હાલના જોડાણો"
 
 msgid "Recommended"
-msgstr "Empfohlen"
+msgstr "જરૂરી"
 
 msgid "Refresh Services"
-msgstr "Dienste aktualisieren"
+msgstr "સેવાઓ રીફ્રેશ કરો"
 
 msgid "Refreshing"
-msgstr "Aktualisieren"
+msgstr "રીફ્રેશ થઇ રહ્યું છે"
 
 msgid "Refreshing Services..."
-msgstr "Aktualisiere Dienste..."
+msgstr "સેવાઓ રીફ્રેશ થઇ રહી છે..."
 
 msgid "Reject"
-msgstr "Ablehnen"
+msgstr "રદ"
 
 msgid "Remove"
-msgstr "Entfernen"
+msgstr "કાઢી નાખો"
 
 msgid "Remove this device from the known devices list"
-msgstr "Dieses Gerät von der Liste der bekannten Geräte entfernen"
+msgstr "જાણીતા ઉપકરણોની યાદીમાંથી આ ઉપકરણને કાઢી નાખો"
 
 msgid "Remove..."
-msgstr "Entfernen..."
+msgstr "કાઢી નાખો..."
 
 msgid "Renew IP Address"
-msgstr "IP-Adresse erneuern"
+msgstr "IP-એડ્રેસ રીન્યુ કરો"
 
 msgid "Report a Problem"
-msgstr "Einen Fehler melden"
+msgstr "તૃટી જણાવો"
 
 msgid "Reset"
-msgstr "Zurücksetzen"
+msgstr "રીસેટ કરો"
 
 msgid "Retry"
-msgstr "Erneut versuchen"
+msgstr "ફરી પ્રયત્ન કરો"
 
 msgid "Run the setup assistant for this device"
-msgstr "Den Einrichtungsassistenten für dieses Gerät aufrufen"
+msgstr "આ ઉપકરણ માટે સેટઅપ આસીસ્ટન્ટ ચલાવો"
 
 msgid "Runs a command when answer button is pressed on a headset"
 msgstr ""
-"Führt einen Befehl aus, wenn der Abheben-Knopf an einem Headset gedrückt wird"
 
 msgid "Search"
-msgstr "Suche"
+msgstr "શોધો"
 
 msgid "Search for devices"
-msgstr "Gerätesuche"
+msgstr "ઉપકરણ શોધો"
 
 msgid "Search for nearby devices"
-msgstr "Suche nach Geräten in der Nähe"
+msgstr "નજીકના ઉપકરણ માટે શોધ કરો"
 
 msgid "Searching"
-msgstr "Suche"
+msgstr "શોધી રહ્યું છે"
 
 msgid "Select Device"
-msgstr "Gerät auswählen"
+msgstr "ઉપકરણ પસંદ કરો"
 
 msgid "Select Shared/Storage folder"
-msgstr "Wähle Freigabe/Speicher-Ordner"
+msgstr ""
 
 msgid "Select files to send"
-msgstr "Dateien zum Senden auswählen"
+msgstr "મોકલવા ફાઈલ પસંદ કરો"
 
 msgid "Send File"
-msgstr "Datei senden"
+msgstr "ફાઈલ મોકલો"
 
 msgid "Send a File..."
-msgstr "Datei senden..."
+msgstr "ફાઈલ મોકલો..."
 
 msgid "Send file(s) to the device"
-msgstr "Dateien zum Gerät senden"
+msgstr "ઉપકરણને ફાઈલ્સ મોકલો"
 
 msgid "Send files to this device"
-msgstr "Sende Datei zu diesem Gerät"
+msgstr "આ ઉપકરણને ફાઈલ્સ મોકલો"
 
 msgid "Sending File"
-msgstr "Sende Datei"
+msgstr "ફાઈલ મોકલી રહ્યું છે"
 
 msgid "Serial Port %s"
-msgstr "Serielle Schnittstelle %s"
+msgstr "સીરીયલ પોર્ટ%s"
 
 msgid "Serial Ports"
-msgstr "Serielle Anschlüsse"
+msgstr "સીરીયલ પોર્ટસ"
 
 msgid "Serial Service"
-msgstr "Serieller Dienst"
+msgstr "સીરીયલ ઉપકરણ"
 
 msgid "Serial port connected"
-msgstr "Serielle Schnittstelle verbunden"
+msgstr "સીરીયલ પોર્ટ જોડાઈ ગયું"
 
 msgid "Serial port connected to %s"
-msgstr "Serieller Anschluß verbunden mit %s"
+msgstr "%s સાથે સીરીયલ પોર્ટ જોડાઈ ગયું"
 
 msgid ""
 "Serial port service on device <b>%s</b> now will be available via <b>%s</b>"
 msgstr ""
-"Serielle Schnittstelle auf Gerät <b>%s</b> ist nun verfügbar durch <b>%s</b>."
 
 msgid "Service"
-msgstr "Dienst"
+msgstr "સેવા"
 
 msgid "Service:"
-msgstr "Dienst:"
+msgstr "સેવા:"
 
 msgid "Setup..."
-msgstr "Einrichten…"
+msgstr "સેટઅપ…"
 
 msgid "Shared Folder:"
-msgstr "Freigabe-Ordner:"
+msgstr ""
 
 msgid "Show Statusbar"
-msgstr "Statusleiste anzeigen"
+msgstr "સ્ટેટસબાર બતાઓ"
 
 msgid "Show Toolbar"
-msgstr "Werkzeugleiste anzeigen"
+msgstr "ટુલબાર બતાઓ"
 
 msgid "Show input"
-msgstr "Eingabe anzeigen"
+msgstr "ઈનપુટ બતાઓ"
 
 msgid "Shows network traffic usage"
-msgstr "Zeigt Netzwerk-Chronik"
+msgstr "નેટવર્ક ટ્રાફિક વપરાશ બતાઓ"
 
 msgid "Skip"
-msgstr "Überspringen"
+msgstr "અવગણો"
 
 msgid "Start configuration assistant for this device"
-msgstr "Starte Konfigurationsassistent für dieses Gerät"
+msgstr ""
 
 msgid "Starting Adapter Preferences"
-msgstr "Starte Adapter-Voreinstellungen"
+msgstr "એડેપ્ટર અગ્રતા ચાલુ થઇ રહ્યું છે"
 
 msgid "Starting Bluetooth Assistant"
 msgstr "બ્લુટુથ સહાયક ચાલુ કરી રહ્યા છીએ"
@@ -962,7 +905,7 @@ msgid "Starting Service Preferences"
 msgstr "સુવિધા "
 
 msgid "Sub-optimal"
-msgstr "Nicht optimal"
+msgstr ""
 
 msgid "Success"
 msgstr "સફળ"
@@ -974,238 +917,197 @@ msgid ""
 "Successfully connected to <b>DUN</b> service on <b>%(0)s.</b>\n"
 "Network is now available through <b>%(1)s</b>"
 msgstr ""
-"Verbindung zum <b>DUN</b>-Dienst auf <b>%(0)s</b> hergestellt.\n"
-"Netzwerk ist nun erreichbar durch <b>%(1)s</b>"
 
 msgid ""
 "Successfully connected to a Bluetooth audio device. This device will now be "
 "available in the PulseAudio mixer"
 msgstr ""
-"Verbindung zum Bluetooth-Audiogerät erfolgreich hergestellt. Dieses Gerät "
-"ist nun im PulseAudio-Lautstärkeregler verfügbar."
 
 msgid "System policy prevents modifying the configuration"
-msgstr "Systemrichtlinie verhindert die Veränderung der Konfiguration"
+msgstr ""
 
 msgid "Temporarily visible"
-msgstr "Vorübergehend sichtbar"
+msgstr "કામચલાઉ દૃશ્યમાન"
 
 msgid "The Blueman Project"
-msgstr "Das Blueman-Projekt"
+msgstr "બ્લુંમેન પ્રોજેક્ટ"
 
 msgid ""
 "The device %s does not appear to support GSM/CDMA.\n"
 "This connection will not work."
 msgstr ""
-"Das Gerät %s scheint GSM/CDMA nicht zu unterstützen.\n"
-"Diese Verbindung wird nicht funktionieren."
+"ઉપકરણ %s GSM/CDMA દ્વારા સપોર્ટેડ નથી.\n"
+"જોડાણ કામ નહિ કરે."
 
 msgid "The maximum number of items recent connections menu will display."
-msgstr "Die maximale Anzahl der letzten Verbindungen wird angezeigt."
+msgstr ""
 
 msgid "Too much"
-msgstr "Zu viel"
+msgstr "વધારે પડતું"
 
 msgid "Total data received and rate of transmission"
-msgstr "Gesamte empfangene Daten und Übertragungsrate"
+msgstr ""
 
 msgid "Total data sent and rate of transmission"
-msgstr "Gesamte versendete Daten und Übertragungsrate"
+msgstr ""
 
 msgid "Traffic statistics"
-msgstr "Übertragungsstatistiken"
+msgstr ""
 
 msgid "Transfer"
-msgstr "Übertragung"
+msgstr "ટ્રાન્સફર કરો"
 
 msgid "Transfer failed"
-msgstr "Übertragung fehlgeschlagen"
+msgstr "ટ્રાન્સફર નિષ્ફળ"
 
 msgid "Transfer of file %(0)s failed"
-msgstr "Transfer der Datei %(0)s fehlgeschlagen"
+msgstr " %(0)s  ફાઈલની ટ્રાન્સફર નિષ્ફળ"
 
 msgid "Translate This Application..."
-msgstr "Diese Anwendung übersetzen..."
+msgstr "આ એપ્લીકેશનને રૂપાંતરિત કરો..."
 
 msgid "Trust"
-msgstr "Vertrauen"
+msgstr "વિશ્વાસ"
 
 msgid ""
 "Trying to obtain an IP address on %s\n"
 "Please wait..."
 msgstr ""
-"Versuche eine IP Adresse von %s zu erhalten\n"
-"Bitte warten..."
+"%s પર IP એડ્રેસ મેળવી રહ્યું છે\n"
+"મહેરબાની કરીને શાંતિ રાખો..."
 
 msgid "Turn off all adapters"
-msgstr "Alle Adapter ausschalten"
+msgstr "બધા એડેપ્ટર બંધ કરો"
 
 msgid "Turn on all adapters"
-msgstr "Alle Adapter einschalten"
+msgstr "બધા એડેપ્ટર ચાલુ કરો"
 
 msgid "Unknown"
-msgstr "Unbekannt"
+msgstr "અજાણ્યું"
 
 msgid "Unspecified"
-msgstr "Nicht festgelegt"
+msgstr "જણાવેલ નથી"
 
 msgid "Untrust"
-msgstr "Nicht vertrauenswürdig"
+msgstr ""
 
 msgid "Use Custom Passkey:"
-msgstr "Eigenes Passwort verwenden:"
+msgstr ""
 
 msgid "Use Random Passkey"
-msgstr "Zufälliges Passwort verwenden"
+msgstr ""
 
 msgid "Very High"
-msgstr "Sehr hoch"
+msgstr "ખુબ ઉચું"
 
 msgid "You can enter an alternate browser in service settings"
 msgstr ""
-"Sie können in den Dienste-Einstellungen einen alternativen Browser eintragen."
 
 msgid ""
 "You might not be able to connect to the Bluetooth network via this machine"
-msgstr ""
-"Sie können sich möglicherweise nicht von diesem Rechner aus mit dem "
-"Bluetooth-Netzwerk verbinden"
+msgstr "આ મશીન દ્વારા કદાચ તમેબ્લુટુથ મેનેજર સાથે જોડાઈ શકશો નહિ"
 
 msgid "_Adapter"
-msgstr "_Adapter"
+msgstr "_એડેપ્ટર"
 
 msgid "_Device"
-msgstr "_Gerät"
+msgstr "_ઉપકરણ"
 
 msgid "_Devices"
-msgstr "_Geräte"
+msgstr "_ઉપકરણો"
 
 msgid "_Help"
-msgstr "_Hilfe"
+msgstr "_મદદ"
 
 msgid "_Local Services"
-msgstr "_Lokale Dienste"
+msgstr "_સામાન્ય સેવાઓ"
 
 msgid "_Make Discoverable"
-msgstr "_Erkennbar machen"
+msgstr ""
 
 msgid "_Plugins"
-msgstr "_Erweiterungen"
+msgstr "_પ્લગઈન્સ"
 
 msgid "_View"
-msgstr "_Ansicht"
+msgstr "_જુઓ"
 
 msgid "applet"
-msgstr "Applet"
+msgstr "એપ્લેટ"
 
 msgid "cellular"
-msgstr "Mobiltelefon"
+msgstr "સેલ્યુલર"
 
 msgid "cordless"
-msgstr "Drahtlosgerät"
+msgstr "કોર્ડલેસ"
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] "Tag"
-msgstr[1] "Tage"
+msgstr[0] "દિવસ"
+msgstr[1] "દિવસો"
 
 msgid "desktop"
-msgstr "Desktop"
+msgstr "ડેસ્કટોપ"
 
 msgid "gtk-close"
-msgstr "gtk-close"
+msgstr "gtk-બંધ"
 
 msgid "handheld"
-msgstr "Handheld"
+msgstr ""
 
 msgid "handsfree"
-msgstr "Freisprecheinrichtung"
+msgstr ""
 
 msgid "headset"
-msgstr "Headset"
+msgstr "હેડસેટ"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] "Stunde"
-msgstr[1] "Stunden"
+msgstr[0] "કલાક"
+msgstr[1] "કલાકો"
 
 msgid "isdn"
-msgstr "ISDN-Gerät"
+msgstr "ISDN"
 
 msgid "keyboard"
-msgstr "Tastatur"
+msgstr "કીબોર્ડ"
 
 msgid "laptop"
-msgstr "Laptop"
+msgstr "લેપટોપ"
 
 msgid "microphone"
-msgstr "Mikrofon"
+msgstr "માઈક્રોફોન"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] "Minute"
-msgstr[1] "Minuten"
+msgstr[0] "મિનીટ"
+msgstr[1] "મીનીટો"
 
 msgid "modem"
-msgstr "Modem"
+msgstr "અદ્યતન"
 
 msgid "obex-data-server is probably not installed"
-msgstr "OBEX-Data-Server ist möglicherweise nicht installiert"
+msgstr ""
 
 msgid "obex-data-server not available"
-msgstr "OBEX-Data-Server nicht verfügbar"
+msgstr ""
 
 msgid "palm"
-msgstr "Palm"
+msgstr ""
 
 msgid "pointing"
-msgstr "Zeigegerät"
+msgstr ""
 
 msgid "server"
-msgstr "Server"
+msgstr "સર્વર"
 
 msgid "smart phone"
-msgstr "Smartphone"
+msgstr "સ્માર્ટફોન"
 
 msgid "translator-credits"
 msgstr ""
-"Launchpad Contributions:\n"
-"  Andreas Kohlbach https://launchpad.net/~ank\n"
-"  Bernhard Gehl https://launchpad.net/~bernhard-gehl\n"
-"  Felix Möller https://launchpad.net/~felix-derklecks\n"
-"  Jochen Kemnade https://launchpad.net/~jochenkemnade\n"
-"  JonasL https://launchpad.net/~jonas-lieb\n"
-"  Julian Jacques Maurer https://launchpad.net/~mail-julianjmaurer\n"
-"  Julian Rother https://launchpad.net/~julian-sda\n"
-"  Keruskerfuerst https://launchpad.net/~arminmohring\n"
-"  MarcusLS https://launchpad.net/~marcusls\n"
-"  Mark Stuppacher https://launchpad.net/~mark-happynet\n"
-"  Martin Lettner https://launchpad.net/~m.lettner\n"
-"  MixCool https://launchpad.net/~mixcool\n"
-"  MyUser https://launchpad.net/~myuser\n"
-"  Nils https://launchpad.net/~nilswoetzel\n"
-"  Patrick Eigensatz https://launchpad.net/~p.eigensatz\n"
-"  Patrick Schaake https://launchpad.net/~patrick-schaake\n"
-"  Peter Altherr https://launchpad.net/~peter-altherr\n"
-"  Sekhmet https://launchpad.net/~sekhmet\n"
-"  Severin Heiniger https://launchpad.net/~lantash\n"
-"  Steve M. https://launchpad.net/~steve-m\n"
-"  Tobias Duehr https://launchpad.net/~mrbordello\n"
-"  Ubert Shok https://launchpad.net/~ushok\n"
-"  Vinzenz Vietzke https://launchpad.net/~v1nz\n"
-"  Waldemar R. https://launchpad.net/~lux5\n"
-"  ahsamuel https://launchpad.net/~samuel-orsenne\n"
-"  axoin https://launchpad.net/~schrott4711\n"
-"  benste https://launchpad.net/~benste\n"
-"  dauerbaustelle https://launchpad.net/~dauerbaustelle\n"
-"  dominik langer https://launchpad.net/~dominiklanger\n"
-"  meru https://launchpad.net/~merualhemio\n"
-"  mx82 https://launchpad.net/~mx82\n"
-"  tim♡mint https://launchpad.net/~tim.h.s\n"
-"  tofro https://launchpad.net/~tobias-froeschle"
 
 msgid "uncategorized"
-msgstr "Sonstige"
+msgstr "અવર્ગીકૃત"
 
 msgid "unknown"
-msgstr "Unbekannt"
+msgstr "અજાણ્યું"
