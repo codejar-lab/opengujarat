@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: thunar-archive-plugin 0.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-23 17:57+0100\n"
+"PO-Revision-Date: 2007-12-01 18:38+0000\n"
+"Last-Translator: Fabian Nowak <timystery@arcor.de>\n"
+"Language-Team: German <xfce-i18n@xfce.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Cr_eate Archive..."
+msgstr "A_rchiv erstellen"
+
+msgid "Create an archive with the selected object"
+msgid_plural "Create an archive with the selected objects"
+msgstr[0] "Ein Archiv mit der ausgewählte Datei erstellen"
+msgstr[1] "Ein Archiv mit den ausgewählten Dateien erstellen"
+
+msgid "Extract _Here"
+msgstr "_Hier entpacken"
+
+msgid "Extract the selected archive"
+msgid_plural "Extract the selected archives"
+msgstr[0] "Das ausgewählte Archiv entpacken"
+msgstr[1] "Die ausgewählten Archive entpacken"
+
+msgid "Extract the selected archive here"
+msgid_plural "Extract the selected archives here"
+msgstr[0] "Das ausgewählte Archiv hierher entpacken"
+msgstr[1] "Die ausgewählten Archive hierher entpacken"
+
+msgid "Extract the selected archive in the current folder"
+msgid_plural "Extract the selected archives in the current folder"
+msgstr[0] "Das ausgewählte Archiv ins aktuelle Verzeichnis entpacken"
+msgstr[1] "Die ausgewählten Archive ins aktuelle Verzeichnis entpacken"
+
+msgid "Failed to create archive"
+msgstr "Archiv konnte nicht erstellt werden"
+
+msgid "Failed to extract files"
+msgstr "Dateien konnten nicht entpackt werden"
+
+msgid "No suitable archive manager found"
+msgstr "Kein unterstützter Archivmanager gefunden"
+
+msgid ""
+"Please select your preferred archive manager\n"
+"from the list of available applications below:"
+msgstr ""
+"Wählen Sie Ihren bevorzugten Archivmanager\n"
+"aus der folgenden Liste von Anwendungen:"
+
+msgid "Select an archive manager"
+msgstr "Archivmanager auswählen"
+
+msgid "_Extract To..."
+msgstr "Entpacken _nach..."
+
+msgid "_Extract here"
+msgstr "Hierher _entpacken"
