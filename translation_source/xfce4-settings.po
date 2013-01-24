@@ -1,0 +1,1039 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xfce4-settings 0.0.1-svn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-16 17:16+0100\n"
+"PO-Revision-Date: 2013-01-24 15:37+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
+"Language-Team: German <xfce-i18n-de@xfce.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "%.1f Hz"
+msgstr "%.1f Hz"
+
+msgid "%g ms"
+msgstr "%g ms"
+
+msgid "%g px"
+msgstr "%g Pixel"
+
+msgid ""
+"%s: %s\n"
+"Try %s --help to see a full list of available command line options.\n"
+msgstr ""
+
+msgid "<big><b>Would you like to keep this configuration?</b></big>"
+msgstr "<big><b>શું તમે આ રૂપરેખા રાખવા માગો છો?</b></big>"
+
+msgid "ATI Settings"
+msgstr "ATI સેટીંગસ"
+
+msgid "A_pplication Shortcuts"
+msgstr "એપ્લીકેશન શોર્ટકટસ"
+
+msgid "Acceleration _profile:"
+msgstr ""
+
+msgid "Acceleration _time:"
+msgstr ""
+
+msgid "Acceptance _delay:"
+msgstr ""
+
+msgid "Accessibility"
+msgstr "સુલભતા"
+
+msgid "Active device in the dialog"
+msgstr "ડાયલોગમાં ઉપકરણ સક્રિય કરો"
+
+msgid "All Files"
+msgstr "બધી ફાઈલો"
+
+msgid "An unknown error, exit code is %d"
+msgstr ""
+
+msgid ""
+"Anti-aliasing, or font smoothing, can improve the look of text on the screen"
+msgstr ""
+
+msgid "Appearance"
+msgstr "દેખાવ"
+
+msgid "Appli_cation Shortcuts"
+msgstr "એપ્લીકેશન શોર્ટકટસ"
+
+msgid "Are you sure you want to reset channel \"%s\" and all its properties?"
+msgstr "શું તમે ચેનલ ને રીસેટ કરવા માટે ચોક્કસ છો »%s« અને તેના બધા ગુણધર્મો?"
+
+msgid "Are you sure you want to reset property \"%s\"?"
+msgstr "શું તમે બધા ગુણધર્મો રીસેટ કરવા માટે ચોક્કસ છો?"
+
+msgid ""
+"Assistive technologies will be available the\n"
+"next time you login"
+msgstr ""
+
+msgid "BGR"
+msgstr "BGR"
+
+msgid "Be_havior"
+msgstr "વર્તન"
+
+msgid "Blink _delay:"
+msgstr "બ્લીંક_વિલંબ"
+
+msgid "Boolean"
+msgstr "બુલિયન"
+
+msgid "Both"
+msgstr "બંને"
+
+msgid "Both Horizontal"
+msgstr "બંને આડા"
+
+msgid "Both displays cloned"
+msgstr ""
+
+msgid "Bounce Keys"
+msgstr "બાઉન્સ કી"
+
+msgid "Bounce keys"
+msgstr "બાઉન્સ કી"
+
+msgid "Bounce keys are disabled"
+msgstr "બાઉન્સ કી નિષ્ક્રિય"
+
+msgid "Bounce keys are enabled"
+msgstr "બાઉન્સ કી સક્રિય"
+
+msgid "Button Order"
+msgstr ""
+
+msgid "Buttons"
+msgstr "બટન્સ"
+
+msgid "Channel"
+msgstr "ચેનલ"
+
+msgid "Clockwise"
+msgstr "ઘડિયાળની દિશામાં"
+
+msgid "Command"
+msgstr "કમાન્ડ"
+
+msgid "Command:"
+msgstr "કમાન્ડ:"
+
+msgid "Configure keyboard and mouse accessibility"
+msgstr "કીબોર્ડ અને માઉસની સુલભતા રૂપરેખાંકિત કરો"
+
+msgid "Configure pointer device behavior and appearance"
+msgstr ""
+
+msgid "Configure screen settings and layout"
+msgstr "સ્ક્રીન સેટીંગ અને લે-આઉટ રૂપરેખાંકિત કરો"
+
+msgid "Confirmation"
+msgstr "યથાયોગ્ય"
+
+msgid "Could not create the settings dialog."
+msgstr "સેટીંગ ડાયલોગ બની શક્યો નથી"
+
+msgid "Counterclockwise"
+msgstr "ઘડિયાળની વિરુધ્ધ દિશામાં"
+
+msgid "Cursor"
+msgstr "કર્સર"
+
+msgid "Cursor _Size:"
+msgstr "કર્સર કદ:"
+
+msgid "Cursor _size:"
+msgstr "કર્સર કદ:"
+
+msgid "Custom _DPI setting:"
+msgstr "કસ્ટમ_DPI સેટીંગ:"
+
+msgid "Customize settings stored by Xfconf"
+msgstr ""
+
+msgid "Customize the look of your desktop"
+msgstr "ડેસ્કટોપનો દેખાવ કસ્ટમાઈઝ કરો"
+
+msgid "Customize your desktop"
+msgstr "ડેસ્કટોપ કસ્ટમાઈઝ કરો"
+
+msgid "DEVICE NAME"
+msgstr "ઉપકરણનું નામ "
+
+msgid "DPI"
+msgstr "DPI"
+
+msgid "D_istance:"
+msgstr "_અંતર:"
+
+msgid "De_vice:"
+msgstr "_ઉપકરણ:"
+
+msgid "De_vices"
+msgstr "_ઉપકરણો:"
+
+msgid "Default"
+msgstr "મૂળભૂત"
+
+msgid "Default Fon_t"
+msgstr "મૂળભૂત ફોન્ટ"
+
+msgid "Define _shortcuts for launching applications:"
+msgstr "એપ્લીકેશન લોન્ચ કરવા શોર્ટકટસનું નિરૂપણ કરો:"
+
+msgid "Di_sabled"
+msgstr "નિષ્ક્રિય"
+
+msgid "Digital display"
+msgstr "ડીજીટલ ડિસ્પ્લે"
+
+msgid "Disable sticky keys if _two keys are pressed"
+msgstr "જો બે કી દબાવી હોય તો સ્ટીકી કી નિષ્ક્રિય કરો"
+
+msgid "Disable to_uchpad while typing"
+msgstr ""
+
+msgid "Display"
+msgstr "દેખાવ"
+
+msgid "Display settings"
+msgstr "સેટીંગસ બતાવો"
+
+msgid "Do not fork to the background"
+msgstr ""
+
+msgid "Double"
+msgstr "<b>બે</b>"
+
+msgid "Double Click"
+msgstr "બે વખત ક્લિક કરો"
+
+msgid "Drag and Drop"
+msgstr "ખસેડો અને છોડી ડો"
+
+msgid "Edge scro_lling"
+msgstr ""
+
+msgid "Edit Property"
+msgstr "ગુણધર્મો એડીટ કરો"
+
+msgid "Edit keyboard settings and application shortcuts"
+msgstr "કીબોર્ડ સેટિંગ્સ અને એપ્લિકેશન શૉર્ટકટ્સ સંપાદિત કરો"
+
+msgid "Edit property"
+msgstr "ગુણધર્મો એડીટ કરો"
+
+msgid "Empty"
+msgstr "ખાલી"
+
+msgid "Enable _anti-aliasing"
+msgstr ""
+
+msgid "Enable _event sounds"
+msgstr ""
+
+msgid "Enable e_ditable accelerators"
+msgstr ""
+
+msgid "Enable hori_zontal scrolling"
+msgstr "આડું સ્ક્રોલીંગ સક્રિય કરો"
+
+msgid "Enable i_nput feedback sounds"
+msgstr "ઈનપુટ ફીડબેક અવાજ સક્રિય કરો"
+
+msgid "Enable or disable event sounds globally (requires \"Canberra\" support)"
+msgstr ""
+
+msgid "Enabled"
+msgstr "સક્રિય થઇ ગયું"
+
+msgid "Event sounds"
+msgstr ""
+
+msgid "Executable Files"
+msgstr "રન કરી શકાય તેવી ફાઈલો"
+
+msgid "Failed to connect to xfconf daemon. Reason: %s"
+msgstr "xconf ડેમોન સાથે જોડાણ નિષ્ફળ. કારણ: %s"
+
+msgid "Failed to create temporary directory"
+msgstr "કામચલાઉ ડિરેક્ટરી બનાવવામાં નિષ્ફળ"
+
+msgid "Failed to extract archive"
+msgstr ""
+
+msgid "Failed to install theme"
+msgstr ""
+
+msgid "Failed to launch shortcut \"%s\""
+msgstr "શોર્ટકટ લોન્ચ કરવામાં નિષ્ફળ »%s« "
+
+msgid "Failed to open the documentation"
+msgstr "દસ્તાવેજ ખોલવામાં નિષ્ફળ"
+
+msgid "Feedback"
+msgstr "ફીડબેક"
+
+msgid "File is larger then %d MB, installation aborted"
+msgstr "ફાઈલ %d MB કર્તા મોટી છે,ઇન્સ્ટોલેશન રદ થયેલ છે"
+
+msgid ""
+"Font quality on a TFT or LCD screen can be greatly improved by choosing the "
+"correct sub-pixel order of the screen"
+msgstr ""
+
+msgid "Full"
+msgstr "સંપૂર્ણ"
+
+msgid "General"
+msgstr "સામાન્ય"
+
+msgid "Graphical Settings Manager for Xfce 4"
+msgstr "Xfce 4 માટે ગ્રાફિકલ સેટીંગ મેનેજર"
+
+msgid "Graphical settings editor for Xfconf"
+msgstr "Xfconf માટે ગ્રાફિકલ સેટીંગ મેનેજર"
+
+msgid "Half (left-handed)"
+msgstr "અડધું (ડાબી બાજુએથી)"
+
+msgid "Horizontal"
+msgstr "આડું"
+
+msgid "Icons"
+msgstr "આઈકોન્સ"
+
+msgid ""
+"If enabled, the session manager will start the required applications for "
+"screen readers and magnifiers"
+msgstr ""
+
+msgid ""
+"If selected, keyboard shortcuts for menu items can be changed by hovering "
+"the mouse over the menu item and pressing the new key combination for the "
+"shortcut"
+msgstr ""
+
+msgid "Improve keyboard and mouse accessibility"
+msgstr "કીબોર્ડ અને માઉસ સુલભતા સુધારો"
+
+msgid "Int"
+msgstr "Int"
+
+msgid "Int64"
+msgstr "Int64"
+
+msgid "Inverted"
+msgstr ""
+
+msgid "K_eystroke delay:"
+msgstr "કીસ્ટ્રોક વિલંબ:"
+
+msgid "Keep this configuration"
+msgstr ""
+
+msgid "Keyboa_rd"
+msgstr "_કીબોર્ડ"
+
+msgid "Keyboard"
+msgstr "કીબોર્ડ"
+
+msgid "Keyboard layout"
+msgstr "કીબોર્ડ ગોઠવણી"
+
+msgid "Keyboard layout selection"
+msgstr "કીબોર્ડ ગોઠવણી પસંદ કરો"
+
+msgid "Keyboard model"
+msgstr "કીબોર્ડ મોડલ"
+
+msgid "Laptop"
+msgstr "લેપટોપ"
+
+msgid "Layout"
+msgstr "ગોઠવણી"
+
+msgid "Left"
+msgstr "ડાબું"
+
+msgid "Locked"
+msgstr "લોક થઇ ગયું છે"
+
+msgid ""
+"Many fonts contain information that provides extra hints as to how best draw "
+"the font; pick whichever looks best according to personal preference"
+msgstr ""
+
+msgid "Maximum _speed:"
+msgstr ":મહત્તમ ઝડપ"
+
+msgid "Medium"
+msgstr "મધ્યમ"
+
+msgid "Menus and Buttons"
+msgstr "મેનુ અને બટનો"
+
+msgid "Minimal interface to set up an external output"
+msgstr ""
+
+msgid "Monitor"
+msgstr "મોનીટર"
+
+msgctxt "Monitor vendor"
+msgid "Unknown"
+msgstr "અજ્ઞાત [મોનીટર દાતા]"
+
+msgid "Mouse"
+msgstr "માઉસ"
+
+msgid "Mouse (relative)"
+msgstr "માઉસ(સબંધિત)"
+
+msgid "Mouse Emulation"
+msgstr "માઉસ અનુકરણ"
+
+msgid "Mouse and Touchpad"
+msgstr "માઉસ અને ટચપેડ"
+
+msgid "NVIDIA Settings"
+msgstr "NVIDIA સેટીંગસ"
+
+msgid "Name:"
+msgstr "નામ:"
+
+msgid "New property"
+msgstr "નવો ગુણધર્મ"
+
+msgid "No AT-SPI provider was found on your system"
+msgstr "એકેય AT-SPI પ્રદાતા તમારી સીસ્ટમમાં મળેલ નથી"
+
+msgid "None"
+msgstr "એકેય નહી"
+
+msgid "None (right-handed)"
+msgstr "એકેય નહી (જમણી બાજુએથી)"
+
+msgid "Normal"
+msgstr "સામાન્ય"
+
+msgid ""
+"Override the detected monitor resolution if fonts look too large or too small"
+msgstr ""
+
+msgid "Pen (absolute)"
+msgstr "પેન (નિરપેક્ષ)"
+
+msgid "Perl Scripts"
+msgstr "પર્લ સ્ક્રીપ્ટસ"
+
+msgid "Please report bugs to <%s>."
+msgstr ""
+
+msgid "Pointer Speed"
+msgstr "પોઈન્ટરની ઝડપ"
+
+msgid "Preview"
+msgstr "પૂર્વદર્શન"
+
+msgid "Property"
+msgstr "ગુણધર્મ"
+
+msgid ""
+"Property names can only include the ASCII characters A-Z, a-z, 0-9, '_', "
+"'-', '<' and '>', as well as '/' as a separator"
+msgstr ""
+
+msgid "Property names cannot end with a '/' character"
+msgstr "ગુણધર્મનું નામ '/' થી પૂરું ન થઇ શકે"
+
+msgid "Property names cannot have two or more consecutive '/' characters"
+msgstr ""
+
+msgid "Property names must start with a '/' character"
+msgstr "ગુણધર્મનું નામ '/' થી જ ચાલુ થવું જોઈએ"
+
+msgid "Python Scripts"
+msgstr "પાયથોન સ્ક્રીપ્ટ્સ"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "R_epeat interval:"
+msgstr "_અંતરાલ રીપીટ કરો:"
+
+msgid "R_esolution:"
+msgstr "_રિઝોલ્યુશન:"
+
+msgid "Re_set to Defaults"
+msgstr "_મૂળભૂત તરીકે રીસેટ કરો"
+
+msgid "Re_verse scroll direction"
+msgstr ""
+
+msgid "Ref_lection:"
+msgstr ""
+
+msgid "Refresh _rate:"
+msgstr "_રીફ્રેશ રેટ:"
+
+msgid "Rendering"
+msgstr ""
+
+msgid "Repeat _speed:"
+msgstr "રીપીટ સ્પીડ "
+
+msgid "Replace running xsettings daemon (if any)"
+msgstr ""
+
+msgid "Reset"
+msgstr "રીસેટ"
+
+msgid "Reset property"
+msgstr "ગુણધર્મ રીસેટ કરો"
+
+msgid "Reset to De_faults"
+msgstr "મૂળભૂત તરીકે રીસેટ કરો"
+
+msgid "Reset to Defaults"
+msgstr "_મૂળભૂત તરીકે રીસેટ કરો"
+
+msgid "Reset to _Defaults"
+msgstr "_મૂળભૂત તરીકે રીસેટ કરો"
+
+msgid "Resetting a channel will permanently remove those custom settings."
+msgstr ""
+
+msgid "Resetting a property will permanently remove those custom settings."
+msgstr ""
+
+msgid "Restore the previous configuration"
+msgstr "પાછલા કન્ફીગ્યુરેશન માં રીસ્ટોર કરો"
+
+msgid "Reverse scroll d_irection"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Ro_tation:"
+msgstr "_રોટેશન:"
+
+msgid "Ruby Scripts"
+msgstr "રૂબી-સ્ક્રીપ્ટ્સ"
+
+msgid "SOCKET ID"
+msgstr "સોકેટ-ID"
+
+msgid "Scrolling"
+msgstr ""
+
+msgid "Select a default font"
+msgstr "મૂળભૂત ફોન્ટ પસંદ કરો"
+
+msgid "Select command"
+msgstr "કમાન્ડ પસંદ કરો"
+
+msgid "Select keyboard layout and variant"
+msgstr "કીબોર્ડ લે-આઉટ પસંદ કરો"
+
+msgid "Selected output not disabled"
+msgstr "પસંદ કરેલ આઉટ્પુટ નિષ્ક્રિય નથી"
+
+msgid ""
+"Set the acceleration and sensitivity for the selected device to the default "
+"values"
+msgstr ""
+
+msgid ""
+"Set the acceleration and threshold for the selected device to the default "
+"values"
+msgstr ""
+
+msgid "Settings"
+msgstr "સેટીંગસ"
+
+msgid "Settings Editor"
+msgstr "સેટીંગસ એડિટર"
+
+msgid "Settings Manager"
+msgstr "સેટીંગસ મેનેજર"
+
+msgid "Settings dialog to show"
+msgstr ""
+
+msgid "Settings manager socket"
+msgstr "સેટીંગસ મેનેજર સોકેટ"
+
+msgid "Several displays are available. Use:\n"
+msgstr ""
+
+msgid "Shell Scripts"
+msgstr "શેલ સ્ક્રીપ્ટ્સ"
+
+msgid "Shortcut"
+msgstr "શોર્ટકટસ"
+
+msgid "Shortcut Command"
+msgstr "શોર્ટકટ કમાન્ડ"
+
+msgid "Shortcut command may not be empty."
+msgstr ""
+
+msgid "Shortcut:"
+msgstr "શોર્ટકટ:"
+
+msgid "Show _blinking"
+msgstr "_બ્લીન્કીંગ બતાવો"
+
+msgid "Show images in _menus"
+msgstr "મેનુ માં ફોટાઓ બતાવો"
+
+msgid "Show images on _buttons"
+msgstr "બટન પર ફોટાઓ બતાવો"
+
+msgid "Size"
+msgstr "કદ"
+
+msgid "Slight"
+msgstr ""
+
+msgid "Slow Keys"
+msgstr ""
+
+msgid "Slow keys"
+msgstr ""
+
+msgid "Slow keys are disabled"
+msgstr ""
+
+msgid "Slow keys are enabled"
+msgstr ""
+
+msgid ""
+"Specifies whether the keyboard layout is controlled with this settings "
+"dialog, or by the X server"
+msgstr ""
+
+msgid "Specify what should be displayed in toolbar items"
+msgstr "ટુલબાર યાદી માં શું દર્શાવવું તે કહો"
+
+msgid "Specify whether icons should be displayed next to items in menus"
+msgstr ""
+
+msgid "Specify whether icons should be displayed next to text in buttons"
+msgstr ""
+
+msgid ""
+"Specify whether mouse clicks and other user input will cause event sounds to "
+"play"
+msgstr ""
+
+msgid "Specify whether or not the text cursor blinks"
+msgstr ""
+
+msgid "St_yle"
+msgstr "_સ્ટાઈલ"
+
+msgid "Start in debug mode (don't fork to the background)"
+msgstr "ડિબગ મોડ માં ચાલુ કરો"
+
+msgid "Sticky Keys"
+msgstr "સ્ટીકી કી"
+
+msgid "Sticky keys"
+msgstr "સ્ટીકી કી"
+
+msgid "Sticky keys are disabled"
+msgstr "સ્ટીકી કી નિષ્ક્રિય થઇ ગઈ છે"
+
+msgid "Sticky keys are enabled"
+msgstr "સ્ટીકી કી સક્રિય થઇ ગઈ છે"
+
+msgid "String"
+msgstr "સ્ટ્રીંગ"
+
+msgid "Sub-_pixel order:"
+msgstr "_સબ પીક્સલ ક્રમ:"
+
+msgid "T_ap touchpad to click"
+msgstr ""
+
+msgid "T_heme"
+msgstr "_થીમ"
+
+msgid "T_hreshold:"
+msgstr "_થ્રેશોલ્ડ:"
+
+msgid "T_ouchpad"
+msgstr "ટચપેડ"
+
+msgid "Table_t"
+msgstr ""
+
+msgid "Television"
+msgstr "ટેલીવીઝન"
+
+msgid "Text"
+msgstr "ટેક્સ્ટ"
+
+msgid "Th_reshold:"
+msgstr "_થ્રેશોલ્ડ:"
+
+msgid "The Xfce Settings Daemon"
+msgstr "Xfce સેટીંગ ડેમોન"
+
+msgid "The Xfce development team. All rights reserved."
+msgstr ""
+
+msgid "The amount of time, in milliseconds, required between keystrokes"
+msgstr ""
+
+msgid ""
+"The amount of time, in milliseconds, that must elapse before a keystroke "
+"will be accepted"
+msgstr ""
+
+msgid "The command may not be empty."
+msgstr ""
+
+msgid "The delay, in milliseconds, between successive blinks of the cursor"
+msgstr ""
+
+msgid ""
+"The factor at which the pointer's speed will increase as the mouse is moved"
+msgstr ""
+
+msgid ""
+"The last active output must not be disabled, the system would be unusable."
+msgstr ""
+
+msgid "The maximum pointer speed after acceleration"
+msgstr ""
+
+msgid ""
+"The mouse pointer cannot move farther than this distance between two clicks "
+"for them to be considered a double click"
+msgstr ""
+
+msgid ""
+"The number of pixels the pointer must move before a drag operation will start"
+msgstr ""
+
+msgid ""
+"The number of pixels the pointer must move in a short time before it starts "
+"accelerating"
+msgstr ""
+
+msgid ""
+"The previous configuration will be restored in %i seconds if you do not "
+"reply to this question."
+msgstr ""
+
+msgid ""
+"The previous configuration will be restored in 10 seconds if you do not "
+"reply to this question."
+msgstr ""
+
+msgid "The ramp used to reach maximum pointer speed"
+msgstr ""
+
+msgid "The rate at which keystrokes are generated while a key is pressed"
+msgstr ""
+
+msgid "The root element ('/') is not a valid property name"
+msgstr ""
+
+msgid "The system defaults will be restored next time you log in."
+msgstr ""
+
+msgid "The time, in milliseconds, before a pressed key begins repeating"
+msgstr ""
+
+msgid "The time, in milliseconds, between repeated motion events"
+msgstr ""
+
+msgid ""
+"The time, in milliseconds, between the initial key press and first repeated "
+"motion event"
+msgstr ""
+
+msgid "The time, in milliseconds, to get to maximum speed"
+msgstr ""
+
+msgid "The video driver does not support video outputs"
+msgstr ""
+
+msgid ""
+"This font will be used as the default font used when drawing user interface "
+"text"
+msgstr ""
+
+msgid "This property name is not valid."
+msgstr ""
+
+msgid ""
+"This system is using RandR %d.%d. For the display settings to work version "
+"1.2 is required at least"
+msgstr ""
+
+msgid ""
+"This will reset all shortcuts to their default values. Do you really want to "
+"do this?"
+msgstr ""
+
+msgid "Ti_me:"
+msgstr "_સમય:"
+
+msgid ""
+"To help prevent accidental keystrokes, slow keys requires that a key is held "
+"for a certain minimum amount of time before the keystroke will be accepted"
+msgstr ""
+
+msgid ""
+"To help prevent accidental multiple keystrokes, bounce keys imposes a "
+"minimum delay between keystrokes"
+msgstr ""
+
+msgid "Tr_acking mode:"
+msgstr "_ટ્રેકિંગ મોડ:"
+
+msgid ""
+"Two mouse clicks in less than this length of time (in milliseconds) will be "
+"considered a double click"
+msgstr ""
+
+msgid "Two-_finger scrolling"
+msgstr "ટુ ફીંગર સ્ક્રોલીંગ"
+
+msgid "Type"
+msgstr "પ્રકાર"
+
+msgid "Type '%s --help' for usage."
+msgstr "વપરાશ માટે »%s --help« ટાઈપ કરો"
+
+msgid "Type:"
+msgstr "પ્રકાર:"
+
+msgid "Typing Settings"
+msgstr ""
+
+msgid "Unable to initialize GTK+."
+msgstr ""
+
+msgid "Unable to launch the proprietary driver settings"
+msgstr ""
+
+msgid "Unable to query the version of the RandR extension being used"
+msgstr ""
+
+msgid "Unable to start \"%s\""
+msgstr "»%s«  શરુ થઇ શકે તેમ નથી"
+
+msgid "Unable to start the Xfce Display Settings"
+msgstr "XFce ડિસપ્લે સેટીંગ શરુ થઇ શકે તેમ નથી"
+
+msgid "Unknown format, only archives and directories are supported"
+msgstr ""
+
+msgid "Unsigned Int"
+msgstr "Unsigned Int"
+
+msgid "Unsigned Int64"
+msgstr "Unsigned Int64"
+
+msgid "Use _bounce keys"
+msgstr ""
+
+msgid "Use _startup notification"
+msgstr ""
+
+msgid "Use _sticky keys"
+msgstr "_સ્ટીકી કી વાપરો"
+
+msgid "Use both displays to show the same contents"
+msgstr ""
+
+msgid "Use slow _keys"
+msgstr ""
+
+msgid "Use this area to _test the settings above:"
+msgstr ""
+
+msgid "Value"
+msgstr "વેલ્યુ"
+
+msgid "Value:"
+msgstr "વેલ્યુ:"
+
+msgid "Variant"
+msgstr "ભિન્ન"
+
+msgid "Verbose output"
+msgstr "વર્બસ આઉટ્પુટ"
+
+msgid "Version information"
+msgstr "આવૃત્તિ માહિતી"
+
+msgid "Vertical"
+msgstr "ઉભું"
+
+msgid "Vertical BGR"
+msgstr "BGR (ઉભું)"
+
+msgid "Vertical RGB"
+msgstr "RGB (ઉભું)"
+
+msgid "Warning"
+msgstr "ચેતવણી"
+
+msgid ""
+"When selected, modifier keys (such as Control, Alt, and Shift) do not need "
+"to be held down (they can be pressed and then released) when multiple keys "
+"would normally need to be pressed at the same time"
+msgstr ""
+
+msgid ""
+"When selected, modifier keys (such as Control, Alt, and Shift) will remain "
+"locked in the pressed state until pressed again"
+msgstr ""
+
+msgid ""
+"When selected, pressing and holding down a key emits the same character over "
+"and over again"
+msgstr ""
+
+msgid ""
+"When selected, the \"sticky keys\" feature will be disabled if two keys are "
+"pressed simultaneously"
+msgstr ""
+
+msgid ""
+"When selected, the mouse pointer can be controlled using the keyboard number "
+"pad"
+msgstr ""
+
+msgid "When selected, the scroll wheel will work in the opposite direction"
+msgstr ""
+
+msgid ""
+"When selected, the touchpad will be disabled when the keyboard is being used"
+msgstr ""
+
+msgid "Workspace %d"
+msgstr "વર્કસ્પેસ %d"
+
+msgid "Xfconf channels"
+msgstr "Xfconf ચેનલ્સ"
+
+msgid "_Acceleration delay:"
+msgstr ""
+
+msgid "_Acceleration:"
+msgstr "ગતીવૃદ્ધી"
+
+msgid "_Assistive Technologies"
+msgstr ""
+
+msgid "_Behavior"
+msgstr "વર્તન"
+
+msgid "_Devices"
+msgstr "_ઉપકારણો"
+
+msgid "_Distance:"
+msgstr "_અંતર:"
+
+msgid "_Enable assistive technologies"
+msgstr ""
+
+msgid "_Enable key repeat"
+msgstr "કી રીપીટ ચાલુ રાખો"
+
+msgid "_Enable this device"
+msgstr "આ ઉપકરણ સક્રિય કરો"
+
+msgid "_Fonts"
+msgstr "_ફોન્ટ્સ"
+
+msgid "_General"
+msgstr "સામાન્ય"
+
+msgid "_Hinting:"
+msgstr ""
+
+msgid "_Icons"
+msgstr "આઈકોન્સ"
+
+msgid "_Layout"
+msgstr "_લે આઉટ"
+
+msgid "_Left handed"
+msgstr ""
+
+msgid "_Left-handed"
+msgstr ""
+
+msgid "_Lock sticky keys"
+msgstr "સ્ટીકી કી લોક કરો"
+
+msgid "_Mouse"
+msgstr "_માઉસ"
+
+msgid "_Overview"
+msgstr "_વિહંગાવલોકન"
+
+msgid "_Repeat delay:"
+msgstr "_અંતરાલ રીપીટ કરો"
+
+msgid "_Reset"
+msgstr "_રીસેટ"
+
+msgid "_Reset to Defaults"
+msgstr ""
+
+msgid "_Right handed"
+msgstr ""
+
+msgid "_Right-handed"
+msgstr ""
+
+msgid "_Rotation:"
+msgstr "_રોટેશન:"
+
+msgid "_Sensitivity:"
+msgstr "_સેન્સીટીવીટી:"
+
+msgid "_Settings"
+msgstr "_સેટીંગ"
+
+msgid "_Theme"
+msgstr "_થીમ"
+
+msgid "_Toolbar Style"
+msgstr "_ટુલબાર સ્ટાઈલ"
+
+msgid "_Use mouse emulation"
+msgstr ""
+
+msgid "_Use system defaults"
+msgstr "_સીસ્ટમ મૂળભૂત વાપરો"
+
+msgid "_Use this output"
+msgstr "આ આઉટ્પુટ વાપરો"
+
+msgid "msec"
+msgstr "ms"
+
+msgid "pixels/sec"
+msgstr "Pixel/s"
