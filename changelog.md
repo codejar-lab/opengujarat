@@ -32,7 +32,7 @@
 - System change :
 
  >- Following packages are translated
-  - xfce4-desktop,xfce4-places-plugin,xdg-user-dirs,parole,leafpad
+    - xfce4-desktop,xfce4-places-plugin,xdg-user-dirs,parole,leafpad
   
  >- New font set added. System font set : Lohit Gujarati 
  
@@ -53,7 +53,7 @@
 - System change : 
 
  >- Following packages are translated
-  - thunar,catfish,blueman,Terminal,xfburn,gigolo,thunar-archive-plugin,audacious
+    - thunar,catfish,blueman,Terminal,xfburn,gigolo,thunar-archive-plugin,audacious
 
  >- libreoffice suite 3.6,gnucash,audacious,openjdk-6,Ubuntu-restricted-extra added
   
