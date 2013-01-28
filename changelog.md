@@ -14,7 +14,7 @@
 - Base system and UI : Ubuntu 12.04.1 LTS (XFCE 4.1)
 
 - System change : 
- >- Pre-setted Locale as Gujarati language
+ >- Pre-set Locale as Gujarati language
 
 - Bug List :
 
@@ -64,5 +64,4 @@
 
 - Bug solved list:
 	
-	>- System font setted "Ubuntu regular" to resolve some alphabet visibility
-
+	>- System font set to  "Ubuntu regular" to resolve some alphabet visibility
