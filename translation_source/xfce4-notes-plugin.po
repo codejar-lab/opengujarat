@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.3.99.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-27 12:07+0100\n"
+"PO-Revision-Date: 2013-02-01 12:47+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
+"Language-Team: German <xfce-i18n@xfce.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Always on top"
+msgstr "હંમેશાં ઉપર"
+
+msgid "Are you sure you want to delete this group?"
+msgstr "શું તમે આ ગ્રુપને ડીલીટ કરવા માટે ચોક્કસ છો?"
+
+msgid "Are you sure you want to delete this note?"
+msgstr "શું તમે આ નોંધને ડીલીટ કરવા માટે ચોક્કસ છો?"
+
+msgid "Background Color"
+msgstr "બેકગ્રાઉન્ડ કલર"
+
+msgid "Background:"
+msgstr "બેકગ્રાઉન્ડ:"
+
+msgid "Blue"
+msgstr "બ્લુ"
+
+msgid "Bottom"
+msgstr "નીચે"
+
+msgid "Carmine"
+msgstr ""
+
+msgid "Configure the plugin"
+msgstr ""
+
+msgid "Custom..."
+msgstr "કસ્ટમt..."
+
+msgid "Font:"
+msgstr "ફોન્ટ:"
+
+msgid "Global settings"
+msgstr "વૈશ્વિક સેટિંગ્સ"
+
+msgid "Green"
+msgstr "લીલું"
+
+msgid "Hide (%s)"
+msgstr "»%s« છુપાવો"
+
+msgid "Hide notes from taskbar"
+msgstr "ટાસ્કબાર પરથી નોંધો છુપાવો"
+
+msgid "Ideal for your quick notes"
+msgstr "તમારી ઝડપી નોંધો માટે સ્વતંત્ર"
+
+msgid "Indigo"
+msgstr ""
+
+msgid "Large"
+msgstr "મોટું"
+
+msgid "Left"
+msgstr "ડાબું"
+
+msgid "Menu"
+msgstr "મેનુ"
+
+msgid "Mimosa"
+msgstr ""
+
+msgid "New group settings"
+msgstr "નવા ગ્રુપના સેટિંગસ"
+
+msgid "None"
+msgstr "એકપણ નહિ"
+
+msgid "Normal"
+msgstr "સામાન્ય"
+
+msgid "Notes"
+msgstr "નોંધો"
+
+msgid "Notes %d"
+msgstr "નોંધો %d "
+
+msgid "Olive"
+msgstr "ઓલીવ"
+
+msgid "Rename group"
+msgstr "ગ્રુપ નું નામ બદલો"
+
+msgid "Rename note"
+msgstr "નોંધ નું નામ બદલો"
+
+msgid "Right"
+msgstr "જમણું"
+
+msgid "Show the automatic navigation bar"
+msgstr "આપોઆપ સંશોધક પટ્ટી બતાવો"
+
+msgid "Size:"
+msgstr "કદ:"
+
+msgid "Small"
+msgstr "નાનું"
+
+msgid "Sticky"
+msgstr "સ્ટીકી"
+
+msgid "Sticky window"
+msgstr "સ્ટીકી વિન્ડો"
+
+msgid "Tabs position:"
+msgstr "ટેબ ની સ્થિતિ:"
+
+msgid "The invalid characters are: %s"
+msgstr "અમાન્ય અક્ષરો: %s"
+
+msgid "The name \"%s\" is invalid."
+msgstr "નામ »%s« અમાન્ય છે."
+
+msgid "The name %s is already in use"
+msgstr "નામ »%s« વપરાયેલ છે"
+
+msgid "Top"
+msgstr "સૌથી ઉપર"
+
+msgid "Unable to open the settings dialog"
+msgstr "સેટિંગસ ડાયલોગ ખોલવામાં નિષ્ફળ"
+
+msgid "White"
+msgstr "સફેદ"
+
+msgid "Yellow"
+msgstr "પીળું"
+
+msgid "_Add a new group"
+msgstr "_નવું ગ્રુપ ઉમેરો"
+
+msgid "_Delete group"
+msgstr "ગ્રુપ ડીલીટ કરો"
+
+msgid "_Groups"
+msgstr "_ગ્રુપો"
+
+msgid "_Rename"
+msgstr "_નામ બદલો"
+
+msgid "_Rename group"
+msgstr "_ગ્રુપ નું નામ બદલો"
+
+msgid "translator-credits"
+msgstr "અનુવાદક-ક્રેડિટ્સ"
