@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: leafpad 0.8.16\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-10-28 02:41+0900\n"
-"PO-Revision-Date: 2013-01-12 00:13+0530\n"
+"PO-Revision-Date: 2013-03-05 11:40+0530\n"
 "Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
 "Language-Team: CODEJAR-DEV <codejarcc@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -82,13 +82,13 @@ msgid "/Search/Find _Next"
 msgstr "/શોધો/_આગામી શોધ"
 
 msgid "/Search/Find _Previous"
-msgstr "/Suchen/_પહેલાની શોધ"
+msgstr "/શોધો/_પહેલાની શોધ"
 
 msgid "/Search/_Find..."
-msgstr "/Suchen/_Suchen …"
+msgstr "/શોધો/_શોધો"
 
 msgid "/Search/_Jump To..."
-msgstr "/Suchen/_Gehe zu …"
+msgstr "/શોધો/_માં જાઓ …"
 
 msgid "/Search/_Replace..."
 msgstr "/પસંદગી/_બદલવું …"
@@ -154,7 +154,7 @@ msgid "GTK+ based simple text editor"
 msgstr "GTK+ આધારિત બીજા ટેક્સ્ટ એડીટર"
 
 msgid "Jump To"
-msgstr "જંપ ટુ"
+msgstr "માં જાઓ"
 
 msgid "Open"
 msgstr "ખોલો"
@@ -205,7 +205,7 @@ msgid "_Credits"
 msgstr "_ક્રેડીટસ"
 
 msgid "_Jump"
-msgstr "_જંપ"
+msgstr "_જાઓ"
 
 msgid "_Line number:"
 msgstr "લાઈન નંબર: "
