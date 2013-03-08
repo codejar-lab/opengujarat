@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xfce4-session 4.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-14 18:33+0100\n"
+"PO-Revision-Date: 2013-03-08 18:28+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
+"Language-Team: Gujarati <indianoss-gujarati@lists.sourceforge.net>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "(Unknown)"
+msgstr "(અજ્ઞાત)"
+
+msgid "<b>Author:</b>"
+msgstr "<b>લેખક:</b>"
+
+msgid "<b>Description:</b>"
+msgstr "<b>વર્ણન:</b>"
+
+msgid "<b>Homepage:</b>"
+msgstr "<b>ઘર પાનું:</b>"
+
+msgid "<b>Version:</b>"
+msgstr "<b>આવૃત્તિ:</b>"
+
+msgid "Add application"
+msgstr "કાર્યક્રમ ઉમેરો"
+
+msgid "Background color:"
+msgstr "પાશ્વ ભાગનો રંગ:"
+
+msgid "Balou theme"
+msgstr "Balou થીમ"
+
+msgid "Cancel the login attempt and return to the login screen."
+msgstr "પ્રવેશવાનું પસંદ કરવાનું રદ કરો અને પ્રવેશ સ્ક્રીન પર પાછા જાઓ."
+
+msgid "Choose a name for the new session:"
+msgstr "નવા સત્ર માટે નામ પસંદ કરો:"
+
+msgid "Choose image..."
+msgstr "ઈમેજ પસંદ કરો..."
+
+msgid "Choose session"
+msgstr "સત્ર પસંદ કરો"
+
+msgid "Choose session name"
+msgstr "સત્ર નામ પસંદ કરો"
+
+msgid ""
+"Choose the session you want to restore. You can simply double-click the "
+"session name to restore it."
+msgstr ""
+"જો તમે ફરીથી સંગ્રહવા માંગતા હોય તે સત્ર પસંદ કરો. તમારે સત્રને ફરીથી સંગ્રહવા માટે તેના "
+"પર માત્ર સાદુ બે વાર ક્લિક કરવું પડે."
+
+msgid "Choose theme file to install..."
+msgstr "સ્થાપિત કરવા માટે થીમ ફાઈલ પસંદ કરો..."
+
+msgid "Choose theme filename..."
+msgstr "થીમ ફાઈલ નામ પસંદ કરો..."
+
+msgid "Colors"
+msgstr "રંગો"
+
+msgid "Command:"
+msgstr "આદેશ:"
+
+msgid "Configure Balou..."
+msgstr "Balou રુપરેખાંકિત કરો..."
+
+msgid "Configure Simple..."
+msgstr "સાદુ રુપરેખાંકિત કરો..."
+
+msgid "Continue anyway"
+msgstr "કોઈપણ રીતે ચાલુ રાખો"
+
+msgid ""
+"Could not look up internet address for %s.\n"
+"This will prevent Xfce from operating correctly.\n"
+"It may be possible to correct the problem by adding\n"
+"%s to the file /etc/hosts on your system."
+msgstr ""
+"%s માટે ઈન્ટરનેટ સરનામા માટે જોઈ શક્યા નહિં.\n"
+"આ Xfce માંથી યોગ્ય રીતે કામ કરવાથી બચાવશે.\n"
+"આ સમસ્યાને યોગ્ય કરવાનું શક્ય છે જે\n"
+"%s ને તમારી સિસ્ટમની ફાઈલ /etc/hosts માં ઉમેરીને શક્ય છે."
+
+msgid "Create a new session."
+msgstr "નવું સત્ર બનાવો."
+
+msgid "Description:"
+msgstr "વર્ણન:"
+
+msgid "Display tips on _startup"
+msgstr "શરૂઆત કરવા પર મદદ દર્શાવો (_s)"
+
+msgid ""
+"Either the password you entered is invalid, or the system administrator "
+"disallows shutting down this computer with your user account."
+msgstr ""
+"પાસવર્ડ દાખલ કરો તમે દાખલ કરેલ અયોગ્ય છેસ અથવા સિસ્ટમ સંચાલક આ કમ્પ્યુટરને તમારા "
+"વપરાશકર્તા ખાતા સાથે બંધ કરવા માટે પરવાનગી આપતો નથી."
+
+msgid "Failed to create file %s"
+msgstr "ફાઈલ %s બનાવવામાં નિષ્ફળ"
+
+msgid "Failed to open %s for writing"
+msgstr "%s ને લખવા માટે ખોલવામાં નિષ્ફળ"
+
+msgid "Failed to unlink %s: %s"
+msgstr "%s ની કડી દૂર કરવામાં અસમર્થ: %s"
+
+msgid "Failed to write file %s"
+msgstr "ફાઈલ %s લખવામાં નિષ્ફળ"
+
+msgid "Font"
+msgstr "ફોન્ટ"
+
+msgid "Fortunes"
+msgstr "ભવિષ્ય"
+
+msgid "Image"
+msgstr "ઈમેજ"
+
+msgid "Loading desktop settings"
+msgstr "ડેસ્કટોપ સુયોજનો લાવી રહ્યા છીએ"
+
+msgid "Loading session data"
+msgstr "સત્ર માહિતી લાવી રહ્યા છીએ"
+
+msgid "Name:"
+msgstr "નામ:"
+
+msgid "New session"
+msgstr "નવું સત્ર"
+
+msgid "Next"
+msgstr "આગળ"
+
+msgid "No description given"
+msgstr "કોઈ વર્ણન અપાયેલ નથી"
+
+msgid "None"
+msgstr "કંઈ નહિં"
+
+msgid "Performing Autostart..."
+msgstr "આપોઆપ શરુ કરી રહ્યા છીએ..."
+
+msgid "Please enter your password:"
+msgstr "મહેરબાની કરીને તમારો પાસવર્ડ દાખલ કરો:"
+
+msgid "Select a command"
+msgstr "આદેશ પસંદ કરો"
+
+msgid "Starting %s"
+msgstr "%s શરુ કરી રહ્યા છીએ"
+
+msgid "Starting Gnome Assistive Technologies"
+msgstr "જીનોમ મદદગાર ટેક્નોલોજીઓ શરુ કરી રહ્યા છીએ"
+
+msgid "Starting KDE services"
+msgstr "KDE સેવાઓ શરુ કરી રહ્યા છીએ"
+
+msgid "Starting The Gimp"
+msgstr "Gimp શરુ કરી રહ્યા છીએ"
+
+msgid "Starting The Gnome Keyring Daemon"
+msgstr "જીનોમ કીરીંગ ડીમન શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the Beep Media Player"
+msgstr "Beep મિડીયા પ્લેયર શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the Desktop Manager"
+msgstr "ડેસ્કટોપ વ્યવસ્થાપક શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the Gnome Terminal Emulator"
+msgstr "જીનોમ ટર્મિનલ ઈમ્યુલેટર શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the KDE Advanced Text Editor"
+msgstr "KDE ઉન્નત લખાણ સંપાદક શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the KDE Clipboard Manager"
+msgstr "KDE ક્લિપબોર્ડ વ્યવસ્થાપક શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the KDE Mail Reader"
+msgstr "KDE મેઈલ વાંચનાર શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the KDE News Reader"
+msgstr "KDE સમાચાર વાંચનાર શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the KDE Terminal Emulator"
+msgstr "KDE ટર્મિનલ ઈમ્યુલેટર શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the Konqueror"
+msgstr "Konqueror શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the Panel"
+msgstr "પેનલ શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the Session Management Proxy"
+msgstr "સત્ર વ્યવસ્થાપક પ્રોક્સી શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the Taskbar"
+msgstr "સ્થિતિદર્શક પટ્ટી શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the VI Improved Editor"
+msgstr "VI Improved સંપાદક શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the Volume Controller"
+msgstr "અવાજ નિયંત્રક શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the Window Manager"
+msgstr "વિન્ડો વ્યવસ્થાપક શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the X Multimedia System"
+msgstr "X મલ્ટીમિડીયા સિસ્ટમ શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the X Terminal Emulator"
+msgstr "X ટર્મિનલ ઈમ્યુલેટર શરુ કરી રહ્યા છીએ"
+
+msgid "Starting the X-Chat IRC Client"
+msgstr "X-Chat IRC Client શરુ કરી રહ્યા છીએ"
+
+msgid "Text color:"
+msgstr "લખાણનો રંગ:"
+
+msgid ""
+"The location and the format of the autostart directory has changed.\n"
+"The new location is\n"
+"\n"
+"  %s\n"
+"\n"
+"where you can place .desktop files to, that describe the applications\n"
+"to start when you login to your Xfce desktop. The files in your old\n"
+"autostart directory have been successfully migrated to the new\n"
+"location.\n"
+"You should delete this directory now.\n"
+msgstr ""
+"autostart ડિરેક્ટરીનું બંધારણ અને સ્થાન બદલાઈ ગયેલ છે.\n"
+"આ નવું સ્થાન છે\n"
+"\n"
+"  %s\n"
+"\n"
+"કે જ્યાં તમે .desktop ફાઈલો મૂકી શકો, કે જે કાર્યક્રમોને વર્ણવે કે\n"
+"જ્યારે તમે તમારી Xfce ડેસ્કટોપ પર પ્રવેશ કરો ત્યારે શરૂ કરો. તમારી જૂની\n"
+"autostart ડિરેક્ટરીમાંની ફાઈલો સફળતાપૂર્વક નવા સ્થાનમાં રૂપાંતરિત\n"
+"થઈ ગયેલ છે.\n"
+"આ ડિરેક્ટરી તમારે હમણાં કાઢી નાંખવી જોઈએ.\n"
+
+msgid "Tips and tricks"
+msgstr "મદદો અને તરકીબો"
+
+msgid "Try again"
+msgstr "ફરીથી પ્રયત્ન કરો"
+
+msgid "Unable to remove splash theme \"%s\" from directory %s."
+msgstr "ઝબૂક થીમ \"%s\" ને ડિરેક્ટરી %s માંથી દૂર કરવા સમર્થ નથી."
+
+msgid "Use custom image"
+msgstr "કસ્ટમ ઈમેજ વાપરો"
+
+msgid "Verifying DNS settings"
+msgstr "DNS સુયોજનો ચકાસી રહ્યા છીએ"
+
+msgid "_Export theme"
+msgstr "થીમનો નિકાસ કરો (_E)"
+
+msgid "_Install new theme"
+msgstr "નવી થીમ સ્થાપિત કરો (_I)"
+
+msgid "_Remove theme"
+msgstr "થીમ દૂર કરો (_R)"
+
+msgid "_Save session for future logins"
+msgstr "ભવિષ્યમાં પ્રવેશો માટે સત્ર સંગ્રહો (_S)"
+
+msgid "xfce4-tips"
+msgstr "xfce4-ટીપ્સ"
+
+msgid "Are you sure you want to shut down?"
+msgstr "શું તમે સીસ્ટમ બંધ કરવા ચોક્કસ છો?"
+
+msgid "Are you sure you want to log out?"
+msgstr "શું તમે સીસ્ટમ લોગઆઉટ કરવા ચોક્કસ છો?"
+
+msgid "Are you sure you want to reboot?"
+msgstr "શું તમે સીસ્ટમ રીબૂટ કરવા ચોક્કસ છો?"
+
+msgid "Always"
+msgstr "હંમેશા"
+
+msgid "Close Session"
+msgstr "સેશન બંધ કરો"
+
+msgid "Your system will reboot in %u seconds."
+msgstr "તમારી સીસ્ટમ %u સેકન્ડમાં રીબૂટ થશે."
+
+msgid "Your system will shut down in %u seconds."
+msgstr "તમારી સીસ્ટમ %u સેકન્ડમાં બંધ થશે."
+
+msgid "Shut Down"
+msgstr "બંધ કરો"
+
+msgid "Shut _down"
+msgstr "_બંધ કરો"
+
+msgid "Suspend"
+msgstr "સ્થગિત કરો"
+
+msgid "You will be logged out in %u seconds."
+msgstr "તમે %u સેકન્ડમાં લોગ આઉટ થશો."
+
+msgid "_General"
+msgstr "_સામાન્ય"
+
+msgid "_Hibernate"
+msgstr "_હાઈબરનેટ"
+
+msgid "_Log out"
+msgstr "_લોગ આઉટ"
+
+msgid "_Prompt on logout"
+msgstr "_લૉગઆઉટ પર પ્રોમ્પ્ટ"
+
+msgid "_Quit Program"
+msgstr "_પ્રોગ્રામ બંધ કરો"
+
+msgid "_Reboot"
+msgstr "_રીબૂટ"
+
+msgid "_Session"
+msgstr "_સેશન"
+
+msgid "_Suspend"
+msgstr "_સ્થગિત"
+
+msgid "Are you sure you want to terminate \"%s\"?"
+msgstr "શું તમે ખરેખર »%s« સમાપ્ત કરવા માંગો છો?"

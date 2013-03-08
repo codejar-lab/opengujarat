@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: update-notifier\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-10 12:15+0100\n"
+"PO-Revision-Date: 2013-03-08 16:57+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
+"Language-Team: German <gnome-de@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2012-04-17 14:00+0000\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "  $packages"
+msgstr "  $પેકેજીસ"
+
+msgid "%i package can be updated."
+msgid_plural "%i packages can be updated."
+msgstr[0] "%i પેકેજ અપડેટ થઇ શકશે."
+msgstr[1] "%i પેકેજીસ અપડેટ થઇ શકશે."
+
+msgid "%i update is a security update."
+msgid_plural "%i updates are security updates."
+msgstr[0] "%i અપડેટ સલામતી માટેની અપડેટ છે."
+msgstr[1] "%i અપડેટો સલામતી માટેની અપડેટ છે."
+
+msgid "- inform about updates"
+msgstr "- અપડેટ વિષે જણાઓ"
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">A distribution volume with software "
+"packages has been detected.</span>\n"
+"\n"
+"Would you like to try to upgrade from it automatically? "
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">A volume with software packages has "
+"been detected.</span>\n"
+"\n"
+"Would you like to open it with the package manager?"
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">A volume with unofficial software "
+"packages has been detected.</span>\n"
+"\n"
+"Would you like to open it with the package manager?"
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">An addon volume with software "
+"applications has been detected.</span>\n"
+"\n"
+"Would you like to view/install the content? "
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Please enter your password to access "
+"problem reports of system programs</span>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"larger\">Update information</span>"
+msgstr ""
+
+msgid "A package manager is working"
+msgstr "પેકેજ મેનેજર ચાલુ છે"
+
+msgid "A problem occurred when checking for the updates."
+msgstr "અપડેટ ચેક કરતી વખતે ત્રુટી જણાઈ છે"
+
+msgid ""
+"An application has crashed on your system (now or in the past). Click on the "
+"notification icon to display details. "
+msgstr ""
+
+msgid ""
+"An error occurred, please run Package Manager from the right-click menu or "
+"apt-get in a terminal to see what is wrong.\n"
+"The error message was: '%s'. "
+msgstr ""
+
+msgid "Check for available updates automatically"
+msgstr "આપમેળે અપડેટ ચેક કરો"
+
+msgid "Check for updates"
+msgstr "અપડેટ માટે ચેક કરો"
+
+msgid "Click on the notification icon to show the available information.\n"
+msgstr ""
+
+msgid "Failure to download extra data files"
+msgstr "વધારાની માહિતી ફાઈલો ડાઉનલોડ કરવામાં નિષ્ફળ"
+
+msgid "Information available"
+msgstr "માહિતી પ્રાપ્ત છે"
+
+msgid "Install all updates"
+msgstr "બધી અપડેટ ઇન્સ્ટોલ કરો"
+
+msgid "Internal error"
+msgstr "આંતરિક ત્રુટી"
+
+msgid "Restart Required"
+msgstr "સીસ્ટમ ફરીથી ચાલુ કરવી જરૂરી છે"
+
+msgid "Restart _Later"
+msgstr "થોડા સમય પછી ચાલુ કરો"
+
+msgid "Run upgrade"
+msgstr "અપગ્રેડ કરો"
+
+msgid "Show human readable output on stdout"
+msgstr ""
+
+msgid "Show notifications"
+msgstr "સૂચનઓ બતાઓ"
+
+msgid "Show the packages that are going to be installed/upgraded"
+msgstr ""
+
+msgid "Show updates"
+msgstr "અપડેટ્સ દર્શાવો"
+
+msgid "Software Packages Volume Detected"
+msgstr "સોફ્ટવેર પેકેજ વોલ્યુમ ડિટેકટ થયું છે"
+
+msgid "Software updates available"
+msgstr "પ્રાપ્ય સોફ્ટવેર અપડેટ્સ "
+
+msgid "Start Package Manager"
+msgstr "પેકેજ મેનેજર ચાલુ કરો"
+
+msgid "Start addon installer"
+msgstr ""
+
+msgid "Start package manager"
+msgstr "પેકેટ મેનેજર ચાલુ કરો"
+
+msgid "System program problem detected"
+msgstr ""
+
+msgid "System restart required"
+msgstr "સીસ્ટમ ફરીથી ચાલુ કરવી જરૂરી છે"
+
+msgid ""
+"The computer needs to restart to finish installing updates. Please save your "
+"work before continuing."
+msgstr ""
+"અપડેટ ઈંસ્ટોલેશન પૂર્ણ કરવા સીસ્ટમ ફરી ચાલુ કરવી જરૂરી છે.ચાલુ કરતા પહેલા તમારું કામ સેવ "
+"કરી લો."
+
+msgid ""
+"The download will be attempted again later, or you can try the download "
+"again now.  Running this command requires an active Internet connection."
+msgstr ""
+
+msgid ""
+"The following packages requested additional data downloads after package "
+"installation, but the data could not be downloaded or could not be processed."
+msgstr ""
+
+msgid "There is %i update available"
+msgid_plural "There are %i updates available"
+msgstr[0] "%i અપડેટ પ્રાપ્ય છે"
+msgstr[1] "%i અપડેટો પ્રાપ્ય છે"
+
+msgid ""
+"There is %i update available. Click on the notification icon to show the "
+"available update."
+msgid_plural ""
+"There are %i updates available. Click on the notification icon to show the "
+"available updates."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "This usually means that your installed packages have unmet dependencies"
+msgstr ""
+
+msgid ""
+"To finish updating your system, please restart it.\n"
+"\n"
+"Click on the notification icon for details."
+msgstr ""
+
+msgid "Unknown Error: '%s' (%s)"
+msgstr "અજ્ઞાત ત્રુટી: »%s« (%s)"
+
+msgid "Update Notifier"
+msgstr "અપડેટ સૂચક"
+
+msgid "_Restart Now"
+msgstr "સીસ્ટમ ફરી ચાલુ કરો"
+
+msgid "_Run this action now"
+msgstr ""
+
+msgid "unknown error"
+msgstr "અજ્ઞાત ત્રુટી"
+
+msgid "update-notifier"
+msgstr "અપડેટ સૂચક"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: header\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-09-13 09:17+0200\n"
-"PO-Revision-Date: 2013-01-17 14:21+0530\n"
-"Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
+"PO-Revision-Date: 2013-03-08 18:36+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
 "Language-Team: CODEJAR-DEV <codejarcc@gmail.com>\n"
 "Language: gu\n"
 "MIME-Version: 1.0\n"
@@ -56,43 +56,43 @@ msgid "Videos"
 msgstr "વિડીયો"
 
 msgid "applications"
-msgstr "anwendungen"
+msgstr "એપ્લીકેશન્સ"
 
 msgid "desktop"
-msgstr "arbeitsflaeche"
+msgstr "ડેસ્કટોપ"
 
 msgid "documents"
-msgstr "dokumente"
+msgstr "દસ્તાવેજ"
 
 msgid "download"
-msgstr "downloads"
+msgstr "ડાઉનલોડ"
 
 msgid "downloads"
-msgstr "downloads"
+msgstr "ડાઉનલોડસ"
 
 msgid "movies"
-msgstr "filme"
+msgstr "ફિલ્મો"
 
 msgid "music"
-msgstr "musik"
+msgstr "સંગીત"
 
 msgid "photos"
-msgstr "fotos"
+msgstr "ફોટાઓ"
 
 msgid "pictures"
-msgstr "bilder"
+msgstr "ચિત્રો"
 
 msgid "projects"
-msgstr "projekte"
+msgstr "પ્રોજેક્ટ્સ"
 
 msgid "public"
-msgstr "oeffentlich"
+msgstr "પબ્લિક"
 
 msgid "share"
-msgstr "freigabe"
+msgstr "શેર કરો"
 
 msgid "templates"
-msgstr "vorlagen"
+msgstr "ટેમ્પ્લેટસ"
 
 msgid "videos"
-msgstr "videos"
+msgstr "વીડીઓસ"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Thunar 0.9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-05-26 23:58+0200\n"
-"PO-Revision-Date: 2013-01-12 22:44+0530\n"
+"PO-Revision-Date: 2013-03-08 17:39+0530\n"
 "Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
 "Last-Translator: Arpan Chavda <arpanchavdaeng@gmail.com>\n"
 "Language-Team: CODEJAR-DEV <codejarcc@gmail.com>\n"
@@ -374,7 +374,7 @@ msgid "Configure _Columns..."
 msgstr "કૉલમ રૂપરેખાંકિત કરો..."
 
 msgid "Configure c_ustom actions..."
-msgstr ""
+msgstr "પોતાની એક્શન રૂપરેખાંકિત કરો"
 
 msgid "Configure the Thunar file manager"
 msgstr ""
@@ -597,7 +597,7 @@ msgid "Ejecting device"
 msgstr "ઉપકરણ બહાર કઢાઈ રહ્યું છે"
 
 msgid "Emblems"
-msgstr "Embleme"
+msgstr "ચિન્હો"
 
 msgid "Emptying the Trash..."
 msgstr "કચરાપેટી ખાલી કરી રહ્યા છીએ…"
@@ -1204,7 +1204,7 @@ msgid "Open With:"
 msgstr ""
 
 msgid "Open _Parent"
-msgstr ""
+msgstr "પિતૃ ડિરેક્ટરી ખોલો"
 
 msgid "Open a new Thunar window for the displayed location"
 msgstr ""
@@ -1287,7 +1287,7 @@ msgid "Please wait..."
 msgstr "રાહ જુઓ…"
 
 msgid "Pr_eferences..."
-msgstr ""
+msgstr "પસંદગીઓ"
 
 msgid "Prepare the selected file to be copied with a Paste command"
 msgid_plural "Prepare the selected files to be copied with a Paste command"
@@ -2102,7 +2102,7 @@ msgid "_Open"
 msgstr "_ખોલો"
 
 msgid "_Open Location..."
-msgstr ""
+msgstr "સ્થાન ખોલો"
 
 msgid "_Open With \"%s\""
 msgstr ""
