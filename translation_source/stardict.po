@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: stardict 2.4.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-11-05 13:51+0800\n"
+"PO-Revision-Date: 2013-02-13 11:59+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
+"Language-Team: German <gnome-de@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid ""
+"        Welcome to StarDict!\n"
+"\n"
+"   Press Ctrl+Q to quit. Press Alt+Z to iconify the window or Alt+X to hide "
+"the window.\n"
+"   Press Alt+C or ESC to clear the input entry's text.\n"
+"   Press Space key to move focus to the input entry.\n"
+"   If the query word was not found, you can press Tab key to select the "
+"first word in the word list.\n"
+"   After selected some text, clicking the middle mouse button on the main "
+"window's Definition area or on the notification area icon will look up that "
+"word.\n"
+"   StarDict can match strings against patterns containing '*' (wildcard) and "
+"'?' (joker).\n"
+"   Input a word beginning with '/' to do a Fuzzy query.\n"
+"   When the floating window reports that a word was not found, double "
+"clicking will perform a fuzzy query.\n"
+msgstr "StarDict માં તમારું સ્વાગત છે.\n"
+
+msgid "(default:240)"
+msgstr "(default:240)"
+
+msgid "(default:320)"
+msgstr "(default:320)"
+
+msgid "<Not Found!>"
+msgstr "<મળેલ નથી>"
+
+msgid "Add"
+msgstr "ઉમેરો"
+
+msgid "Author"
+msgstr "કર્તા"
+
+msgid "Cat_egories:"
+msgstr "વર્ગ:"
+
+msgid "Categories"
+msgstr "વર્ગો"
+
+msgid "Choose"
+msgstr "પસંદ કરો"
+
+msgid "Choose dictionary font"
+msgstr "શબ્દકોષનાં ફોન્ટ પસંદ કરો"
+
+msgid "Clear the search box"
+msgstr "સર્ચબોક્સને સાફ કરો"
+
+msgid "Copy"
+msgstr "નકલ કરો"
+
+msgid "Date"
+msgstr "તારીખ"
+
+msgid "Description"
+msgstr "વર્ણન"
+
+msgid "Dictionary"
+msgstr "શબ્દકોષ"
+
+msgid "Dictionary Name"
+msgstr "શબ્દકોષનું નામ "
+
+msgid "Dictionary _font:"
+msgstr "શબ્દકોષનાં ફોન્ટ:"
+
+msgid "Dictionary font"
+msgstr "શબ્દકોષનાં ફોન્ટ"
+
+msgid "Email"
+msgstr "ઈમેઈલ"
+
+msgid "Enable"
+msgstr "સક્રિય કરો"
+
+msgid "File name"
+msgstr "ફાઈલનું નામ"
+
+msgid "Floating window"
+msgstr "ફલોટીંગ વિન્ડો"
+
+msgid "Font"
+msgstr "ફોન્ટ"
+
+msgid "Found no words matching this pattern!"
+msgstr "આ ઢાંચાને મળતા કોઈ શબ્દો મળેલ નથી"
+
+msgid "Fuzzy Query"
+msgstr "ફઝી ક્વેરી"
+
+msgid "Fuzzy query"
+msgstr "ફઝી ક્વેરી"
+
+msgid "Fuzzy query failed, too :-("
+msgstr "ફઝી ક્વેરી નિષ્ફળ"
+
+msgid "Fuzzy query..."
+msgstr "ફઝી ક્વેરી..."
+
+msgid "Go Back - Right button: history (Alt+Left)"
+msgstr "પાચલ જાઓ - જમણું બટન:હિસ્ટ્રી(Alt+Left)"
+
+msgid "Go to the StarDict website"
+msgstr "StarDict ની વેબસાઈટ પર જાઓ"
+
+msgid "Help"
+msgstr "મદદ"
+
+msgid "Hide main window when _starting StarDict."
+msgstr "StarDict શરુ થાય ત્યારે મુખ્ય વિન્ડો સંતાડો"
+
+msgid "Hide the word list"
+msgstr "વર્ડ લીસ્ટ સંતાડો"
+
+msgid "Lock floating window"
+msgstr "ફલોટીંગ વિન્ડો લોક કરો"
+
+msgid "Main window"
+msgstr "મુખ્ય વિન્ડો"
+
+msgid "Manage Dictionaries"
+msgstr "શબ્દકોષ મેનેજ કરો"
+
+msgid "Manage dictionaries"
+msgstr "શબ્દકોશો મેનેજ કરો"
+
+msgid "Max window _width:"
+msgstr "વિન્ડોની મહતમ પહોળાઈ"
+
+msgid "Max window hei_ght:"
+msgstr "વિન્ડોની મહતમ ઉંચાઈ"
+
+msgid "Next word (Alt+Down)"
+msgstr "આગળનો શબ્દ (Alt+Down)"
+
+msgid "Options"
+msgstr "પસંદગીઓ"
+
+msgid "Please input the website link."
+msgstr "વેબસાઈટની લીંક આપો."
+
+msgid "Please input the website name."
+msgstr "વેબસાઈટનું નામ આપો."
+
+msgid "Please input the website search link."
+msgstr "વેબસાઈટની સર્ચ લીંક આપો."
+
+msgid "Pr_eferences"
+msgstr "અગ્રતાક્રમ"
+
+msgid "Preferences"
+msgstr "અગ્રતાક્રમ"
+
+msgid "Press Enter to list the words that match the pattern."
+msgstr "પેટર્નને મેચ કરતા શબ્દો લીસ્ટમાં નાખો"
+
+msgid "Previous word (Alt+Up)"
+msgstr "પાછળનો શબ્દ(Alt+Up)"
+
+msgid "Print"
+msgstr "પ્રિન્ટ કરો"
+
+msgid "Pronounce the word"
+msgstr "શબ્દનો ઉચ્ચાર મેળવો"
+
+msgid "Query in the main window"
+msgstr "મુખ્ય વિન્ડોમાં  ક્વેરી"
+
+msgid "Quit"
+msgstr "બહાર નીકળો"
+
+msgid "Quit an existing instance of stardict"
+msgstr "stardict માંથી બહાર નીકળો"
+
+msgid "Save to file"
+msgstr "ફાઈલમાં સેવ કરો"
+
+msgid "Scan"
+msgstr "સ્કેન કરો"
+
+msgid "Scan Selection"
+msgstr "સ્કેન પસંદગી"
+
+msgid "Scan the selection"
+msgstr "પસંદ કરેલ સ્કેન કરો"
+
+msgid "Search an Internet dictionary - Right button: website list"
+msgstr "ઈંટરનેટ શબ્દકોષમાં સર્ચ કરો - જમણું બટન: વેબસાઈટ લીસ્ટ"
+
+msgid "Search website"
+msgstr "વેબસાઈટ તપાસો"
+
+msgid "Show info"
+msgstr "માહિતી આપો"
+
+msgid "Show the main menu (Alt+M)"
+msgstr "મુખ્ય મેનુ બતાઓ (Alt+M)"
+
+msgid "Show the word list"
+msgstr "વર્ડ લીસ્ટ બતાઓ"
+
+msgid "Sound"
+msgstr "અવાજ"
+
+msgid "StarDict"
+msgstr "StarDict"
+
+msgid "StarDict - Scanning"
+msgstr "StarDict -સ્કેનીંગ"
+
+msgid "StarDict - Stopped"
+msgstr "StarDict - રોકાઈ ગયું"
+
+msgid "StarDict is already running. Using the running process."
+msgstr "StarDict ક્યારનુય ચાલુ છે. "
+
+msgid "T_ree dictionaries"
+msgstr ""
+
+msgid "The text \"%s\" was not found."
+msgstr "ટેકસ્ટ \"%s\" મળેલ નથી."
+
+msgid "There are too many spelling errors :-("
+msgstr "ખુબજ વધારે સ્પેલીંગ ત્રુટીઓ છે :-("
+
+msgid "These settings will take effect the next time you run StarDict."
+msgstr "ફરીથી StarDict ચાલુ કરશો ત્યારે સેટીંગ એપ્લાય થશે."
+
+msgid "Turn on all debugging messages"
+msgstr "ડિબગીંગ મેસેજ ચાલુ કરો"
+
+msgid "Website"
+msgstr "વેબસાઈટ"
+
+msgid "Website Name"
+msgstr "વેબસાઈટનું નામ"
+
+msgid "Website link"
+msgstr "વેબસાઈટની લીંક"
+
+msgid "Website search link"
+msgstr "વેબસાઈટ સર્ચ લીંક"
+
+msgid "Word count"
+msgstr "શબ્દ ગણતરી"
+
+msgid "_About"
+msgstr "_વિષે"
+
+msgid "_Copy"
+msgstr "_નકલ કરો"
+
+msgid "_Enable sound event."
+msgstr "_સાઉન્ડ ઈવેન્ટ સક્રિય કરો."
+
+msgid "_Fuzzy Query"
+msgstr "_ફઝી ક્વેરી"
+
+msgid "_Help"
+msgstr "_મદદ"
+
+msgid "_New Version"
+msgstr "_નવી આવૃત્તિ"
+
+msgid "_Play"
+msgstr "_ચાલુ કરો"
+
+msgid "_Query"
+msgstr "_ક્વેરી"
+
+msgid "_Quit"
+msgstr "_બહાર નીકળો"
+
+msgid "_Scan"
+msgstr "_સ્કેન"
+
+msgid "_Use custom font."
+msgstr "કસ્ટમ ફોન્ટ વાપરો."
+
+msgid "has succeeded.\n"
+msgstr "સફળ.\n"
+
+msgid "translator_credits"
+msgstr "ટ્રાન્સલેટર ક્રેડીટસ"

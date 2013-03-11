@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xfwm4 4.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-16 17:27+0100\n"
+"PO-Revision-Date: 2013-03-08 16:02+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
+"Language-Team: Gujarati <fedora-trans-gu@redhat.com>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "%s: GtkMenu failed to grab the pointer\n"
+msgstr "%s: GtkMenu એ નિર્દેશક મેળવવામાં નિષ્ફળ ગયું\n"
+
+msgid "%s: Segmentation fault"
+msgstr "%s: સેગ્મેન્ટેશન ત્રુટી"
+
+msgid "Active"
+msgstr "સક્રિય"
+
+msgid "Add workspace"
+msgstr "કામ કરવાની જગ્યા ઉમેરો"
+
+msgid "Bottom workspace"
+msgstr "નીચેની કામ કરવાની જગ્યા"
+
+msgid "Center"
+msgstr "કેન્દ્ર"
+
+msgid "Close"
+msgstr "બંધ કરો"
+
+msgid "Close window"
+msgstr "વિન્ડો બંધ કરો"
+
+msgid "Destroy"
+msgstr "નાશ કરો"
+
+msgid "Hidden"
+msgstr "છુપુ"
+
+msgid "Hide"
+msgstr "છુપાવો"
+
+msgid "Hide window"
+msgstr "વિન્ડો છુપાવો"
+
+msgid "Left"
+msgstr "ડાબુ"
+
+msgid "Left workspace"
+msgstr "ડાબી કામ કરવાની જગ્યા"
+
+msgid "Lower window"
+msgstr "નીચલી વિન્ડો"
+
+msgid "Ma_ximize"
+msgstr "મહત્તમ કરો "
+
+msgid ""
+"Margins are areas on the edges of the screen where no window will be placed"
+msgstr "હાંસિયાઓ એ સ્ક્રીનની બાજુઓ માટેના વિસ્તારો છે કે જ્યાં કોઈ વિન્ડો મૂકવામાં આવતી નથી"
+
+msgid "Maximize"
+msgstr "મહત્તમ કરો"
+
+msgid "Maximize window"
+msgstr "વિન્ડો મહત્તમ કરો"
+
+msgid "Maximize window horizontally"
+msgstr "વિન્ડોને આડી રીતે મહત્તમ કરો"
+
+msgid "Maximize window vertically"
+msgstr "વિન્ડોને ઊભી રીતે મહત્તમ કરો"
+
+msgid "Menu"
+msgstr "મેનુ"
+
+msgid "Move window to bottom workspace"
+msgstr "વિન્ડોને નીચેની કામ કરવાની જગ્યા પર ખસાડો"
+
+msgid "Move window to left workspace"
+msgstr "વિન્ડોને ડાબી કામ કરવાની જગ્યા પર ખસાડો"
+
+msgid "Move window to next workspace"
+msgstr "વિન્ડોને પછીની કામ કરવાની જગ્યા પર ખસાડો"
+
+msgid "Move window to previous workspace"
+msgstr "વિન્ડોને પહેલાની કામ કરવાની જગ્યા પર ખસાડો"
+
+msgid "Move window to right workspace"
+msgstr "વિન્ડોને જમણી કામ કરવાની જગ્યા પર ખસાડો"
+
+msgid "Move window to upper workspace"
+msgstr "વિન્ડોને ઉપરની કામ કરવાની જગ્યાએ લઈ જાવ"
+
+msgid "Next workspace"
+msgstr "પછીની કામ કરવાની જગ્યા"
+
+msgid "Nothing"
+msgstr "કંઈ નથી"
+
+msgid "Previous workspace"
+msgstr "પહેલાની કામ કરવાની જગ્યા"
+
+msgid "Raise window"
+msgstr "વિન્ડો વધારો"
+
+msgid "Restart"
+msgstr "ફરીથી શરુ કરો"
+
+msgid "Right"
+msgstr "જમણુ"
+
+msgid "Right workspace"
+msgstr "જમણી કામ કરવાની જગ્યા"
+
+msgid "S_how"
+msgstr "બતાવો"
+
+msgid "Shade"
+msgstr "પડછાયો"
+
+msgid "Shade window"
+msgstr "વિન્ડોનો પડછાયો કરો"
+
+msgid "Show desktop"
+msgstr "ડેસ્કટોપ બતાવો"
+
+msgid "Stick"
+msgstr "લાકડી"
+
+msgid "Stick window"
+msgstr "સ્ટીક વિન્ડો"
+
+msgid "Title"
+msgstr "શીર્ષક"
+
+msgid "Toggle fullscreen"
+msgstr "પૂર્ણ સ્ક્રીનમાં ફેરવો"
+
+msgid "Upper workspace"
+msgstr "ઉપરની કામ કરવાની જગ્યા"
+
+msgid "Window Manager"
+msgstr "વિન્ડો વ્યવસ્થાપક"
+
+msgid "Workspace %d"
+msgstr "કામ કરવાની જગ્યા %d"
+
+msgid "Workspaces"
+msgstr "કામ કરવાની જગ્યાઓ"
+
+msgid "_Close"
+msgstr "બંધ કરો (_C)"
+
+msgid "_Quit"
+msgstr "બહાર નીકળો (_Q)"
+
+msgid "Always Below Other Windows"
+msgstr "હંમેશા અન્ય વિન્ડોની નીચે"
+
+msgid "Mi_nimize"
+msgstr "ન્યુનતમ કરો"
+
+msgid "Minimize _All Other Windows"
+msgstr "_બધી વિન્ડો મહતમ કરો"
+
+msgid "Move to Another Workspace"
+msgstr "બીજી કામ કરવાની જગ્યા પર જાઓ"
+
+msgid "_Resize"
+msgstr "_વિન્ડોનું મો બદલો"
+
+msgid "Always on Top"
+msgstr "હંમેશા ઉપર"
+
+msgid "Always on Visible Workspace"
+msgstr "હંમેશા દૃશ્યમાન વર્કસ્પેસ પર"
+
+msgid "_Move"
+msgstr "_ખસેડો"
+
+msgid "_Fullscreen"
+msgstr "_મહતમ સ્ક્રીન"
+
+msgid "Roll Window Down"
+msgstr "વિન્ડોને રોલ ડાઉન કરો"
+
+msgid "Roll Window Up"
+msgstr "વિન્ડો રોલ અપ કરો"

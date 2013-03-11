@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: thunar-volman 0.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-01 10:24+0000\n"
+"PO-Revision-Date: 2013-03-08 18:10+0530\n"
+"Last-Translator: Hitesh Piprotar <hiteshpiprotar.ce@gmail.com>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "A USB printer was detected"
+msgstr "USB પ્રિન્ટર ડીટેકટ થયેલ છે"
+
+msgid "A graphics tablet was detected"
+msgstr "ગ્રાફિક્સ ટેબ્લેટ ડીટેકટ થયેલ છે"
+
+msgid "A keyboard was detected"
+msgstr "કીબોર્ડ ડીટેકટ થયેલ છે"
+
+msgid "A mouse was detected"
+msgstr "માઉસ ડીટેકટ થયેલ છે"
+
+msgid "A photo camera was detected"
+msgstr "ફોટો કેમેરા ડીટેકટ થયેલ છે"
+
+msgid "A photo card has been detected"
+msgstr "ફોટો કેમેરા ડીટેકટ થયેલ છે"
+
+msgid "All Files"
+msgstr "બધીજ ફાઈલો"
+
+msgid "All rights reserved."
+msgstr ""
+
+msgid "Audio CDs"
+msgstr "ઓડિયો CDs"
+
+msgid "Audio/Data CD"
+msgstr "ઓડિયો/ડેટા CD"
+
+msgid "Auto-Open Confirmation"
+msgstr ""
+
+msgid "Auto-Open capability detected"
+msgstr ""
+
+msgid "Auto-Run Confirmation"
+msgstr ""
+
+msgid "Auto-Run capability detected"
+msgstr ""
+
+msgid "Auto-open files on new drives and media"
+msgstr ""
+
+msgid "Autoburning of blank CDs and DVDs is disabled"
+msgstr ""
+
+msgid "Automatically run a program when a USB _keyboard is connected"
+msgstr ""
+
+msgid "Automatically run a program when a USB _mouse is connected"
+msgstr ""
+
+msgid "Automatically run a program when a _printer is connected"
+msgstr ""
+
+msgid "Automatically run a program when a _tablet is connected"
+msgstr ""
+
+msgid "B_rowse removable media when inserted"
+msgstr ""
+
+msgid "Blank CD inserted"
+msgstr "ખાલી CD દાખલ થયેલ છે"
+
+msgid "Blank CDs and DVDs"
+msgstr "ખાલી CD/DVDs"
+
+msgid "Blank DVD inserted"
+msgstr "ખાલી DVD દાખલ થયેલ છે"
+
+msgid "Burn _Audio CD"
+msgstr "_ઓડિયો CD લખો"
+
+msgid "Burn _DVD"
+msgstr "_DVD લખો"
+
+msgid "Burn _Data CD"
+msgstr "ડેટા CD લખો"
+
+msgid "CD mounted"
+msgstr "CD માઉન્ટ થયેલ છે"
+
+msgid "C_ommand:"
+msgstr "કમાન્ડ:"
+
+msgid "Camera detected"
+msgstr "કેમેરા ડીટેકટ થયેલ છે"
+
+msgid "Cameras"
+msgstr "કેમેરાઓ"
+
+msgid "Com_mand:"
+msgstr "કમાન્ડ:"
+
+msgid "Command for A_udio CDs:"
+msgstr ""
+
+msgid "Command for _Data CDs:"
+msgstr ""
+
+msgid "Configure management of removable drives and media"
+msgstr ""
+
+msgid "Could not detect the volume corresponding to the device"
+msgstr "ઉપકરણ માટે અનુરૂપ વોલ્યુમ શોધી શકાયું નથી"
+
+msgid "DVD mounted"
+msgstr "DVD માઉન્ટ થયેલ છે"
+
+msgid "Device type not supported"
+msgstr "ઉપકરણ પ્રકાર સુલભ નથી"
+
+msgid "Digital Cameras"
+msgstr "ડીજીટલ કેમેરા"
+
+msgid "Executable Files"
+msgstr "બાયનરી ફાઈલો"
+
+msgid "Failed to open the documentation browser"
+msgstr ""
+
+msgid "Ig_nore"
+msgstr "_અવગણો"
+
+msgid "Import _Photos"
+msgstr "ફોટાઓ ઈમ્પોર્ટ કરો"
+
+msgid "Import digital photographs when connected"
+msgstr "જયારે જોડાણ થાય ત્યારે ડીજીટલ ફોટાઓ ઈમ્પોર્ટ કરો"
+
+msgid "Input Devices"
+msgstr "ઈનપુટ ઉપકરણો"
+
+msgid "Keyboard detected"
+msgstr "કીબોર્ડ ડીટેકટ થયેલ છે"
+
+msgid "Keyboards"
+msgstr "કીબોર્ડો"
+
+msgid "Manage _Music"
+msgstr "_સંગીતો મેનેજ કરો"
+
+msgid "Mice"
+msgstr "માઉસ"
+
+msgid "Mount removable media when _inserted"
+msgstr ""
+
+msgid "Mouse detected"
+msgstr "માઉસ ડીટેકટ થયેલ છે."
+
+msgid "Multimedia"
+msgstr "મલ્ટિમિડીયા"
+
+msgid "Must specify the sysfs path of new devices with --device-added"
+msgstr ""
+
+msgid "PDAs"
+msgstr ""
+
+msgid "Palm™"
+msgstr ""
+
+msgid "Perl Scripts"
+msgstr "પર્લ સ્ક્રીપ્ટ્સ"
+
+msgid "Photo Import"
+msgstr ""
+
+msgid "Photos and Music"
+msgstr ""
+
+msgid "Photos were found on your portable music player"
+msgstr "ફોટા તમારા પોર્ટેબલ મ્યુઝિક પ્લેયર પર મળેલ છે"
+
+msgid "Play _audio CDs when inserted"
+msgstr ""
+
+msgid "Play _music files when connected"
+msgstr ""
+
+msgid "Play _video CDs and DVDs when inserted"
+msgstr ""
+
+msgid "Please report bugs to <%s>."
+msgstr ""
+
+msgid "Pocket PCs"
+msgstr ""
+
+msgid "Portable Music Players"
+msgstr ""
+
+msgid "Print version information and exit"
+msgstr ""
+
+msgid "Printer detected"
+msgstr "પ્રિન્ટર ડીટેકટ થયેલ છે."
+
+msgid "Printers"
+msgstr "પ્રિન્ટરો"
+
+msgid "Python Scripts"
+msgstr ""
+
+msgid "Removable Drives and Media"
+msgstr ""
+
+msgid "Removable Storage"
+msgstr ""
+
+msgid "Ruby Scripts"
+msgstr ""
+
+msgid "Select an Application"
+msgstr ""
+
+msgid "Shell Scripts"
+msgstr ""
+
+msgid "Storage"
+msgstr "સંગ્રાહક"
+
+msgid "Sync Pocket P_C devices when connected"
+msgstr ""
+
+msgid "Sync _Palm™ devices when connected"
+msgstr ""
+
+msgid "Tablet"
+msgstr ""
+
+msgid "Tablet detected"
+msgstr ""
+
+msgid "The CD in the drive contains both music and files"
+msgstr ""
+
+msgid "The CD player command is undefined"
+msgstr ""
+
+msgid "The CD was mounted automatically"
+msgstr "CD આપમેળે માઉન્ટ થયેલ છે."
+
+msgid "The DVD was mounted automatically"
+msgstr "DVD આપમેળે માઉન્ટ થયેલ છે."
+
+msgid "The burn command may not be empty"
+msgstr ""
+
+msgid "The inserted volume was mounted automatically"
+msgstr "શામેલ કરેલ વોલ્યુમ આપોઆપ માઉન્ટ થયુ."
+
+msgid "The syfs path of the newly added device"
+msgstr ""
+
+msgid "The volume \"%s\" was mounted automatically"
+msgstr "વોલ્યુમ \"%s\" આપમેળે માઉન્ટ તઃયેલ છે."
+
+msgid ""
+"There are photos on the card. Would you like to add these photos to your "
+"album?"
+msgstr ""
+
+msgid "There is no device with the sysfs path \"%s\""
+msgstr ""
+
+msgid "Thunar Volume Manager"
+msgstr "થુનાર વોલ્યુમ મેનેજર"
+
+msgid "Thunar Volume Manager Settings"
+msgstr "થુનાર વોલ્યુમ મેનેજર સેટીંગસ"
+
+msgid "Unable to locate mount point"
+msgstr "માઉન્ટ પોઈન્ટ લોકેટ થઇ શકે તેમ નથી."
+
+msgid "Unable to mount the device"
+msgstr "ઉપકરણ માઉન્ટ થઇ શકે તેમ નથી"
+
+msgid "Unknown block device type"
+msgstr ""
+
+msgid "Unsupported USB device type"
+msgstr "USB ઉપકરણનો પ્રકાર સુલભ નથી."
+
+msgid "Unsupported input device type"
+msgstr "ઇનપુટ ઉપકરણનો પ્રકાર સુલભ નથી."
+
+msgid "Video CDs/DVDs"
+msgstr "Video-CDs/DVDs"
+
+msgid "Volume mounted"
+msgstr "વોલ્યુમ માઉન્ટ થયું છે"
+
+msgid "What would you like to do?"
+msgstr ""
+
+msgid "Would you like to allow \"%s\" to run?"
+msgstr ""
+
+msgid "Would you like to import the photos or manage the music?"
+msgstr ""
+
+msgid "Would you like to listen to music or browse the files?"
+msgstr ""
+
+msgid "Would you like to open \"%s\"?"
+msgstr "સું તમે »%s« ખોલવા માગો છો?"
+
+msgid "You have inserted a blank CD."
+msgstr "તમે ખાલી CD દાખલ કરેલ છે."
+
+msgid "You have inserted a blank DVD."
+msgstr "તમે ખાલી DVD દાખલ કરેલ છે."
+
+msgid "_Allow Auto-Run"
+msgstr ""
+
+msgid "_Auto-run programs on new drives and media"
+msgstr ""
+
+msgid "_Browse Files"
+msgstr "_ફાઈલો તપાસો"
+
+msgid "_Burn a CD or DVD when a blank disc is inserted"
+msgstr "જયારે ખાલી ડિસ્ક દાખલ થાય ત્યારે CD અથવા DVD લાખો"
+
+msgid "_Command:"
+msgstr "કમાન્ડ:"
+
+msgid "_Mount removable drives when hot-plugged"
+msgstr ""
+
+msgid "_Open"
+msgstr "_ખોલો"
+
+msgid "_Play CD"
+msgstr "_CD ચાલુ કરો"
