@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Internauta theme
+Description=Ubuntu plymounth theme
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/internauta
+ScriptFile=/lib/plymouth/themes/internauta/mdv.script
